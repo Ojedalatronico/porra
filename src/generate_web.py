@@ -271,6 +271,7 @@ def generate_static_data():
         const appData = {json.dumps(data_json)};
 
         function showSection(id) {{
+            localStorage.setItem('activeSection', id);
             document.getElementById('section-leaderboard').style.display = id === 'leaderboard' ? 'block' : 'none';
             document.getElementById('section-individual').style.display = id === 'individual' ? 'block' : 'none';
             document.getElementById('btn-leaderboard').className = 'nav-btn' + (id === 'leaderboard' ? ' active' : '');
@@ -284,27 +285,26 @@ def generate_static_data():
             tbody.innerHTML = appData.leaderboard.map((row, idx) => `
                 <tr>
                     <td><span class="rank-badge rank-${{idx + 1}}">${{idx + 1}}</span></td>
-                    <td style="font-weight: 600">${{row.Participante}}</td>
-                    <td style="text-align: right; font-weight: 800; color: var(--primary)">${{row.Puntos}}</td>
+                    <td style="font-weight: 600">${{row.Participante}</td>
+                    <td style="text-align: right; font-weight: 800; color: var(--primary)">${{row.Puntos}</td>
                 </tr>
             `).join('');
-        }}
+        }
 
         function initApp() {{
             const select = document.getElementById('user-selector');
             select.innerHTML = '<option value="">Selecciona un participante...</option>' + 
                 appData.participants.map(p => `<option value="${{p}}">${{p}}</option>`).join('');
             
-            // Restore selection from sessionStorage
-            const savedUser = sessionStorage.getItem('selectedParticipant');
+            // Restore selection and section from localStorage
+            const savedSection = localStorage.getItem('activeSection') || 'leaderboard';
+            showSection(savedSection);
+
+            const savedUser = localStorage.getItem('selectedParticipant');
             if (savedUser && appData.participants.includes(savedUser)) {{
                 select.value = savedUser;
                 renderUser();
-                // Optionally switch to individual view if a user was saved
-                showSection('individual');
             }}
-
-            renderLeaderboard();
         }}
 
         function renderUser() {{
@@ -312,11 +312,11 @@ def generate_static_data():
             const container = document.getElementById('user-stats');
             const tbody = document.querySelector('#user-table tbody');
             
-            // Save to sessionStorage
+            // Save to localStorage
             if (name) {{
-                sessionStorage.setItem('selectedParticipant', name);
+                localStorage.setItem('selectedParticipant', name);
             }} else {{
-                sessionStorage.removeItem('selectedParticipant');
+                localStorage.removeItem('selectedParticipant');
             }}
 
             if(!name) {{

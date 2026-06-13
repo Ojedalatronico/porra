@@ -1,14 +1,25 @@
 document.addEventListener('DOMContentLoaded', async () => {
+    console.log("App loading...");
     await loadParticipants();
     
     const savedSection = localStorage.getItem('activeSection') || 'leaderboard';
+    console.log("Restoring section:", savedSection);
     showSection(savedSection);
 
     const savedUser = localStorage.getItem('selectedUser');
     if (savedUser) {
+        console.log("Restoring user:", savedUser);
         const select = document.getElementById('userSelect');
-        select.value = savedUser;
-        loadUserResults();
+        
+        // Wait a tiny bit for the browser to ensure options are selectable
+        setTimeout(() => {
+            if ([...select.options].some(opt => opt.value === savedUser)) {
+                select.value = savedUser;
+                loadUserResults();
+            } else {
+                console.warn("Saved user not found in options:", savedUser);
+            }
+        }, 10);
     }
 });
 
