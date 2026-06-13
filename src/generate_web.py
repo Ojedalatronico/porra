@@ -32,7 +32,7 @@ def generate_static_data():
         "leaderboard": leaderboard,
         "participants": participants,
         "user_results": user_results
-    }
+    }}
 
     # Generate full single HTML file (or separate if preferred, but single is easier/mobile friendly)
     html_template = f"""<!DOCTYPE html>
