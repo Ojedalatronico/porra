@@ -285,8 +285,8 @@ def generate_static_data():
             tbody.innerHTML = appData.leaderboard.map((row, idx) => `
                 <tr>
                     <td><span class="rank-badge rank-${{idx + 1}}">${{idx + 1}}</span></td>
-                    <td style="font-weight: 600">${{row.Participante}</td>
-                    <td style="text-align: right; font-weight: 800; color: var(--primary)">${{row.Puntos}</td>
+                    <td style="font-weight: 600">${{row.Participante}}</td>
+                    <td style="text-align: right; font-weight: 800; color: var(--primary)">${{row.Puntos}}</td>
                 </tr>
             `).join('');
         }
