@@ -1,9 +1,19 @@
-document.addEventListener('DOMContentLoaded', () => {
-    loadLeaderboard();
-    loadParticipants();
+document.addEventListener('DOMContentLoaded', async () => {
+    await loadParticipants();
+    
+    const savedSection = sessionStorage.getItem('activeSection') || 'leaderboard';
+    showSection(savedSection);
+
+    const savedUser = sessionStorage.getItem('selectedUser');
+    if (savedUser) {
+        const select = document.getElementById('userSelect');
+        select.value = savedUser;
+        loadUserResults();
+    }
 });
 
 function showSection(sectionId) {
+    sessionStorage.setItem('activeSection', sectionId);
     document.getElementById('leaderboard').style.display = sectionId === 'leaderboard' ? 'block' : 'none';
     document.getElementById('individual').style.display = sectionId === 'individual' ? 'block' : 'none';
     
@@ -42,7 +52,12 @@ async function loadParticipants() {
 
 async function loadUserResults() {
     const name = document.getElementById('userSelect').value;
-    if (!name) return;
+    if (!name) {
+        sessionStorage.removeItem('selectedUser');
+        return;
+    }
+
+    sessionStorage.setItem('selectedUser', name);
 
     const response = await fetch(`/api/user_results/${encodeURIComponent(name)}`);
     const data = await response.json();
