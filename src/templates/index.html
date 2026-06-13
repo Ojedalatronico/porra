@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Cup 2026 - Leaderboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>🏆 World Cup 2026 Porra</h1>
+        <nav>
+            <button onclick="showSection('leaderboard')">Leaderboard</button>
+            <button onclick="showSection('individual')">Individual Results</button>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Leaderboard Section -->
+        <section id="leaderboard">
+            <h2>📊 Global Leaderboard</h2>
+            <div class="table-container">
+                <table id="leaderboardTable">
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Participant</th>
+                            <th>Total Points</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Data populated by JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Individual Results Section -->
+        <section id="individual" style="display: none;">
+            <h2>👤 Individual Results</h2>
+            <div class="controls">
+                <select id="userSelect" onchange="loadUserResults()">
+                    <option value="">Select a participant...</option>
+                </select>
+                <div id="userSummary" class="summary"></div>
+            </div>
+            
+            <div class="table-container">
+                <table id="resultsTable">
+                    <thead>
+                        <tr>
+                            <th>Phase</th>
+                            <th>Home Team</th>
+                            <th>Score</th>
+                            <th>Away Team</th>
+                            <th>Points</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Data populated by JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
