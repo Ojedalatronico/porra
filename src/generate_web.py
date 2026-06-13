@@ -32,7 +32,7 @@ def generate_static_data():
         "leaderboard": leaderboard,
         "participants": participants,
         "user_results": user_results
-    }}
+    }
 
     # Generate full single HTML file (or separate if preferred, but single is easier/mobile friendly)
     html_template = f"""<!DOCTYPE html>
@@ -289,7 +289,7 @@ def generate_static_data():
                     <td style="text-align: right; font-weight: 800; color: var(--primary)">${{row.Puntos}}</td>
                 </tr>
             `).join('');
-        }
+        }}
 
         function initApp() {{
             const select = document.getElementById('user-selector');
