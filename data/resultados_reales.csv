@@ -5,8 +5,8 @@
 4,REAL_RESULTS,Group,United States,4,1,Paraguay
 5,REAL_RESULTS,Group,Haiti,0,0,Scotland
 6,REAL_RESULTS,Group,Australia,0,0,Turkey
-7,REAL_RESULTS,Group,Brazil,0,0,Morocco
-8,REAL_RESULTS,Group,Qatar,0,0,Switzerland
+7,REAL_RESULTS,Group,Brazil,0,1,Morocco
+8,REAL_RESULTS,Group,Qatar,1,1,Switzerland
 9,REAL_RESULTS,Group,Ivory Coast,0,0,Ecuador
 10,REAL_RESULTS,Group,Germany,0,0,Curaçao
 11,REAL_RESULTS,Group,Netherlands,0,0,Japan
