@@ -34,7 +34,7 @@
 51,REAL_RESULTS,Group,South Africa,0,0,South Korea
 87,REAL_RESULTS,R32,,0,0,
 98,REAL_RESULTS,Qf,,0,0,
-9,REAL_RESULTS,Group,Ivory Coast,0,0,Ecuador
+9,REAL_RESULTS,Group,Ivory Coast,,,Ecuador
 10,REAL_RESULTS,Group,Germany,7,1,Curaçao
 12,REAL_RESULTS,Group,Sweden,0,0,Tunisia
 25,REAL_RESULTS,Group,Mexico,0,0,South Korea
@@ -57,7 +57,7 @@
 96,REAL_RESULTS,R16,,0,0,
 1,REAL_RESULTS,Group,Mexico,2,0,South Africa
 7,REAL_RESULTS,Group,Brazil,1,1,Morocco
-11,REAL_RESULTS,Group,Netherlands,2,1,Japan
+11,REAL_RESULTS,Group,Netherlands,2,2,Japan
 26,REAL_RESULTS,Group,Switzerland,0,0,Bosnia and Herzegovina
 29,REAL_RESULTS,Group,Brazil,0,0,Haiti
 36,REAL_RESULTS,Group,Tunisia,0,0,Japan

@@ -954,7 +954,7 @@
 8,Rafa Venegas,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Rafa Venegas,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
 10,Rafa Venegas,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Rafa Venegas,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Rafa Venegas,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Rafa Venegas,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Rafa Venegas,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Rafa Venegas,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -1059,7 +1059,7 @@
 8,Coque Lahera,Fase de Grupos,Qatar,1,3,Switzerland,0
 9,Coque Lahera,Fase de Grupos,Ivory Coast,2,2,Ecuador,0
 10,Coque Lahera,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Coque Lahera,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Coque Lahera,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Coque Lahera,Fase de Grupos,Sweden,2,2,Tunisia,0
 13,Coque Lahera,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Coque Lahera,Fase de Grupos,Spain,2,0,Cape Verde,0
@@ -1164,7 +1164,7 @@
 8,Álvaro Burgos,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Álvaro Burgos,Fase de Grupos,Ivory Coast,1,3,Ecuador,0
 10,Álvaro Burgos,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Álvaro Burgos,Fase de Grupos,Netherlands,0,0,Japan,0
+11,Álvaro Burgos,Fase de Grupos,Netherlands,0,0,Japan,1
 12,Álvaro Burgos,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Álvaro Burgos,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Álvaro Burgos,Fase de Grupos,Spain,2,1,Cape Verde,0
@@ -1374,7 +1374,7 @@
 8,Kike Basusaga,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Kike Basusaga,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
 10,Kike Basusaga,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Kike Basusaga,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Kike Basusaga,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Kike Basusaga,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Kike Basusaga,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
 14,Kike Basusaga,Fase de Grupos,Spain,5,0,Cape Verde,0
@@ -1479,7 +1479,7 @@
 8,Tamayo,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Tamayo,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
 10,Tamayo,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Tamayo,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Tamayo,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Tamayo,Fase de Grupos,Sweden,1,2,Tunisia,0
 13,Tamayo,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Tamayo,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -1794,7 +1794,7 @@
 8,Jorge Abad,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Jorge Abad,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
 10,Jorge Abad,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Jorge Abad,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Jorge Abad,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Jorge Abad,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Jorge Abad,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Jorge Abad,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -2214,7 +2214,7 @@
 8,Nux,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Nux,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
 10,Nux,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Nux,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Nux,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Nux,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Nux,Fase de Grupos,Saudi Arabia,1,1,Uruguay,0
 14,Nux,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -2420,7 +2420,7 @@
 8,Nooch,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Nooch,Fase de Grupos,Ivory Coast,1,0,Ecuador,0
 10,Nooch,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Nooch,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Nooch,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Nooch,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Nooch,Fase de Grupos,Saudi Arabia,2,2,Uruguay,0
 14,Nooch,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -2525,7 +2525,7 @@
 8,Alberto Crespo,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Alberto Crespo,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
 10,Alberto Crespo,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Alberto Crespo,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Alberto Crespo,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Alberto Crespo,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Alberto Crespo,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Alberto Crespo,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -3890,7 +3890,7 @@
 8,Nico y Aran,Fase de Grupos,Qatar,2,1,Switzerland,0
 9,Nico y Aran,Fase de Grupos,Ivory Coast,0,3,Ecuador,0
 10,Nico y Aran,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Nico y Aran,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Nico y Aran,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Nico y Aran,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Nico y Aran,Fase de Grupos,Saudi Arabia,1,4,Uruguay,0
 14,Nico y Aran,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -4100,7 +4100,7 @@
 8,Miguel Egea,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Miguel Egea,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
 10,Miguel Egea,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Miguel Egea,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Miguel Egea,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Miguel Egea,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Miguel Egea,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Miguel Egea,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -4415,7 +4415,7 @@
 8,DG Soto,Fase de Grupos,Qatar,1,1,Switzerland,3
 9,DG Soto,Fase de Grupos,Ivory Coast,2,1,Ecuador,0
 10,DG Soto,Fase de Grupos,Germany,3,0,Curaçao,1
-11,DG Soto,Fase de Grupos,Netherlands,2,2,Japan,0
+11,DG Soto,Fase de Grupos,Netherlands,2,2,Japan,3
 12,DG Soto,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,DG Soto,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,DG Soto,Fase de Grupos,Spain,2,1,Cape Verde,0
@@ -4625,7 +4625,7 @@
 8,David López,Fase de Grupos,Qatar,1,1,Switzerland,3
 9,David López,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
 10,David López,Fase de Grupos,Germany,5,1,Curaçao,1
-11,David López,Fase de Grupos,Netherlands,1,1,Japan,0
+11,David López,Fase de Grupos,Netherlands,1,1,Japan,1
 12,David López,Fase de Grupos,Sweden,1,2,Tunisia,0
 13,David López,Fase de Grupos,Saudi Arabia,2,2,Uruguay,0
 14,David López,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -4730,7 +4730,7 @@
 8,Diego López,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Diego López,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
 10,Diego López,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Diego López,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Diego López,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Diego López,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Diego López,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Diego López,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -5045,7 +5045,7 @@
 8,Isaac Firgaira,Fase de Grupos,Qatar,1,3,Switzerland,0
 9,Isaac Firgaira,Fase de Grupos,Ivory Coast,3,1,Ecuador,0
 10,Isaac Firgaira,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Isaac Firgaira,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Isaac Firgaira,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Isaac Firgaira,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Isaac Firgaira,Fase de Grupos,Saudi Arabia,1,4,Uruguay,0
 14,Isaac Firgaira,Fase de Grupos,Spain,2,0,Cape Verde,0
@@ -5465,7 +5465,7 @@
 8,José Cobo,Fase de Grupos,Qatar,1,1,Switzerland,3
 9,José Cobo,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
 10,José Cobo,Fase de Grupos,Germany,3,0,Curaçao,1
-11,José Cobo,Fase de Grupos,Netherlands,1,1,Japan,0
+11,José Cobo,Fase de Grupos,Netherlands,1,1,Japan,1
 12,José Cobo,Fase de Grupos,Sweden,0,0,Tunisia,0
 13,José Cobo,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,José Cobo,Fase de Grupos,Spain,2,0,Cape Verde,0
@@ -5570,7 +5570,7 @@
 8,Ángel Cubillo,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Ángel Cubillo,Fase de Grupos,Ivory Coast,2,0,Ecuador,0
 10,Ángel Cubillo,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Ángel Cubillo,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Ángel Cubillo,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Ángel Cubillo,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Ángel Cubillo,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
 14,Ángel Cubillo,Fase de Grupos,Spain,5,0,Cape Verde,0
@@ -5675,7 +5675,7 @@
 8,Roberto Molina,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Roberto Molina,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
 10,Roberto Molina,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Roberto Molina,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Roberto Molina,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Roberto Molina,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Roberto Molina,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Roberto Molina,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -6305,7 +6305,7 @@
 8,Jesús Espinar,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Jesús Espinar,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
 10,Jesús Espinar,Fase de Grupos,Germany,7,0,Curaçao,1
-11,Jesús Espinar,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Jesús Espinar,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Jesús Espinar,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Jesús Espinar,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Jesús Espinar,Fase de Grupos,Spain,5,0,Cape Verde,0
@@ -6515,7 +6515,7 @@
 8,Yuriy,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Yuriy,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
 10,Yuriy,Fase de Grupos,Germany,6,0,Curaçao,1
-11,Yuriy,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Yuriy,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Yuriy,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Yuriy,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Yuriy,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -6935,7 +6935,7 @@
 8,Sergio Valencia,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Sergio Valencia,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
 10,Sergio Valencia,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Sergio Valencia,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Sergio Valencia,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Sergio Valencia,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Sergio Valencia,Fase de Grupos,Saudi Arabia,1,1,Uruguay,0
 14,Sergio Valencia,Fase de Grupos,Spain,2,1,Cape Verde,0
@@ -7040,7 +7040,7 @@
 8,Borjita,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Borjita,Fase de Grupos,Ivory Coast,1,3,Ecuador,0
 10,Borjita,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Borjita,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Borjita,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Borjita,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Borjita,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Borjita,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -8195,7 +8195,7 @@
 8,Iván Mateos,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Iván Mateos,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
 10,Iván Mateos,Fase de Grupos,Germany,3,1,Curaçao,1
-11,Iván Mateos,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Iván Mateos,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Iván Mateos,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Iván Mateos,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Iván Mateos,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -8300,7 +8300,7 @@
 8,Luismi Fernández,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Luismi Fernández,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
 10,Luismi Fernández,Fase de Grupos,Germany,7,1,Curaçao,3
-11,Luismi Fernández,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Luismi Fernández,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Luismi Fernández,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Luismi Fernández,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Luismi Fernández,Fase de Grupos,Spain,6,0,Cape Verde,0
@@ -8615,7 +8615,7 @@
 8,Gonzalo Bravo,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Gonzalo Bravo,Fase de Grupos,Ivory Coast,2,2,Ecuador,0
 10,Gonzalo Bravo,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Gonzalo Bravo,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Gonzalo Bravo,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Gonzalo Bravo,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Gonzalo Bravo,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Gonzalo Bravo,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -8930,7 +8930,7 @@
 8,David Cerisola,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,David Cerisola,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
 10,David Cerisola,Fase de Grupos,Germany,3,0,Curaçao,1
-11,David Cerisola,Fase de Grupos,Netherlands,1,1,Japan,0
+11,David Cerisola,Fase de Grupos,Netherlands,1,1,Japan,1
 12,David Cerisola,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,David Cerisola,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,David Cerisola,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -9350,7 +9350,7 @@
 8,Manu Montejo,Fase de Grupos,Qatar,1,1,Switzerland,3
 9,Manu Montejo,Fase de Grupos,Ivory Coast,2,2,Ecuador,0
 10,Manu Montejo,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Manu Montejo,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Manu Montejo,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Manu Montejo,Fase de Grupos,Sweden,3,0,Tunisia,0
 13,Manu Montejo,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Manu Montejo,Fase de Grupos,Spain,2,1,Cape Verde,0
@@ -9770,7 +9770,7 @@
 8,Dani Galán,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Dani Galán,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
 10,Dani Galán,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Dani Galán,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Dani Galán,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Dani Galán,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Dani Galán,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Dani Galán,Fase de Grupos,Spain,2,0,Cape Verde,0
@@ -10085,7 +10085,7 @@
 8,Jorge Martín,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Jorge Martín,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
 10,Jorge Martín,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Jorge Martín,Fase de Grupos,Netherlands,1,1,Japan,0
+11,Jorge Martín,Fase de Grupos,Netherlands,1,1,Japan,1
 12,Jorge Martín,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Jorge Martín,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Jorge Martín,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -10400,7 +10400,7 @@
 8,Arkaitz,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Arkaitz,Fase de Grupos,Ivory Coast,1,3,Ecuador,0
 10,Arkaitz,Fase de Grupos,Germany,2,0,Curaçao,1
-11,Arkaitz,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Arkaitz,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Arkaitz,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Arkaitz,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
 14,Arkaitz,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -10925,7 +10925,7 @@
 8,Guillermo Aguilar,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Guillermo Aguilar,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
 10,Guillermo Aguilar,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Guillermo Aguilar,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Guillermo Aguilar,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Guillermo Aguilar,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Guillermo Aguilar,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Guillermo Aguilar,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -11748,7 +11748,7 @@
 8,Alexander,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Alexander,Fase de Grupos,Ivory Coast,1,0,Ecuador,0
 10,Alexander,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Alexander,Fase de Grupos,Netherlands,2,2,Japan,0
+11,Alexander,Fase de Grupos,Netherlands,2,2,Japan,3
 12,Alexander,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Alexander,Fase de Grupos,Saudi Arabia,2,2,Uruguay,0
 14,Alexander,Fase de Grupos,Spain,3,0,Cape Verde,0
