@@ -72,7 +72,7 @@
 92,REAL_RESULTS,R16,,0,0,
 94,REAL_RESULTS,R16,,0,0,
 14,REAL_RESULTS,Group,Spain,0,0,Cape Verde
-16,REAL_RESULTS,Group,Saudi Arabia,0,0,Uruguay
+16,REAL_RESULTS,Group,Saudi Arabia,null,null,Uruguay
 20,REAL_RESULTS,Group,Austria,0,0,Jordan
 23,REAL_RESULTS,Group,Uzbekistan,0,0,Colombia
 91,REAL_RESULTS,R16,,0,0,
@@ -91,7 +91,7 @@
 74,REAL_RESULTS,R32,,0,0,
 81,REAL_RESULTS,R32,,0,0,
 103,REAL_RESULTS,Third,,0,0,
-15,REAL_RESULTS,Group,Belgium,0,0,Egypt
+15,REAL_RESULTS,Group,Belgium,1,1,Egypt
 34,REAL_RESULTS,Group,Ecuador,0,0,Curaçao
 54,REAL_RESULTS,Group,Switzerland,0,0,Canada
 57,REAL_RESULTS,Group,Paraguay,0,0,Australia
