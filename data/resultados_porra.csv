@@ -1,16 +1,16 @@
 ﻿ID,Participante,Tipo,Equipo_Local,Goles_Local,Goles_Visitante,Equipo_Visitante,Puntos
-1,Ales y Adri,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Ales y Adri,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Ales y Adri,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Ales y Adri,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Ales y Adri,Fase de Grupos,United States,2,0,Paraguay,1
+4,Ales y Adri,Fase de Grupos,United States,2,0,Paraguay,0
 5,Ales y Adri,Fase de Grupos,Haiti,1,1,Scotland,0
-6,Ales y Adri,Fase de Grupos,Australia,2,1,Turkey,1
+6,Ales y Adri,Fase de Grupos,Australia,2,1,Turkey,0
 7,Ales y Adri,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Ales y Adri,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Ales y Adri,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Ales y Adri,Fase de Grupos,Germany,2,0,Curaçao,1
+10,Ales y Adri,Fase de Grupos,Germany,2,0,Curaçao,0
 11,Ales y Adri,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Ales y Adri,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Ales y Adri,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Ales y Adri,Fase de Grupos,Saudi Arabia,0,0,Uruguay,0
 14,Ales y Adri,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Ales y Adri,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -104,16 +104,16 @@
 103,Ales y Adri,Semi-Finals,Spain,1,0,Argentina,0
 104,Ales y Adri,Semi-Finals,France,0,1,Brazil,0
 105,Ales y Adri,Final,Spain,1,0,Argentina,0
-1,Sandra,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Sandra,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Sandra,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Sandra,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
 4,Sandra,Fase de Grupos,United States,0,2,Paraguay,0
-5,Sandra,Fase de Grupos,Haiti,0,4,Scotland,1
+5,Sandra,Fase de Grupos,Haiti,0,4,Scotland,0
 6,Sandra,Fase de Grupos,Australia,2,3,Turkey,0
-7,Sandra,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Sandra,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Sandra,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Sandra,Fase de Grupos,Ivory Coast,0,0,Ecuador,0
-10,Sandra,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Sandra,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Sandra,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Sandra,Fase de Grupos,Sweden,1,2,Tunisia,0
 13,Sandra,Fase de Grupos,Saudi Arabia,2,2,Uruguay,0
@@ -209,18 +209,18 @@
 103,Sandra,Semi-Finals,Spain,4,3,Croatia,0
 104,Sandra,Semi-Finals,Germany,0,0,Switzerland,0
 105,Sandra,Final,Spain,4,3,Croatia,0
-1,Gerardo,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Gerardo,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Gerardo,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Gerardo,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Gerardo,Fase de Grupos,United States,2,0,Paraguay,1
-5,Gerardo,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Gerardo,Fase de Grupos,United States,2,0,Paraguay,0
+5,Gerardo,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Gerardo,Fase de Grupos,Australia,1,2,Turkey,0
 7,Gerardo,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Gerardo,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Gerardo,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Gerardo,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Gerardo,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Gerardo,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Gerardo,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Gerardo,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Gerardo,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Gerardo,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Gerardo,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -314,16 +314,16 @@
 103,Gerardo,Semi-Finals,Spain,1,1,Argentina,0
 104,Gerardo,Semi-Finals,France,2,1,Brazil,0
 105,Gerardo,Final,Spain,1,1,Argentina,0
-1,Fernando Pérez,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Fernando Pérez,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Fernando Pérez,Fase de Grupos,Korea Republic,2,2,Czech Republic,0
 3,Fernando Pérez,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Fernando Pérez,Fase de Grupos,United States,2,1,Paraguay,1
-5,Fernando Pérez,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Fernando Pérez,Fase de Grupos,United States,2,1,Paraguay,0
+5,Fernando Pérez,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Fernando Pérez,Fase de Grupos,Australia,2,2,Turkey,0
 7,Fernando Pérez,Fase de Grupos,Brazil,3,2,Morocco,0
 8,Fernando Pérez,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Fernando Pérez,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Fernando Pérez,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Fernando Pérez,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Fernando Pérez,Fase de Grupos,Netherlands,3,1,Japan,0
 12,Fernando Pérez,Fase de Grupos,Sweden,2,2,Tunisia,0
 13,Fernando Pérez,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
@@ -419,18 +419,18 @@
 103,Fernando Pérez,Semi-Finals,Spain,1,0,England,0
 104,Fernando Pérez,Semi-Finals,France,2,3,Portugal,0
 105,Fernando Pérez,Final,Spain,1,0,England,0
-1,Bea Oppici,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Bea Oppici,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Bea Oppici,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
-3,Bea Oppici,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
+3,Bea Oppici,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
 4,Bea Oppici,Fase de Grupos,United States,1,1,Paraguay,0
-5,Bea Oppici,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Bea Oppici,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Bea Oppici,Fase de Grupos,Australia,1,2,Turkey,0
 7,Bea Oppici,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Bea Oppici,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Bea Oppici,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Bea Oppici,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Bea Oppici,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Bea Oppici,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Bea Oppici,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Bea Oppici,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Bea Oppici,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Bea Oppici,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Bea Oppici,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -524,16 +524,16 @@
 103,Bea Oppici,Semi-Finals,France,2,1,Brazil,0
 104,Bea Oppici,Semi-Finals,Spain,3,2,Argentina,0
 105,Bea Oppici,Final,France,2,1,Brazil,0
-1,Coe,Fase de Grupos,Mexico,1,0,South Africa,1
+1,Coe,Fase de Grupos,Mexico,1,0,South Africa,0
 2,Coe,Fase de Grupos,Korea Republic,0,0,Czech Republic,0
 3,Coe,Fase de Grupos,Canada,3,1,Bosnia and Herzegovina,0
 4,Coe,Fase de Grupos,United States,1,1,Paraguay,0
-5,Coe,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Coe,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Coe,Fase de Grupos,Australia,2,2,Turkey,0
 7,Coe,Fase de Grupos,Brazil,4,2,Morocco,0
 8,Coe,Fase de Grupos,Qatar,1,0,Switzerland,0
 9,Coe,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Coe,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Coe,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Coe,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Coe,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Coe,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
@@ -629,18 +629,18 @@
 103,Coe,Semi-Finals,Spain,2,1,Argentina,0
 104,Coe,Semi-Finals,France,2,1,Brazil,0
 105,Coe,Final,Spain,2,1,Argentina,0
-1,Marco Rodríguez,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Marco Rodríguez,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Marco Rodríguez,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Marco Rodríguez,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Marco Rodríguez,Fase de Grupos,United States,1,0,Paraguay,1
-5,Marco Rodríguez,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Marco Rodríguez,Fase de Grupos,United States,1,0,Paraguay,0
+5,Marco Rodríguez,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Marco Rodríguez,Fase de Grupos,Australia,0,1,Turkey,0
 7,Marco Rodríguez,Fase de Grupos,Brazil,2,3,Morocco,0
-8,Marco Rodríguez,Fase de Grupos,Qatar,0,0,Switzerland,1
+8,Marco Rodríguez,Fase de Grupos,Qatar,0,0,Switzerland,0
 9,Marco Rodríguez,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Marco Rodríguez,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Marco Rodríguez,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Marco Rodríguez,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Marco Rodríguez,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Marco Rodríguez,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Marco Rodríguez,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Marco Rodríguez,Fase de Grupos,Spain,7,0,Cape Verde,0
 15,Marco Rodríguez,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -734,16 +734,16 @@
 103,Marco Rodríguez,Semi-Finals,Spain,2,1,Portugal,0
 104,Marco Rodríguez,Semi-Finals,France,3,1,Croatia,0
 105,Marco Rodríguez,Final,Spain,2,1,Portugal,0
-1,Roberto Portero,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Roberto Portero,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Roberto Portero,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Roberto Portero,Fase de Grupos,Canada,1,2,Bosnia and Herzegovina,0
 4,Roberto Portero,Fase de Grupos,United States,0,1,Paraguay,0
-5,Roberto Portero,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Roberto Portero,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Roberto Portero,Fase de Grupos,Australia,1,4,Turkey,0
 7,Roberto Portero,Fase de Grupos,Brazil,2,0,Morocco,0
 8,Roberto Portero,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Roberto Portero,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Roberto Portero,Fase de Grupos,Germany,7,0,Curaçao,1
+10,Roberto Portero,Fase de Grupos,Germany,7,0,Curaçao,0
 11,Roberto Portero,Fase de Grupos,Netherlands,3,1,Japan,0
 12,Roberto Portero,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Roberto Portero,Fase de Grupos,Saudi Arabia,2,2,Uruguay,0
@@ -839,18 +839,18 @@
 103,Roberto Portero,Semi-Finals,Spain,1,1,Portugal,0
 104,Roberto Portero,Semi-Finals,France,3,1,Brazil,0
 105,Roberto Portero,Final,Spain,1,1,Portugal,0
-1,Sergio Crespo,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Sergio Crespo,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Sergio Crespo,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Sergio Crespo,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Sergio Crespo,Fase de Grupos,United States,2,1,Paraguay,1
-5,Sergio Crespo,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Sergio Crespo,Fase de Grupos,United States,2,1,Paraguay,0
+5,Sergio Crespo,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Sergio Crespo,Fase de Grupos,Australia,1,1,Turkey,0
 7,Sergio Crespo,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Sergio Crespo,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Sergio Crespo,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Sergio Crespo,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Sergio Crespo,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Sergio Crespo,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Sergio Crespo,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Sergio Crespo,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Sergio Crespo,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Sergio Crespo,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Sergio Crespo,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -944,18 +944,18 @@
 103,Sergio Crespo,Semi-Finals,Spain,0,1,England,0
 104,Sergio Crespo,Semi-Finals,France,1,0,Argentina,0
 105,Sergio Crespo,Final,Spain,0,1,England,0
-1,Rafa Venegas,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Rafa Venegas,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Rafa Venegas,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Rafa Venegas,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Rafa Venegas,Fase de Grupos,United States,0,1,Paraguay,0
-5,Rafa Venegas,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Rafa Venegas,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Rafa Venegas,Fase de Grupos,Australia,1,3,Turkey,0
 7,Rafa Venegas,Fase de Grupos,Brazil,1,2,Morocco,0
 8,Rafa Venegas,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Rafa Venegas,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Rafa Venegas,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Rafa Venegas,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Rafa Venegas,Fase de Grupos,Sweden,1,0,Tunisia,1
+10,Rafa Venegas,Fase de Grupos,Germany,4,0,Curaçao,0
+11,Rafa Venegas,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Rafa Venegas,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Rafa Venegas,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Rafa Venegas,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Rafa Venegas,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -1049,17 +1049,17 @@
 103,Rafa Venegas,Semi-Finals,France,0,1,Portugal,0
 104,Rafa Venegas,Semi-Finals,Spain,1,0,Mexico,0
 105,Rafa Venegas,Final,France,0,1,Portugal,0
-1,Coque Lahera,Fase de Grupos,Mexico,3,1,South Africa,1
+1,Coque Lahera,Fase de Grupos,Mexico,3,1,South Africa,0
 2,Coque Lahera,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Coque Lahera,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
 4,Coque Lahera,Fase de Grupos,United States,0,2,Paraguay,0
-5,Coque Lahera,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Coque Lahera,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Coque Lahera,Fase de Grupos,Australia,1,2,Turkey,0
 7,Coque Lahera,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Coque Lahera,Fase de Grupos,Qatar,1,3,Switzerland,0
 9,Coque Lahera,Fase de Grupos,Ivory Coast,2,2,Ecuador,0
-10,Coque Lahera,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Coque Lahera,Fase de Grupos,Netherlands,2,2,Japan,3
+10,Coque Lahera,Fase de Grupos,Germany,3,0,Curaçao,0
+11,Coque Lahera,Fase de Grupos,Netherlands,2,2,Japan,0
 12,Coque Lahera,Fase de Grupos,Sweden,2,2,Tunisia,0
 13,Coque Lahera,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Coque Lahera,Fase de Grupos,Spain,2,0,Cape Verde,0
@@ -1154,18 +1154,18 @@
 103,Coque Lahera,Semi-Finals,Spain,1,0,Argentina,0
 104,Coque Lahera,Semi-Finals,Germany,0,1,Brazil,0
 105,Coque Lahera,Final,Spain,1,0,Argentina,0
-1,Álvaro Burgos,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Álvaro Burgos,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Álvaro Burgos,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Álvaro Burgos,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Álvaro Burgos,Fase de Grupos,United States,1,0,Paraguay,1
-5,Álvaro Burgos,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Álvaro Burgos,Fase de Grupos,United States,1,0,Paraguay,0
+5,Álvaro Burgos,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Álvaro Burgos,Fase de Grupos,Australia,1,2,Turkey,0
-7,Álvaro Burgos,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Álvaro Burgos,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Álvaro Burgos,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Álvaro Burgos,Fase de Grupos,Ivory Coast,1,3,Ecuador,0
-10,Álvaro Burgos,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Álvaro Burgos,Fase de Grupos,Netherlands,0,0,Japan,1
-12,Álvaro Burgos,Fase de Grupos,Sweden,1,0,Tunisia,1
+10,Álvaro Burgos,Fase de Grupos,Germany,4,0,Curaçao,0
+11,Álvaro Burgos,Fase de Grupos,Netherlands,0,0,Japan,0
+12,Álvaro Burgos,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Álvaro Burgos,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Álvaro Burgos,Fase de Grupos,Spain,2,1,Cape Verde,0
 15,Álvaro Burgos,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -1259,18 +1259,18 @@
 103,Álvaro Burgos,Semi-Finals,France,1,0,Brazil,0
 104,Álvaro Burgos,Semi-Finals,Spain,0,1,Argentina,0
 105,Álvaro Burgos,Final,France,1,0,Brazil,0
-1,Vanessa,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Vanessa,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Vanessa,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Vanessa,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Vanessa,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Vanessa,Fase de Grupos,United States,2,1,Paraguay,1
-5,Vanessa,Fase de Grupos,Haiti,0,1,Scotland,3
+4,Vanessa,Fase de Grupos,United States,2,1,Paraguay,0
+5,Vanessa,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Vanessa,Fase de Grupos,Australia,0,3,Turkey,0
-7,Vanessa,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Vanessa,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Vanessa,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Vanessa,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Vanessa,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Vanessa,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Vanessa,Fase de Grupos,Netherlands,3,2,Japan,0
-12,Vanessa,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Vanessa,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Vanessa,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Vanessa,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Vanessa,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -1364,18 +1364,18 @@
 103,Vanessa,Semi-Finals,Spain,1,1,Argentina,0
 104,Vanessa,Semi-Finals,Brazil,3,1,Croatia,0
 105,Vanessa,Final,Spain,1,1,Argentina,0
-1,Kike Basusaga,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Kike Basusaga,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Kike Basusaga,Fase de Grupos,Korea Republic,2,2,Czech Republic,0
 3,Kike Basusaga,Fase de Grupos,Canada,3,0,Bosnia and Herzegovina,0
-4,Kike Basusaga,Fase de Grupos,United States,1,0,Paraguay,1
-5,Kike Basusaga,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Kike Basusaga,Fase de Grupos,United States,1,0,Paraguay,0
+5,Kike Basusaga,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Kike Basusaga,Fase de Grupos,Australia,0,2,Turkey,0
 7,Kike Basusaga,Fase de Grupos,Brazil,3,2,Morocco,0
 8,Kike Basusaga,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Kike Basusaga,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Kike Basusaga,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Kike Basusaga,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Kike Basusaga,Fase de Grupos,Sweden,1,0,Tunisia,1
+10,Kike Basusaga,Fase de Grupos,Germany,5,0,Curaçao,0
+11,Kike Basusaga,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Kike Basusaga,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Kike Basusaga,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
 14,Kike Basusaga,Fase de Grupos,Spain,5,0,Cape Verde,0
 15,Kike Basusaga,Fase de Grupos,Iran,1,2,New Zealand,0
@@ -1470,16 +1470,16 @@
 104,Kike Basusaga,Semi-Finals,Germany,2,2,Brazil,0
 105,Kike Basusaga,Final,Spain,3,2,Argentina,0
 1,Tamayo,Fase de Grupos,Mexico,2,2,South Africa,0
-2,Tamayo,Fase de Grupos,Korea Republic,2,0,Czech Republic,1
-3,Tamayo,Fase de Grupos,Canada,2,2,Bosnia and Herzegovina,1
+2,Tamayo,Fase de Grupos,Korea Republic,2,0,Czech Republic,0
+3,Tamayo,Fase de Grupos,Canada,2,2,Bosnia and Herzegovina,0
 4,Tamayo,Fase de Grupos,United States,2,2,Paraguay,0
-5,Tamayo,Fase de Grupos,Haiti,0,1,Scotland,3
+5,Tamayo,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Tamayo,Fase de Grupos,Australia,0,3,Turkey,0
 7,Tamayo,Fase de Grupos,Brazil,3,1,Morocco,0
 8,Tamayo,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Tamayo,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Tamayo,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Tamayo,Fase de Grupos,Netherlands,2,2,Japan,3
+10,Tamayo,Fase de Grupos,Germany,3,0,Curaçao,0
+11,Tamayo,Fase de Grupos,Netherlands,2,2,Japan,0
 12,Tamayo,Fase de Grupos,Sweden,1,2,Tunisia,0
 13,Tamayo,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Tamayo,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -1574,16 +1574,16 @@
 103,Tamayo,Semi-Finals,Spain,1,0,Portugal,0
 104,Tamayo,Semi-Finals,France,1,0,England,0
 105,Tamayo,Final,Spain,1,0,Portugal,0
-1,Mani,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Mani,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Mani,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Mani,Fase de Grupos,Canada,0,3,Bosnia and Herzegovina,0
 4,Mani,Fase de Grupos,United States,0,0,Paraguay,0
-5,Mani,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Mani,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Mani,Fase de Grupos,Australia,1,2,Turkey,0
 7,Mani,Fase de Grupos,Brazil,1,0,Morocco,0
 8,Mani,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Mani,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Mani,Fase de Grupos,Germany,8,0,Curaçao,1
+10,Mani,Fase de Grupos,Germany,8,0,Curaçao,0
 11,Mani,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Mani,Fase de Grupos,Sweden,0,2,Tunisia,0
 13,Mani,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
@@ -1679,18 +1679,18 @@
 103,Mani,Semi-Finals,Spain,1,0,Portugal,0
 104,Mani,Semi-Finals,France,1,0,Brazil,0
 105,Mani,Final,Spain,1,0,Portugal,0
-1,Pedro Lahera,Fase de Grupos,Mexico,3,1,South Africa,1
-2,Pedro Lahera,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Pedro Lahera,Fase de Grupos,Mexico,3,1,South Africa,0
+2,Pedro Lahera,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Pedro Lahera,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Pedro Lahera,Fase de Grupos,United States,2,0,Paraguay,1
-5,Pedro Lahera,Fase de Grupos,Haiti,1,2,Scotland,1
+4,Pedro Lahera,Fase de Grupos,United States,2,0,Paraguay,0
+5,Pedro Lahera,Fase de Grupos,Haiti,1,2,Scotland,0
 6,Pedro Lahera,Fase de Grupos,Australia,1,2,Turkey,0
 7,Pedro Lahera,Fase de Grupos,Brazil,3,1,Morocco,0
 8,Pedro Lahera,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Pedro Lahera,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Pedro Lahera,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Pedro Lahera,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Pedro Lahera,Fase de Grupos,Netherlands,3,1,Japan,0
-12,Pedro Lahera,Fase de Grupos,Sweden,2,1,Tunisia,1
+12,Pedro Lahera,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Pedro Lahera,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Pedro Lahera,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Pedro Lahera,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -1784,18 +1784,18 @@
 103,Pedro Lahera,Semi-Finals,Spain,1,0,Argentina,0
 104,Pedro Lahera,Semi-Finals,France,1,0,Mexico,0
 105,Pedro Lahera,Final,Spain,1,0,Argentina,0
-1,Jorge Abad,Fase de Grupos,Mexico,3,1,South Africa,1
+1,Jorge Abad,Fase de Grupos,Mexico,3,1,South Africa,0
 2,Jorge Abad,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Jorge Abad,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
-4,Jorge Abad,Fase de Grupos,United States,2,1,Paraguay,1
-5,Jorge Abad,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Jorge Abad,Fase de Grupos,United States,2,1,Paraguay,0
+5,Jorge Abad,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Jorge Abad,Fase de Grupos,Australia,0,2,Turkey,0
 7,Jorge Abad,Fase de Grupos,Brazil,3,1,Morocco,0
 8,Jorge Abad,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Jorge Abad,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Jorge Abad,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Jorge Abad,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Jorge Abad,Fase de Grupos,Sweden,2,1,Tunisia,1
+10,Jorge Abad,Fase de Grupos,Germany,4,0,Curaçao,0
+11,Jorge Abad,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Jorge Abad,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Jorge Abad,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Jorge Abad,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Jorge Abad,Fase de Grupos,Iran,1,2,New Zealand,0
@@ -1889,18 +1889,18 @@
 103,Jorge Abad,Semi-Finals,France,1,2,Portugal,0
 104,Jorge Abad,Semi-Finals,Spain,1,2,England,0
 105,Jorge Abad,Final,France,1,2,Portugal,0
-1,Baz,Fase de Grupos,Mexico,3,1,South Africa,1
+1,Baz,Fase de Grupos,Mexico,3,1,South Africa,0
 2,Baz,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Baz,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Baz,Fase de Grupos,United States,1,0,Paraguay,1
-5,Baz,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Baz,Fase de Grupos,United States,1,0,Paraguay,0
+5,Baz,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Baz,Fase de Grupos,Australia,1,2,Turkey,0
-7,Baz,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Baz,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Baz,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Baz,Fase de Grupos,Ivory Coast,0,0,Ecuador,0
-10,Baz,Fase de Grupos,Germany,2,0,Curaçao,1
+10,Baz,Fase de Grupos,Germany,2,0,Curaçao,0
 11,Baz,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Baz,Fase de Grupos,Sweden,2,1,Tunisia,1
+12,Baz,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Baz,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Baz,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Baz,Fase de Grupos,Iran,0,1,New Zealand,0
@@ -1994,16 +1994,16 @@
 103,Baz,Semi-Finals,Spain,2,0,England,0
 104,Baz,Semi-Finals,France,2,2,Portugal,0
 105,Baz,Final,Spain,2,0,England,0
-1,Adrián Escalonilla,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Adrián Escalonilla,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Adrián Escalonilla,Fase de Grupos,Korea Republic,0,0,Czech Republic,0
 3,Adrián Escalonilla,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Adrián Escalonilla,Fase de Grupos,United States,1,1,Paraguay,0
-5,Adrián Escalonilla,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Adrián Escalonilla,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Adrián Escalonilla,Fase de Grupos,Australia,1,3,Turkey,0
 7,Adrián Escalonilla,Fase de Grupos,Brazil,2,0,Morocco,0
 8,Adrián Escalonilla,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Adrián Escalonilla,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Adrián Escalonilla,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Adrián Escalonilla,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Adrián Escalonilla,Fase de Grupos,Netherlands,1,2,Japan,0
 12,Adrián Escalonilla,Fase de Grupos,Sweden,0,0,Tunisia,0
 13,Adrián Escalonilla,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -2099,16 +2099,16 @@
 103,Adrián Escalonilla,Semi-Finals,Spain,1,0,Portugal,0
 104,Adrián Escalonilla,Semi-Finals,France,1,0,Brazil,0
 105,Adrián Escalonilla,Final,Spain,1,0,Portugal,0
-1,Steven Nucera,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Steven Nucera,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Steven Nucera,Fase de Grupos,Korea Republic,0,2,Czech Republic,0
-3,Steven Nucera,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Steven Nucera,Fase de Grupos,United States,3,0,Paraguay,1
-5,Steven Nucera,Fase de Grupos,Haiti,0,1,Scotland,3
+3,Steven Nucera,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Steven Nucera,Fase de Grupos,United States,3,0,Paraguay,0
+5,Steven Nucera,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Steven Nucera,Fase de Grupos,Australia,1,1,Turkey,0
 7,Steven Nucera,Fase de Grupos,Brazil,4,1,Morocco,0
 8,Steven Nucera,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Steven Nucera,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Steven Nucera,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Steven Nucera,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Steven Nucera,Fase de Grupos,Netherlands,3,2,Japan,0
 12,Steven Nucera,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Steven Nucera,Fase de Grupos,Saudi Arabia,1,1,Uruguay,0
@@ -2204,18 +2204,18 @@
 103,Steven Nucera,Semi-Finals,France,1,0,Argentina,0
 104,Steven Nucera,Semi-Finals,Spain,1,0,England,0
 105,Steven Nucera,Final,France,1,0,Argentina,0
-1,Nux,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Nux,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Nux,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Nux,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Nux,Fase de Grupos,United States,3,0,Paraguay,1
-5,Nux,Fase de Grupos,Haiti,0,1,Scotland,3
+4,Nux,Fase de Grupos,United States,3,0,Paraguay,0
+5,Nux,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Nux,Fase de Grupos,Australia,0,1,Turkey,0
 7,Nux,Fase de Grupos,Brazil,4,1,Morocco,0
 8,Nux,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Nux,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Nux,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Nux,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Nux,Fase de Grupos,Sweden,1,0,Tunisia,1
+10,Nux,Fase de Grupos,Germany,4,0,Curaçao,0
+11,Nux,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Nux,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Nux,Fase de Grupos,Saudi Arabia,1,1,Uruguay,0
 14,Nux,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Nux,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -2311,16 +2311,16 @@
 105,Nux,Final,France,1,0,Brazil,0
 1,Rafa Martín,Fase de Grupos,Mexico,1,2,South Africa,0
 2,Rafa Martín,Fase de Grupos,Korea Republic,0,3,Czech Republic,0
-3,Rafa Martín,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Rafa Martín,Fase de Grupos,United States,2,1,Paraguay,1
-5,Rafa Martín,Fase de Grupos,Haiti,0,1,Scotland,3
-6,Rafa Martín,Fase de Grupos,Australia,2,1,Turkey,1
+3,Rafa Martín,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Rafa Martín,Fase de Grupos,United States,2,1,Paraguay,0
+5,Rafa Martín,Fase de Grupos,Haiti,0,1,Scotland,0
+6,Rafa Martín,Fase de Grupos,Australia,2,1,Turkey,0
 7,Rafa Martín,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Rafa Martín,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Rafa Martín,Fase de Grupos,Ivory Coast,0,3,Ecuador,0
-10,Rafa Martín,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Rafa Martín,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Rafa Martín,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Rafa Martín,Fase de Grupos,Sweden,3,0,Tunisia,1
+12,Rafa Martín,Fase de Grupos,Sweden,3,0,Tunisia,0
 13,Rafa Martín,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Rafa Martín,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Rafa Martín,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -2411,16 +2411,16 @@
 100,Rafa Martín,Semi-Finals,Germany,0,1,Argentina,0
 101,Rafa Martín,Final,Spain,2,0,1C,0
 1,Nooch,Fase de Grupos,Mexico,1,1,South Africa,0
-2,Nooch,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
-3,Nooch,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Nooch,Fase de Grupos,United States,2,1,Paraguay,1
-5,Nooch,Fase de Grupos,Haiti,0,1,Scotland,3
+2,Nooch,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
+3,Nooch,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Nooch,Fase de Grupos,United States,2,1,Paraguay,0
+5,Nooch,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Nooch,Fase de Grupos,Australia,1,3,Turkey,0
 7,Nooch,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Nooch,Fase de Grupos,Qatar,0,2,Switzerland,0
-9,Nooch,Fase de Grupos,Ivory Coast,1,0,Ecuador,3
-10,Nooch,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Nooch,Fase de Grupos,Netherlands,2,2,Japan,3
+9,Nooch,Fase de Grupos,Ivory Coast,1,0,Ecuador,0
+10,Nooch,Fase de Grupos,Germany,3,0,Curaçao,0
+11,Nooch,Fase de Grupos,Netherlands,2,2,Japan,0
 12,Nooch,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Nooch,Fase de Grupos,Saudi Arabia,2,2,Uruguay,0
 14,Nooch,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -2515,18 +2515,18 @@
 103,Nooch,Semi-Finals,Netherlands,1,0,Portugal,0
 104,Nooch,Semi-Finals,Spain,0,1,Brazil,0
 105,Nooch,Final,Netherlands,1,0,Portugal,0
-1,Alberto Crespo,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Alberto Crespo,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Alberto Crespo,Fase de Grupos,Korea Republic,2,2,Czech Republic,0
 3,Alberto Crespo,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
 4,Alberto Crespo,Fase de Grupos,United States,1,1,Paraguay,0
-5,Alberto Crespo,Fase de Grupos,Haiti,1,3,Scotland,1
+5,Alberto Crespo,Fase de Grupos,Haiti,1,3,Scotland,0
 6,Alberto Crespo,Fase de Grupos,Australia,1,2,Turkey,0
 7,Alberto Crespo,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Alberto Crespo,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Alberto Crespo,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Alberto Crespo,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Alberto Crespo,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Alberto Crespo,Fase de Grupos,Sweden,2,1,Tunisia,1
+10,Alberto Crespo,Fase de Grupos,Germany,4,0,Curaçao,0
+11,Alberto Crespo,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Alberto Crespo,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Alberto Crespo,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Alberto Crespo,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Alberto Crespo,Fase de Grupos,Iran,0,2,New Zealand,0
@@ -2620,16 +2620,16 @@
 103,Alberto Crespo,Semi-Finals,Spain,2,2,Argentina,0
 104,Alberto Crespo,Semi-Finals,France,3,1,Brazil,0
 105,Alberto Crespo,Final,Spain,2,2,Argentina,0
-1,Pablo López,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Pablo López,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
-3,Pablo López,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Pablo López,Fase de Grupos,United States,2,1,Paraguay,1
-5,Pablo López,Fase de Grupos,Haiti,0,2,Scotland,1
+1,Pablo López,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Pablo López,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
+3,Pablo López,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Pablo López,Fase de Grupos,United States,2,1,Paraguay,0
+5,Pablo López,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Pablo López,Fase de Grupos,Australia,1,1,Turkey,0
 7,Pablo López,Fase de Grupos,Brazil,3,0,Morocco,0
 8,Pablo López,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Pablo López,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Pablo López,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Pablo López,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Pablo López,Fase de Grupos,Netherlands,2,0,Japan,0
 12,Pablo López,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Pablo López,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -2725,18 +2725,18 @@
 103,Pablo López,Semi-Finals,Spain,1,0,Argentina,0
 104,Pablo López,Semi-Finals,France,,,Brazil,0
 105,Pablo López,Final,Spain,1,0,Argentina,0
-1,Raúl Aragonés,Fase de Grupos,Mexico,3,0,South Africa,1
+1,Raúl Aragonés,Fase de Grupos,Mexico,3,0,South Africa,0
 2,Raúl Aragonés,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Raúl Aragonés,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Raúl Aragonés,Fase de Grupos,United States,2,1,Paraguay,1
-5,Raúl Aragonés,Fase de Grupos,Haiti,0,2,Scotland,1
+3,Raúl Aragonés,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Raúl Aragonés,Fase de Grupos,United States,2,1,Paraguay,0
+5,Raúl Aragonés,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Raúl Aragonés,Fase de Grupos,Australia,1,2,Turkey,0
 7,Raúl Aragonés,Fase de Grupos,Brazil,3,2,Morocco,0
 8,Raúl Aragonés,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Raúl Aragonés,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Raúl Aragonés,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Raúl Aragonés,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Raúl Aragonés,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Raúl Aragonés,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Raúl Aragonés,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Raúl Aragonés,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Raúl Aragonés,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Raúl Aragonés,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -2830,18 +2830,18 @@
 103,Raúl Aragonés,Semi-Finals,Spain,1,0,Portugal,0
 104,Raúl Aragonés,Semi-Finals,France,1,0,England,0
 105,Raúl Aragonés,Final,Spain,1,0,Portugal,0
-1,Iván Valencia,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Iván Valencia,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Iván Valencia,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Iván Valencia,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
-4,Iván Valencia,Fase de Grupos,United States,2,1,Paraguay,1
-5,Iván Valencia,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Iván Valencia,Fase de Grupos,United States,2,1,Paraguay,0
+5,Iván Valencia,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Iván Valencia,Fase de Grupos,Australia,1,2,Turkey,0
-7,Iván Valencia,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Iván Valencia,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Iván Valencia,Fase de Grupos,Qatar,0,1,Switzerland,0
-9,Iván Valencia,Fase de Grupos,Ivory Coast,2,0,Ecuador,1
-10,Iván Valencia,Fase de Grupos,Germany,6,0,Curaçao,1
+9,Iván Valencia,Fase de Grupos,Ivory Coast,2,0,Ecuador,0
+10,Iván Valencia,Fase de Grupos,Germany,6,0,Curaçao,0
 11,Iván Valencia,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Iván Valencia,Fase de Grupos,Sweden,3,0,Tunisia,1
+12,Iván Valencia,Fase de Grupos,Sweden,3,0,Tunisia,0
 13,Iván Valencia,Fase de Grupos,Saudi Arabia,1,1,Uruguay,0
 14,Iván Valencia,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Iván Valencia,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -2935,16 +2935,16 @@
 103,Iván Valencia,Semi-Finals,Spain,1,0,Portugal,0
 104,Iván Valencia,Semi-Finals,France,0,1,England,0
 105,Iván Valencia,Final,Spain,1,0,Portugal,0
-1,Javier Tomé,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Javier Tomé,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Javier Tomé,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Javier Tomé,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Javier Tomé,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
-4,Javier Tomé,Fase de Grupos,United States,2,0,Paraguay,1
-5,Javier Tomé,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Javier Tomé,Fase de Grupos,United States,2,0,Paraguay,0
+5,Javier Tomé,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Javier Tomé,Fase de Grupos,Australia,1,1,Turkey,0
-7,Javier Tomé,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Javier Tomé,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Javier Tomé,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Javier Tomé,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Javier Tomé,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Javier Tomé,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Javier Tomé,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Javier Tomé,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Javier Tomé,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -3044,12 +3044,12 @@
 2,Stephen Lemke,Fase de Grupos,Korea Republic,0,1,Czech Republic,0
 3,Stephen Lemke,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
 4,Stephen Lemke,Fase de Grupos,United States,2,2,Paraguay,0
-5,Stephen Lemke,Fase de Grupos,Haiti,0,4,Scotland,1
+5,Stephen Lemke,Fase de Grupos,Haiti,0,4,Scotland,0
 6,Stephen Lemke,Fase de Grupos,Australia,1,3,Turkey,0
 7,Stephen Lemke,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Stephen Lemke,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Stephen Lemke,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Stephen Lemke,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Stephen Lemke,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Stephen Lemke,Fase de Grupos,Netherlands,3,1,Japan,0
 12,Stephen Lemke,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Stephen Lemke,Fase de Grupos,Saudi Arabia,2,4,Uruguay,0
@@ -3145,18 +3145,18 @@
 103,Stephen Lemke,Semi-Finals,France,2,1,Argentina,0
 104,Stephen Lemke,Semi-Finals,Spain,3,4,Brazil,0
 105,Stephen Lemke,Final,France,2,1,Argentina,0
-1,César Heredero,Fase de Grupos,Mexico,2,0,South Africa,3
-2,César Heredero,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,César Heredero,Fase de Grupos,Mexico,2,0,South Africa,0
+2,César Heredero,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,César Heredero,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,César Heredero,Fase de Grupos,United States,2,1,Paraguay,1
-5,César Heredero,Fase de Grupos,Haiti,0,2,Scotland,1
+4,César Heredero,Fase de Grupos,United States,2,1,Paraguay,0
+5,César Heredero,Fase de Grupos,Haiti,0,2,Scotland,0
 6,César Heredero,Fase de Grupos,Australia,0,1,Turkey,0
 7,César Heredero,Fase de Grupos,Brazil,1,0,Morocco,0
 8,César Heredero,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,César Heredero,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,César Heredero,Fase de Grupos,Germany,2,0,Curaçao,1
+10,César Heredero,Fase de Grupos,Germany,2,0,Curaçao,0
 11,César Heredero,Fase de Grupos,Netherlands,2,1,Japan,0
-12,César Heredero,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,César Heredero,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,César Heredero,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,César Heredero,Fase de Grupos,Spain,2,0,Cape Verde,0
 15,César Heredero,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -3250,18 +3250,18 @@
 103,César Heredero,Semi-Finals,France,1,0,Argentina,0
 104,César Heredero,Semi-Finals,Spain,1,0,England,0
 105,César Heredero,Final,France,1,0,Argentina,0
-1,Yisus,Fase de Grupos,Mexico,3,1,South Africa,1
+1,Yisus,Fase de Grupos,Mexico,3,1,South Africa,0
 2,Yisus,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Yisus,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Yisus,Fase de Grupos,United States,2,1,Paraguay,1
-5,Yisus,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Yisus,Fase de Grupos,United States,2,1,Paraguay,0
+5,Yisus,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Yisus,Fase de Grupos,Australia,1,2,Turkey,0
 7,Yisus,Fase de Grupos,Brazil,2,0,Morocco,0
 8,Yisus,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Yisus,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Yisus,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Yisus,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Yisus,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Yisus,Fase de Grupos,Sweden,2,1,Tunisia,1
+12,Yisus,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Yisus,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Yisus,Fase de Grupos,Spain,2,0,Cape Verde,0
 15,Yisus,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -3355,16 +3355,16 @@
 103,Yisus,Semi-Finals,Spain,1,0,Argentina,0
 104,Yisus,Semi-Finals,France,1,0,Brazil,0
 105,Yisus,Final,Spain,1,0,Argentina,0
-1,Óscar Villodre,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Óscar Villodre,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Óscar Villodre,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Óscar Villodre,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Óscar Villodre,Fase de Grupos,United States,2,0,Paraguay,1
-5,Óscar Villodre,Fase de Grupos,Haiti,0,2,Scotland,1
+3,Óscar Villodre,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Óscar Villodre,Fase de Grupos,United States,2,0,Paraguay,0
+5,Óscar Villodre,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Óscar Villodre,Fase de Grupos,Australia,1,2,Turkey,0
-7,Óscar Villodre,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Óscar Villodre,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Óscar Villodre,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Óscar Villodre,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Óscar Villodre,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Óscar Villodre,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Óscar Villodre,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Óscar Villodre,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Óscar Villodre,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
@@ -3460,18 +3460,18 @@
 103,Óscar Villodre,Semi-Finals,Spain,1,1,Portugal,0
 104,Óscar Villodre,Semi-Finals,France,1,2,England,0
 105,Óscar Villodre,Final,Spain,1,1,Portugal,0
-1,Rocío,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Rocío,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Rocío,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Rocío,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Rocío,Fase de Grupos,Canada,3,1,Bosnia and Herzegovina,0
-4,Rocío,Fase de Grupos,United States,2,1,Paraguay,1
-5,Rocío,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Rocío,Fase de Grupos,United States,2,1,Paraguay,0
+5,Rocío,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Rocío,Fase de Grupos,Australia,1,3,Turkey,0
-7,Rocío,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Rocío,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Rocío,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Rocío,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Rocío,Fase de Grupos,Germany,7,0,Curaçao,1
+10,Rocío,Fase de Grupos,Germany,7,0,Curaçao,0
 11,Rocío,Fase de Grupos,Netherlands,3,2,Japan,0
-12,Rocío,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Rocío,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Rocío,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Rocío,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Rocío,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -3565,18 +3565,18 @@
 103,Rocío,Semi-Finals,Spain,1,1,Portugal,0
 104,Rocío,Semi-Finals,France,2,1,Brazil,0
 105,Rocío,Final,Spain,1,1,Portugal,0
-1,Adrián Fumero,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Adrián Fumero,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Adrián Fumero,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Adrián Fumero,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Adrián Fumero,Fase de Grupos,United States,2,1,Paraguay,1
-5,Adrián Fumero,Fase de Grupos,Haiti,0,2,Scotland,1
+3,Adrián Fumero,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Adrián Fumero,Fase de Grupos,United States,2,1,Paraguay,0
+5,Adrián Fumero,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Adrián Fumero,Fase de Grupos,Australia,1,1,Turkey,0
 7,Adrián Fumero,Fase de Grupos,Brazil,3,1,Morocco,0
 8,Adrián Fumero,Fase de Grupos,Qatar,0,2,Switzerland,0
-9,Adrián Fumero,Fase de Grupos,Ivory Coast,2,1,Ecuador,1
-10,Adrián Fumero,Fase de Grupos,Germany,3,0,Curaçao,1
+9,Adrián Fumero,Fase de Grupos,Ivory Coast,2,1,Ecuador,0
+10,Adrián Fumero,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Adrián Fumero,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Adrián Fumero,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Adrián Fumero,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Adrián Fumero,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Adrián Fumero,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Adrián Fumero,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -3671,15 +3671,15 @@
 104,Adrián Fumero,Semi-Finals,France,1,0,Brazil,0
 105,Adrián Fumero,Final,Spain,1,0,Argentina,0
 1,Vito,Fase de Grupos,Mexico,1,1,South Africa,0
-2,Vito,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+2,Vito,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Vito,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
 4,Vito,Fase de Grupos,United States,1,1,Paraguay,0
-5,Vito,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Vito,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Vito,Fase de Grupos,Australia,1,3,Turkey,0
-7,Vito,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Vito,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Vito,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Vito,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Vito,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Vito,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Vito,Fase de Grupos,Netherlands,1,0,Japan,0
 12,Vito,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Vito,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
@@ -3775,18 +3775,18 @@
 103,Vito,Semi-Finals,Spain,1,0,England,0
 104,Vito,Semi-Finals,France,3,0,Portugal,0
 105,Vito,Final,Spain,1,0,England,0
-1,Rodrigo Pablos,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Rodrigo Pablos,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Rodrigo Pablos,Fase de Grupos,Korea Republic,0,2,Czech Republic,0
-3,Rodrigo Pablos,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Rodrigo Pablos,Fase de Grupos,United States,2,1,Paraguay,1
-5,Rodrigo Pablos,Fase de Grupos,Haiti,0,2,Scotland,1
+3,Rodrigo Pablos,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Rodrigo Pablos,Fase de Grupos,United States,2,1,Paraguay,0
+5,Rodrigo Pablos,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Rodrigo Pablos,Fase de Grupos,Australia,1,3,Turkey,0
 7,Rodrigo Pablos,Fase de Grupos,Brazil,2,1,Morocco,0
-8,Rodrigo Pablos,Fase de Grupos,Qatar,0,0,Switzerland,1
+8,Rodrigo Pablos,Fase de Grupos,Qatar,0,0,Switzerland,0
 9,Rodrigo Pablos,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Rodrigo Pablos,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Rodrigo Pablos,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Rodrigo Pablos,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Rodrigo Pablos,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Rodrigo Pablos,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Rodrigo Pablos,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Rodrigo Pablos,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Rodrigo Pablos,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -3880,18 +3880,18 @@
 103,Rodrigo Pablos,Semi-Finals,Spain,1,1,Portugal,0
 104,Rodrigo Pablos,Semi-Finals,France,2,1,England,0
 105,Rodrigo Pablos,Final,Spain,1,1,Portugal,0
-1,Nico y Aran,Fase de Grupos,Mexico,3,2,South Africa,1
-2,Nico y Aran,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Nico y Aran,Fase de Grupos,Mexico,3,2,South Africa,0
+2,Nico y Aran,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Nico y Aran,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Nico y Aran,Fase de Grupos,United States,0,3,Paraguay,0
 5,Nico y Aran,Fase de Grupos,Haiti,2,0,Scotland,0
-6,Nico y Aran,Fase de Grupos,Australia,3,1,Turkey,1
+6,Nico y Aran,Fase de Grupos,Australia,3,1,Turkey,0
 7,Nico y Aran,Fase de Grupos,Brazil,4,1,Morocco,0
 8,Nico y Aran,Fase de Grupos,Qatar,2,1,Switzerland,0
 9,Nico y Aran,Fase de Grupos,Ivory Coast,0,3,Ecuador,0
-10,Nico y Aran,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Nico y Aran,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Nico y Aran,Fase de Grupos,Sweden,2,1,Tunisia,1
+10,Nico y Aran,Fase de Grupos,Germany,5,0,Curaçao,0
+11,Nico y Aran,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Nico y Aran,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Nico y Aran,Fase de Grupos,Saudi Arabia,1,4,Uruguay,0
 14,Nico y Aran,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Nico y Aran,Fase de Grupos,Iran,2,2,New Zealand,0
@@ -3985,18 +3985,18 @@
 103,Nico y Aran,Semi-Finals,Spain,1,0,Brazil,0
 104,Nico y Aran,Semi-Finals,Germany,0,1,Portugal,0
 105,Nico y Aran,Final,Spain,1,0,Brazil,0
-1,Jaime Laulhé,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Jaime Laulhé,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Jaime Laulhé,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Jaime Laulhé,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Jaime Laulhé,Fase de Grupos,Canada,3,0,Bosnia and Herzegovina,0
-4,Jaime Laulhé,Fase de Grupos,United States,2,0,Paraguay,1
-5,Jaime Laulhé,Fase de Grupos,Haiti,0,1,Scotland,3
-6,Jaime Laulhé,Fase de Grupos,Australia,2,1,Turkey,1
+4,Jaime Laulhé,Fase de Grupos,United States,2,0,Paraguay,0
+5,Jaime Laulhé,Fase de Grupos,Haiti,0,1,Scotland,0
+6,Jaime Laulhé,Fase de Grupos,Australia,2,1,Turkey,0
 7,Jaime Laulhé,Fase de Grupos,Brazil,3,1,Morocco,0
 8,Jaime Laulhé,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Jaime Laulhé,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Jaime Laulhé,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Jaime Laulhé,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Jaime Laulhé,Fase de Grupos,Netherlands,3,1,Japan,0
-12,Jaime Laulhé,Fase de Grupos,Sweden,2,1,Tunisia,1
+12,Jaime Laulhé,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Jaime Laulhé,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Jaime Laulhé,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Jaime Laulhé,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -4090,18 +4090,18 @@
 103,Jaime Laulhé,Semi-Finals,Spain,2,1,Brazil,0
 104,Jaime Laulhé,Semi-Finals,Germany,3,2,Argentina,0
 105,Jaime Laulhé,Final,Spain,2,1,Brazil,0
-1,Miguel Egea,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Miguel Egea,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Miguel Egea,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Miguel Egea,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Miguel Egea,Fase de Grupos,United States,2,0,Paraguay,1
-5,Miguel Egea,Fase de Grupos,Haiti,0,1,Scotland,3
+4,Miguel Egea,Fase de Grupos,United States,2,0,Paraguay,0
+5,Miguel Egea,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Miguel Egea,Fase de Grupos,Australia,1,2,Turkey,0
-7,Miguel Egea,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Miguel Egea,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Miguel Egea,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Miguel Egea,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Miguel Egea,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Miguel Egea,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Miguel Egea,Fase de Grupos,Sweden,1,0,Tunisia,1
+10,Miguel Egea,Fase de Grupos,Germany,3,0,Curaçao,0
+11,Miguel Egea,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Miguel Egea,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Miguel Egea,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Miguel Egea,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Miguel Egea,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -4195,16 +4195,16 @@
 103,Miguel Egea,Semi-Finals,Spain,0,1,Argentina,0
 104,Miguel Egea,Semi-Finals,France,,,England,0
 105,Miguel Egea,Final,Spain,0,1,Argentina,0
-1,Julio Montejo,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Julio Montejo,Fase de Grupos,Korea Republic,1,0,Czech Republic,1
+1,Julio Montejo,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Julio Montejo,Fase de Grupos,Korea Republic,1,0,Czech Republic,0
 3,Julio Montejo,Fase de Grupos,Canada,3,2,Bosnia and Herzegovina,0
-4,Julio Montejo,Fase de Grupos,United States,1,0,Paraguay,1
+4,Julio Montejo,Fase de Grupos,United States,1,0,Paraguay,0
 5,Julio Montejo,Fase de Grupos,Haiti,1,1,Scotland,0
 6,Julio Montejo,Fase de Grupos,Australia,0,3,Turkey,0
-7,Julio Montejo,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Julio Montejo,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Julio Montejo,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Julio Montejo,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Julio Montejo,Fase de Grupos,Germany,6,0,Curaçao,1
+10,Julio Montejo,Fase de Grupos,Germany,6,0,Curaçao,0
 11,Julio Montejo,Fase de Grupos,Netherlands,3,1,Japan,0
 12,Julio Montejo,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Julio Montejo,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -4300,18 +4300,18 @@
 103,Julio Montejo,Semi-Finals,Spain,1,0,England,0
 104,Julio Montejo,Semi-Finals,France,1,0,Portugal,0
 105,Julio Montejo,Final,Spain,1,0,England,0
-1,Fernando Mora,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Fernando Mora,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Fernando Mora,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Fernando Mora,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Fernando Mora,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Fernando Mora,Fase de Grupos,United States,2,0,Paraguay,1
-5,Fernando Mora,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Fernando Mora,Fase de Grupos,United States,2,0,Paraguay,0
+5,Fernando Mora,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Fernando Mora,Fase de Grupos,Australia,1,1,Turkey,0
-7,Fernando Mora,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Fernando Mora,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Fernando Mora,Fase de Grupos,Qatar,1,3,Switzerland,0
 9,Fernando Mora,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Fernando Mora,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Fernando Mora,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Fernando Mora,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Fernando Mora,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Fernando Mora,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Fernando Mora,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Fernando Mora,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Fernando Mora,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -4408,15 +4408,15 @@
 1,DG Soto,Fase de Grupos,Mexico,2,2,South Africa,0
 2,DG Soto,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,DG Soto,Fase de Grupos,Canada,1,2,Bosnia and Herzegovina,0
-4,DG Soto,Fase de Grupos,United States,2,1,Paraguay,1
-5,DG Soto,Fase de Grupos,Haiti,0,2,Scotland,1
+4,DG Soto,Fase de Grupos,United States,2,1,Paraguay,0
+5,DG Soto,Fase de Grupos,Haiti,0,2,Scotland,0
 6,DG Soto,Fase de Grupos,Australia,1,2,Turkey,0
 7,DG Soto,Fase de Grupos,Brazil,3,1,Morocco,0
-8,DG Soto,Fase de Grupos,Qatar,1,1,Switzerland,3
-9,DG Soto,Fase de Grupos,Ivory Coast,2,1,Ecuador,1
-10,DG Soto,Fase de Grupos,Germany,3,0,Curaçao,1
-11,DG Soto,Fase de Grupos,Netherlands,2,2,Japan,3
-12,DG Soto,Fase de Grupos,Sweden,2,1,Tunisia,1
+8,DG Soto,Fase de Grupos,Qatar,1,1,Switzerland,0
+9,DG Soto,Fase de Grupos,Ivory Coast,2,1,Ecuador,0
+10,DG Soto,Fase de Grupos,Germany,3,0,Curaçao,0
+11,DG Soto,Fase de Grupos,Netherlands,2,2,Japan,0
+12,DG Soto,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,DG Soto,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,DG Soto,Fase de Grupos,Spain,2,1,Cape Verde,0
 15,DG Soto,Fase de Grupos,Iran,0,1,New Zealand,0
@@ -4510,18 +4510,18 @@
 103,DG Soto,Semi-Finals,Uruguay,1,2,Argentina,0
 104,DG Soto,Semi-Finals,France,2,2,Brazil,0
 105,DG Soto,Final,Uruguay,1,2,Argentina,0
-1,YYCCSSGG (Jesús Martín),Fase de Grupos,Mexico,1,0,South Africa,1
+1,YYCCSSGG (Jesús Martín),Fase de Grupos,Mexico,1,0,South Africa,0
 2,YYCCSSGG (Jesús Martín),Fase de Grupos,Korea Republic,0,0,Czech Republic,0
 3,YYCCSSGG (Jesús Martín),Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
 4,YYCCSSGG (Jesús Martín),Fase de Grupos,United States,1,1,Paraguay,0
-5,YYCCSSGG (Jesús Martín),Fase de Grupos,Haiti,0,2,Scotland,1
+5,YYCCSSGG (Jesús Martín),Fase de Grupos,Haiti,0,2,Scotland,0
 6,YYCCSSGG (Jesús Martín),Fase de Grupos,Australia,1,2,Turkey,0
 7,YYCCSSGG (Jesús Martín),Fase de Grupos,Brazil,2,0,Morocco,0
 8,YYCCSSGG (Jesús Martín),Fase de Grupos,Qatar,0,1,Switzerland,0
 9,YYCCSSGG (Jesús Martín),Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,YYCCSSGG (Jesús Martín),Fase de Grupos,Germany,4,0,Curaçao,1
+10,YYCCSSGG (Jesús Martín),Fase de Grupos,Germany,4,0,Curaçao,0
 11,YYCCSSGG (Jesús Martín),Fase de Grupos,Netherlands,2,0,Japan,0
-12,YYCCSSGG (Jesús Martín),Fase de Grupos,Sweden,1,0,Tunisia,1
+12,YYCCSSGG (Jesús Martín),Fase de Grupos,Sweden,1,0,Tunisia,0
 13,YYCCSSGG (Jesús Martín),Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,YYCCSSGG (Jesús Martín),Fase de Grupos,Spain,5,0,Cape Verde,0
 15,YYCCSSGG (Jesús Martín),Fase de Grupos,Iran,0,0,New Zealand,0
@@ -4615,17 +4615,17 @@
 103,YYCCSSGG (Jesús Martín),Semi-Finals,Spain,1,0,Brazil,0
 104,YYCCSSGG (Jesús Martín),Semi-Finals,Germany,1,0,Argentina,0
 105,YYCCSSGG (Jesús Martín),Final,Spain,1,0,Brazil,0
-1,David López,Fase de Grupos,Mexico,2,1,South Africa,1
+1,David López,Fase de Grupos,Mexico,2,1,South Africa,0
 2,David López,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,David López,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
 4,David López,Fase de Grupos,United States,1,1,Paraguay,0
-5,David López,Fase de Grupos,Haiti,0,4,Scotland,1
+5,David López,Fase de Grupos,Haiti,0,4,Scotland,0
 6,David López,Fase de Grupos,Australia,2,2,Turkey,0
-7,David López,Fase de Grupos,Brazil,2,2,Morocco,1
-8,David López,Fase de Grupos,Qatar,1,1,Switzerland,3
+7,David López,Fase de Grupos,Brazil,2,2,Morocco,0
+8,David López,Fase de Grupos,Qatar,1,1,Switzerland,0
 9,David López,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,David López,Fase de Grupos,Germany,5,1,Curaçao,1
-11,David López,Fase de Grupos,Netherlands,1,1,Japan,1
+10,David López,Fase de Grupos,Germany,5,1,Curaçao,0
+11,David López,Fase de Grupos,Netherlands,1,1,Japan,0
 12,David López,Fase de Grupos,Sweden,1,2,Tunisia,0
 13,David López,Fase de Grupos,Saudi Arabia,2,2,Uruguay,0
 14,David López,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -4720,18 +4720,18 @@
 103,David López,Semi-Finals,Spain,1,0,Argentina,0
 104,David López,Semi-Finals,France,0,1,Brazil,0
 105,David López,Final,Spain,1,0,Argentina,0
-1,Diego López,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Diego López,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Diego López,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Diego López,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Diego López,Fase de Grupos,United States,3,1,Paraguay,1
-5,Diego López,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Diego López,Fase de Grupos,United States,3,1,Paraguay,0
+5,Diego López,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Diego López,Fase de Grupos,Australia,0,0,Turkey,0
 7,Diego López,Fase de Grupos,Brazil,1,2,Morocco,0
 8,Diego López,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Diego López,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Diego López,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Diego López,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Diego López,Fase de Grupos,Sweden,2,1,Tunisia,1
+10,Diego López,Fase de Grupos,Germany,5,0,Curaçao,0
+11,Diego López,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Diego López,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Diego López,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Diego López,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Diego López,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -4825,16 +4825,16 @@
 103,Diego López,Semi-Finals,Spain,1,0,Argentina,0
 104,Diego López,Semi-Finals,France,1,0,England,0
 105,Diego López,Final,Spain,1,0,Argentina,0
-1,Carol,Fase de Grupos,Mexico,2,1,South Africa,1
-2,Carol,Fase de Grupos,Korea Republic,2,0,Czech Republic,1
+1,Carol,Fase de Grupos,Mexico,2,1,South Africa,0
+2,Carol,Fase de Grupos,Korea Republic,2,0,Czech Republic,0
 3,Carol,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Carol,Fase de Grupos,United States,2,0,Paraguay,1
-5,Carol,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Carol,Fase de Grupos,United States,2,0,Paraguay,0
+5,Carol,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Carol,Fase de Grupos,Australia,1,3,Turkey,0
 7,Carol,Fase de Grupos,Brazil,3,2,Morocco,0
 8,Carol,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Carol,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Carol,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Carol,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Carol,Fase de Grupos,Netherlands,3,2,Japan,0
 12,Carol,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Carol,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
@@ -4930,16 +4930,16 @@
 103,Carol,Semi-Finals,Spain,1,0,England,0
 104,Carol,Semi-Finals,France,1,0,Argentina,0
 105,Carol,Final,Spain,1,0,England,0
-1,Carlos Álvarez,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Carlos Álvarez,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Carlos Álvarez,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Carlos Álvarez,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Carlos Álvarez,Fase de Grupos,United States,2,3,Paraguay,0
-5,Carlos Álvarez,Fase de Grupos,Haiti,0,3,Scotland,1
-6,Carlos Álvarez,Fase de Grupos,Australia,2,1,Turkey,1
-7,Carlos Álvarez,Fase de Grupos,Brazil,1,1,Morocco,3
+5,Carlos Álvarez,Fase de Grupos,Haiti,0,3,Scotland,0
+6,Carlos Álvarez,Fase de Grupos,Australia,2,1,Turkey,0
+7,Carlos Álvarez,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Carlos Álvarez,Fase de Grupos,Qatar,0,1,Switzerland,0
-9,Carlos Álvarez,Fase de Grupos,Ivory Coast,2,0,Ecuador,1
-10,Carlos Álvarez,Fase de Grupos,Germany,3,0,Curaçao,1
+9,Carlos Álvarez,Fase de Grupos,Ivory Coast,2,0,Ecuador,0
+10,Carlos Álvarez,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Carlos Álvarez,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Carlos Álvarez,Fase de Grupos,Sweden,2,2,Tunisia,0
 13,Carlos Álvarez,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -5035,18 +5035,18 @@
 103,Carlos Álvarez,Semi-Finals,Spain,2,2,England,0
 104,Carlos Álvarez,Semi-Finals,France,2,0,Argentina,0
 105,Carlos Álvarez,Final,Spain,2,2,England,0
-1,Isaac Firgaira,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Isaac Firgaira,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Isaac Firgaira,Fase de Grupos,Korea Republic,0,2,Czech Republic,0
 3,Isaac Firgaira,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Isaac Firgaira,Fase de Grupos,United States,2,2,Paraguay,0
-5,Isaac Firgaira,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Isaac Firgaira,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Isaac Firgaira,Fase de Grupos,Australia,0,2,Turkey,0
-7,Isaac Firgaira,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Isaac Firgaira,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Isaac Firgaira,Fase de Grupos,Qatar,1,3,Switzerland,0
-9,Isaac Firgaira,Fase de Grupos,Ivory Coast,3,1,Ecuador,1
-10,Isaac Firgaira,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Isaac Firgaira,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Isaac Firgaira,Fase de Grupos,Sweden,1,0,Tunisia,1
+9,Isaac Firgaira,Fase de Grupos,Ivory Coast,3,1,Ecuador,0
+10,Isaac Firgaira,Fase de Grupos,Germany,3,0,Curaçao,0
+11,Isaac Firgaira,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Isaac Firgaira,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Isaac Firgaira,Fase de Grupos,Saudi Arabia,1,4,Uruguay,0
 14,Isaac Firgaira,Fase de Grupos,Spain,2,0,Cape Verde,0
 15,Isaac Firgaira,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -5140,18 +5140,18 @@
 103,Isaac Firgaira,Semi-Finals,France,1,0,Portugal,0
 104,Isaac Firgaira,Semi-Finals,Spain,1,0,England,0
 105,Isaac Firgaira,Final,France,1,0,Portugal,0
-1,Diego Firgaira,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Diego Firgaira,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Diego Firgaira,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
 3,Diego Firgaira,Fase de Grupos,Canada,3,1,Bosnia and Herzegovina,0
-4,Diego Firgaira,Fase de Grupos,United States,2,1,Paraguay,1
-5,Diego Firgaira,Fase de Grupos,Haiti,1,3,Scotland,1
+4,Diego Firgaira,Fase de Grupos,United States,2,1,Paraguay,0
+5,Diego Firgaira,Fase de Grupos,Haiti,1,3,Scotland,0
 6,Diego Firgaira,Fase de Grupos,Australia,0,3,Turkey,0
 7,Diego Firgaira,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Diego Firgaira,Fase de Grupos,Qatar,1,3,Switzerland,0
 9,Diego Firgaira,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Diego Firgaira,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Diego Firgaira,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Diego Firgaira,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Diego Firgaira,Fase de Grupos,Sweden,3,0,Tunisia,1
+12,Diego Firgaira,Fase de Grupos,Sweden,3,0,Tunisia,0
 13,Diego Firgaira,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Diego Firgaira,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Diego Firgaira,Fase de Grupos,Iran,2,1,New Zealand,0
@@ -5245,16 +5245,16 @@
 103,Diego Firgaira,Semi-Finals,Spain,1,0,Portugal,0
 104,Diego Firgaira,Semi-Finals,France,1,0,Brazil,0
 105,Diego Firgaira,Final,Spain,1,0,Portugal,0
-1,Ioseba Larumbe,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Ioseba Larumbe,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Ioseba Larumbe,Fase de Grupos,Korea Republic,0,3,Czech Republic,0
 3,Ioseba Larumbe,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
 4,Ioseba Larumbe,Fase de Grupos,United States,0,1,Paraguay,0
-5,Ioseba Larumbe,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Ioseba Larumbe,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Ioseba Larumbe,Fase de Grupos,Australia,1,1,Turkey,0
 7,Ioseba Larumbe,Fase de Grupos,Brazil,0,1,Morocco,0
-8,Ioseba Larumbe,Fase de Grupos,Qatar,1,1,Switzerland,3
+8,Ioseba Larumbe,Fase de Grupos,Qatar,1,1,Switzerland,0
 9,Ioseba Larumbe,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Ioseba Larumbe,Fase de Grupos,Germany,2,0,Curaçao,1
+10,Ioseba Larumbe,Fase de Grupos,Germany,2,0,Curaçao,0
 11,Ioseba Larumbe,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Ioseba Larumbe,Fase de Grupos,Sweden,0,2,Tunisia,0
 13,Ioseba Larumbe,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -5350,18 +5350,18 @@
 103,Ioseba Larumbe,Semi-Finals,Spain,1,0,Morocco,0
 104,Ioseba Larumbe,Semi-Finals,Brazil,0,1,Argentina,0
 105,Ioseba Larumbe,Final,Spain,1,0,Morocco,0
-1,Jorge Esteban,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Jorge Esteban,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Jorge Esteban,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Jorge Esteban,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
 4,Jorge Esteban,Fase de Grupos,United States,1,1,Paraguay,0
-5,Jorge Esteban,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Jorge Esteban,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Jorge Esteban,Fase de Grupos,Australia,1,3,Turkey,0
-7,Jorge Esteban,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Jorge Esteban,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Jorge Esteban,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Jorge Esteban,Fase de Grupos,Ivory Coast,2,2,Ecuador,0
-10,Jorge Esteban,Fase de Grupos,Germany,2,0,Curaçao,1
+10,Jorge Esteban,Fase de Grupos,Germany,2,0,Curaçao,0
 11,Jorge Esteban,Fase de Grupos,Netherlands,1,3,Japan,0
-12,Jorge Esteban,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Jorge Esteban,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Jorge Esteban,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Jorge Esteban,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Jorge Esteban,Fase de Grupos,Iran,2,1,New Zealand,0
@@ -5455,17 +5455,17 @@
 103,Jorge Esteban,Semi-Finals,Spain,2,0,Portugal,0
 104,Jorge Esteban,Semi-Finals,France,2,0,Ivory Coast,0
 105,Jorge Esteban,Final,Spain,2,0,Portugal,0
-1,José Cobo,Fase de Grupos,Mexico,2,0,South Africa,3
-2,José Cobo,Fase de Grupos,Korea Republic,1,0,Czech Republic,1
+1,José Cobo,Fase de Grupos,Mexico,2,0,South Africa,0
+2,José Cobo,Fase de Grupos,Korea Republic,1,0,Czech Republic,0
 3,José Cobo,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
-4,José Cobo,Fase de Grupos,United States,2,0,Paraguay,1
-5,José Cobo,Fase de Grupos,Haiti,0,1,Scotland,3
+4,José Cobo,Fase de Grupos,United States,2,0,Paraguay,0
+5,José Cobo,Fase de Grupos,Haiti,0,1,Scotland,0
 6,José Cobo,Fase de Grupos,Australia,0,1,Turkey,0
 7,José Cobo,Fase de Grupos,Brazil,2,1,Morocco,0
-8,José Cobo,Fase de Grupos,Qatar,1,1,Switzerland,3
+8,José Cobo,Fase de Grupos,Qatar,1,1,Switzerland,0
 9,José Cobo,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,José Cobo,Fase de Grupos,Germany,3,0,Curaçao,1
-11,José Cobo,Fase de Grupos,Netherlands,1,1,Japan,1
+10,José Cobo,Fase de Grupos,Germany,3,0,Curaçao,0
+11,José Cobo,Fase de Grupos,Netherlands,1,1,Japan,0
 12,José Cobo,Fase de Grupos,Sweden,0,0,Tunisia,0
 13,José Cobo,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,José Cobo,Fase de Grupos,Spain,2,0,Cape Verde,0
@@ -5560,18 +5560,18 @@
 103,José Cobo,Semi-Finals,Spain,2,0,Brazil,0
 104,José Cobo,Semi-Finals,France,1,2,Portugal,0
 105,José Cobo,Final,Spain,2,0,Brazil,0
-1,Ángel Cubillo,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Ángel Cubillo,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Ángel Cubillo,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Ángel Cubillo,Fase de Grupos,Canada,3,1,Bosnia and Herzegovina,0
-4,Ángel Cubillo,Fase de Grupos,United States,2,0,Paraguay,1
-5,Ángel Cubillo,Fase de Grupos,Haiti,0,4,Scotland,1
+4,Ángel Cubillo,Fase de Grupos,United States,2,0,Paraguay,0
+5,Ángel Cubillo,Fase de Grupos,Haiti,0,4,Scotland,0
 6,Ángel Cubillo,Fase de Grupos,Australia,0,3,Turkey,0
 7,Ángel Cubillo,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Ángel Cubillo,Fase de Grupos,Qatar,0,2,Switzerland,0
-9,Ángel Cubillo,Fase de Grupos,Ivory Coast,2,0,Ecuador,1
-10,Ángel Cubillo,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Ángel Cubillo,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Ángel Cubillo,Fase de Grupos,Sweden,2,0,Tunisia,1
+9,Ángel Cubillo,Fase de Grupos,Ivory Coast,2,0,Ecuador,0
+10,Ángel Cubillo,Fase de Grupos,Germany,3,0,Curaçao,0
+11,Ángel Cubillo,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Ángel Cubillo,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Ángel Cubillo,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
 14,Ángel Cubillo,Fase de Grupos,Spain,5,0,Cape Verde,0
 15,Ángel Cubillo,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -5665,18 +5665,18 @@
 103,Ángel Cubillo,Semi-Finals,England,0,1,Portugal,0
 104,Ángel Cubillo,Semi-Finals,Norway,0,1,Brazil,0
 105,Ángel Cubillo,Final,England,0,1,Portugal,0
-1,Roberto Molina,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Roberto Molina,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Roberto Molina,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Roberto Molina,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Roberto Molina,Fase de Grupos,United States,2,1,Paraguay,1
-5,Roberto Molina,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Roberto Molina,Fase de Grupos,United States,2,1,Paraguay,0
+5,Roberto Molina,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Roberto Molina,Fase de Grupos,Australia,1,1,Turkey,0
 7,Roberto Molina,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Roberto Molina,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Roberto Molina,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Roberto Molina,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Roberto Molina,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Roberto Molina,Fase de Grupos,Sweden,2,0,Tunisia,1
+10,Roberto Molina,Fase de Grupos,Germany,5,0,Curaçao,0
+11,Roberto Molina,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Roberto Molina,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Roberto Molina,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Roberto Molina,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Roberto Molina,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -5770,18 +5770,18 @@
 103,Roberto Molina,Semi-Finals,France,1,0,Argentina,0
 104,Roberto Molina,Semi-Finals,Spain,1,0,Brazil,0
 105,Roberto Molina,Final,France,1,0,Argentina,0
-1,Vísor,Fase de Grupos,Mexico,1,0,South Africa,1
+1,Vísor,Fase de Grupos,Mexico,1,0,South Africa,0
 2,Vísor,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Vísor,Fase de Grupos,Canada,0,0,Bosnia and Herzegovina,1
-4,Vísor,Fase de Grupos,United States,2,1,Paraguay,1
-5,Vísor,Fase de Grupos,Haiti,0,2,Scotland,1
+3,Vísor,Fase de Grupos,Canada,0,0,Bosnia and Herzegovina,0
+4,Vísor,Fase de Grupos,United States,2,1,Paraguay,0
+5,Vísor,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Vísor,Fase de Grupos,Australia,0,3,Turkey,0
-7,Vísor,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Vísor,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Vísor,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Vísor,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Vísor,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Vísor,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Vísor,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Vísor,Fase de Grupos,Sweden,3,0,Tunisia,1
+12,Vísor,Fase de Grupos,Sweden,3,0,Tunisia,0
 13,Vísor,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Vísor,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Vísor,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -5875,16 +5875,16 @@
 103,Vísor,Semi-Finals,Germany,1,3,Brazil,0
 104,Vísor,Semi-Finals,Spain,1,1,Portugal,0
 105,Vísor,Final,Germany,1,3,Brazil,0
-1,Jacobo Antona,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Jacobo Antona,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Jacobo Antona,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Jacobo Antona,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
+3,Jacobo Antona,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
 4,Jacobo Antona,Fase de Grupos,United States,1,1,Paraguay,0
-5,Jacobo Antona,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Jacobo Antona,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Jacobo Antona,Fase de Grupos,Australia,1,2,Turkey,0
 7,Jacobo Antona,Fase de Grupos,Brazil,0,2,Morocco,0
 8,Jacobo Antona,Fase de Grupos,Qatar,3,0,Switzerland,0
-9,Jacobo Antona,Fase de Grupos,Ivory Coast,2,0,Ecuador,1
-10,Jacobo Antona,Fase de Grupos,Germany,2,1,Curaçao,1
+9,Jacobo Antona,Fase de Grupos,Ivory Coast,2,0,Ecuador,0
+10,Jacobo Antona,Fase de Grupos,Germany,2,1,Curaçao,0
 11,Jacobo Antona,Fase de Grupos,Netherlands,1,2,Japan,0
 12,Jacobo Antona,Fase de Grupos,Sweden,0,1,Tunisia,0
 13,Jacobo Antona,Fase de Grupos,Saudi Arabia,0,0,Uruguay,0
@@ -5980,16 +5980,16 @@
 103,Jacobo Antona,Semi-Finals,Spain,1,0,Portugal,0
 104,Jacobo Antona,Semi-Finals,France,0,1,Japan,0
 105,Jacobo Antona,Final,Spain,1,0,Portugal,0
-1,Juan Smith,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Juan Smith,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Juan Smith,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Juan Smith,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Juan Smith,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
 4,Juan Smith,Fase de Grupos,United States,1,1,Paraguay,0
-5,Juan Smith,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Juan Smith,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Juan Smith,Fase de Grupos,Australia,0,2,Turkey,0
 7,Juan Smith,Fase de Grupos,Brazil,3,1,Morocco,0
 8,Juan Smith,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Juan Smith,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Juan Smith,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Juan Smith,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Juan Smith,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Juan Smith,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Juan Smith,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
@@ -6085,18 +6085,18 @@
 103,Juan Smith,Semi-Finals,Spain,2,1,Portugal,0
 104,Juan Smith,Semi-Finals,France,2,1,England,0
 105,Juan Smith,Final,Spain,2,1,Portugal,0
-1,Iban,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Iban,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Iban,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
-3,Iban,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
+3,Iban,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
 4,Iban,Fase de Grupos,United States,1,1,Paraguay,0
-5,Iban,Fase de Grupos,Haiti,0,1,Scotland,3
+5,Iban,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Iban,Fase de Grupos,Australia,0,2,Turkey,0
-7,Iban,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Iban,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Iban,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Iban,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Iban,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Iban,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Iban,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Iban,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Iban,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Iban,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Iban,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Iban,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -6190,18 +6190,18 @@
 103,Iban,Semi-Finals,Spain,2,1,Argentina,0
 104,Iban,Semi-Finals,France,2,1,Brazil,0
 105,Iban,Final,Spain,2,1,Argentina,0
-1,David González,Fase de Grupos,Mexico,2,1,South Africa,1
-2,David González,Fase de Grupos,Korea Republic,1,0,Czech Republic,1
+1,David González,Fase de Grupos,Mexico,2,1,South Africa,0
+2,David González,Fase de Grupos,Korea Republic,1,0,Czech Republic,0
 3,David González,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
 4,David González,Fase de Grupos,United States,0,2,Paraguay,0
-5,David González,Fase de Grupos,Haiti,1,3,Scotland,1
+5,David González,Fase de Grupos,Haiti,1,3,Scotland,0
 6,David González,Fase de Grupos,Australia,1,3,Turkey,0
 7,David González,Fase de Grupos,Brazil,4,2,Morocco,0
 8,David González,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,David González,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,David González,Fase de Grupos,Germany,4,0,Curaçao,1
+10,David González,Fase de Grupos,Germany,4,0,Curaçao,0
 11,David González,Fase de Grupos,Netherlands,2,1,Japan,0
-12,David González,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,David González,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,David González,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,David González,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,David González,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -6295,18 +6295,18 @@
 103,David González,Semi-Finals,Spain,2,2,Portugal,0
 104,David González,Semi-Finals,France,2,0,England,0
 105,David González,Final,Spain,2,2,Portugal,0
-1,Jesús Espinar,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Jesús Espinar,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Jesús Espinar,Fase de Grupos,Korea Republic,2,2,Czech Republic,0
 3,Jesús Espinar,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
 4,Jesús Espinar,Fase de Grupos,United States,0,0,Paraguay,0
-5,Jesús Espinar,Fase de Grupos,Haiti,0,4,Scotland,1
+5,Jesús Espinar,Fase de Grupos,Haiti,0,4,Scotland,0
 6,Jesús Espinar,Fase de Grupos,Australia,1,3,Turkey,0
-7,Jesús Espinar,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Jesús Espinar,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Jesús Espinar,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Jesús Espinar,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Jesús Espinar,Fase de Grupos,Germany,7,0,Curaçao,1
-11,Jesús Espinar,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Jesús Espinar,Fase de Grupos,Sweden,2,1,Tunisia,1
+10,Jesús Espinar,Fase de Grupos,Germany,7,0,Curaçao,0
+11,Jesús Espinar,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Jesús Espinar,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Jesús Espinar,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Jesús Espinar,Fase de Grupos,Spain,5,0,Cape Verde,0
 15,Jesús Espinar,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -6404,14 +6404,14 @@
 2,Daniel Fernández,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
 3,Daniel Fernández,Fase de Grupos,Canada,1,2,Bosnia and Herzegovina,0
 4,Daniel Fernández,Fase de Grupos,United States,1,1,Paraguay,0
-5,Daniel Fernández,Fase de Grupos,Haiti,0,1,Scotland,3
+5,Daniel Fernández,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Daniel Fernández,Fase de Grupos,Australia,0,3,Turkey,0
 7,Daniel Fernández,Fase de Grupos,Brazil,4,3,Morocco,0
 8,Daniel Fernández,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Daniel Fernández,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Daniel Fernández,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Daniel Fernández,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Daniel Fernández,Fase de Grupos,Netherlands,1,0,Japan,0
-12,Daniel Fernández,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Daniel Fernández,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Daniel Fernández,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Daniel Fernández,Fase de Grupos,Spain,2,0,Cape Verde,0
 15,Daniel Fernández,Fase de Grupos,Iran,2,1,New Zealand,0
@@ -6505,18 +6505,18 @@
 103,Daniel Fernández,Semi-Finals,Spain,2,1,Portugal,0
 104,Daniel Fernández,Semi-Finals,France,3,1,Brazil,0
 105,Daniel Fernández,Final,Spain,2,1,Portugal,0
-1,Yuriy,Fase de Grupos,Mexico,3,1,South Africa,1
+1,Yuriy,Fase de Grupos,Mexico,3,1,South Africa,0
 2,Yuriy,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Yuriy,Fase de Grupos,Canada,0,0,Bosnia and Herzegovina,1
+3,Yuriy,Fase de Grupos,Canada,0,0,Bosnia and Herzegovina,0
 4,Yuriy,Fase de Grupos,United States,1,2,Paraguay,0
-5,Yuriy,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Yuriy,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Yuriy,Fase de Grupos,Australia,0,2,Turkey,0
 7,Yuriy,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Yuriy,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Yuriy,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Yuriy,Fase de Grupos,Germany,6,0,Curaçao,1
-11,Yuriy,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Yuriy,Fase de Grupos,Sweden,2,1,Tunisia,1
+10,Yuriy,Fase de Grupos,Germany,6,0,Curaçao,0
+11,Yuriy,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Yuriy,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Yuriy,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Yuriy,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Yuriy,Fase de Grupos,Iran,2,1,New Zealand,0
@@ -6610,18 +6610,18 @@
 103,Yuriy,Semi-Finals,Spain,2,1,Portugal,0
 104,Yuriy,Semi-Finals,France,3,2,Brazil,0
 105,Yuriy,Final,Spain,2,1,Portugal,0
-1,Fede Gutiérrez,Fase de Grupos,Mexico,2,1,South Africa,1
-2,Fede Gutiérrez,Fase de Grupos,Korea Republic,2,0,Czech Republic,1
-3,Fede Gutiérrez,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
+1,Fede Gutiérrez,Fase de Grupos,Mexico,2,1,South Africa,0
+2,Fede Gutiérrez,Fase de Grupos,Korea Republic,2,0,Czech Republic,0
+3,Fede Gutiérrez,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
 4,Fede Gutiérrez,Fase de Grupos,United States,1,2,Paraguay,0
-5,Fede Gutiérrez,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Fede Gutiérrez,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Fede Gutiérrez,Fase de Grupos,Australia,0,2,Turkey,0
-7,Fede Gutiérrez,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Fede Gutiérrez,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Fede Gutiérrez,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Fede Gutiérrez,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Fede Gutiérrez,Fase de Grupos,Germany,6,0,Curaçao,1
+10,Fede Gutiérrez,Fase de Grupos,Germany,6,0,Curaçao,0
 11,Fede Gutiérrez,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Fede Gutiérrez,Fase de Grupos,Sweden,3,0,Tunisia,1
+12,Fede Gutiérrez,Fase de Grupos,Sweden,3,0,Tunisia,0
 13,Fede Gutiérrez,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Fede Gutiérrez,Fase de Grupos,Spain,5,0,Cape Verde,0
 15,Fede Gutiérrez,Fase de Grupos,Iran,3,1,New Zealand,0
@@ -6715,16 +6715,16 @@
 103,Fede Gutiérrez,Semi-Finals,Spain,2,1,Portugal,0
 104,Fede Gutiérrez,Semi-Finals,France,2,0,Brazil,0
 105,Fede Gutiérrez,Final,Spain,2,1,Portugal,0
-1,Pablo Martín,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Pablo Martín,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Pablo Martín,Fase de Grupos,Korea Republic,0,0,Czech Republic,0
 3,Pablo Martín,Fase de Grupos,Canada,1,2,Bosnia and Herzegovina,0
-4,Pablo Martín,Fase de Grupos,United States,1,0,Paraguay,1
+4,Pablo Martín,Fase de Grupos,United States,1,0,Paraguay,0
 5,Pablo Martín,Fase de Grupos,Haiti,1,0,Scotland,0
 6,Pablo Martín,Fase de Grupos,Australia,0,3,Turkey,0
-7,Pablo Martín,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Pablo Martín,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Pablo Martín,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Pablo Martín,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Pablo Martín,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Pablo Martín,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Pablo Martín,Fase de Grupos,Netherlands,3,1,Japan,0
 12,Pablo Martín,Fase de Grupos,Sweden,0,0,Tunisia,0
 13,Pablo Martín,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
@@ -6820,18 +6820,18 @@
 103,Pablo Martín,Semi-Finals,Spain,1,0,Portugal,0
 104,Pablo Martín,Semi-Finals,Netherlands,0,1,Brazil,0
 105,Pablo Martín,Final,Spain,1,0,Portugal,0
-1,Clara Ramírez,Fase de Grupos,Mexico,1,0,South Africa,1
+1,Clara Ramírez,Fase de Grupos,Mexico,1,0,South Africa,0
 2,Clara Ramírez,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Clara Ramírez,Fase de Grupos,Canada,0,0,Bosnia and Herzegovina,1
-4,Clara Ramírez,Fase de Grupos,United States,2,1,Paraguay,1
-5,Clara Ramírez,Fase de Grupos,Haiti,0,3,Scotland,1
+3,Clara Ramírez,Fase de Grupos,Canada,0,0,Bosnia and Herzegovina,0
+4,Clara Ramírez,Fase de Grupos,United States,2,1,Paraguay,0
+5,Clara Ramírez,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Clara Ramírez,Fase de Grupos,Australia,0,2,Turkey,0
 7,Clara Ramírez,Fase de Grupos,Brazil,3,1,Morocco,0
 8,Clara Ramírez,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Clara Ramírez,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Clara Ramírez,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Clara Ramírez,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Clara Ramírez,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Clara Ramírez,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Clara Ramírez,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Clara Ramírez,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Clara Ramírez,Fase de Grupos,Spain,2,0,Cape Verde,0
 15,Clara Ramírez,Fase de Grupos,Iran,3,1,New Zealand,0
@@ -6925,18 +6925,18 @@
 103,Clara Ramírez,Semi-Finals,Netherlands,1,0,Portugal,0
 104,Clara Ramírez,Semi-Finals,Spain,1,0,Brazil,0
 105,Clara Ramírez,Final,Netherlands,1,0,Portugal,0
-1,Sergio Valencia,Fase de Grupos,Mexico,1,0,South Africa,1
+1,Sergio Valencia,Fase de Grupos,Mexico,1,0,South Africa,0
 2,Sergio Valencia,Fase de Grupos,Korea Republic,0,1,Czech Republic,0
 3,Sergio Valencia,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Sergio Valencia,Fase de Grupos,United States,0,0,Paraguay,0
-5,Sergio Valencia,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Sergio Valencia,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Sergio Valencia,Fase de Grupos,Australia,1,2,Turkey,0
 7,Sergio Valencia,Fase de Grupos,Brazil,1,0,Morocco,0
 8,Sergio Valencia,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Sergio Valencia,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Sergio Valencia,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Sergio Valencia,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Sergio Valencia,Fase de Grupos,Sweden,2,1,Tunisia,1
+10,Sergio Valencia,Fase de Grupos,Germany,4,0,Curaçao,0
+11,Sergio Valencia,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Sergio Valencia,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Sergio Valencia,Fase de Grupos,Saudi Arabia,1,1,Uruguay,0
 14,Sergio Valencia,Fase de Grupos,Spain,2,1,Cape Verde,0
 15,Sergio Valencia,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -7030,17 +7030,17 @@
 103,Sergio Valencia,Semi-Finals,Spain,1,0,Brazil,0
 104,Sergio Valencia,Semi-Finals,France,,,Portugal,0
 105,Sergio Valencia,Final,Spain,1,0,Brazil,0
-1,Borjita,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Borjita,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Borjita,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Borjita,Fase de Grupos,Canada,1,3,Bosnia and Herzegovina,0
-4,Borjita,Fase de Grupos,United States,2,1,Paraguay,1
-5,Borjita,Fase de Grupos,Haiti,1,4,Scotland,1
+4,Borjita,Fase de Grupos,United States,2,1,Paraguay,0
+5,Borjita,Fase de Grupos,Haiti,1,4,Scotland,0
 6,Borjita,Fase de Grupos,Australia,0,3,Turkey,0
-7,Borjita,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Borjita,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Borjita,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Borjita,Fase de Grupos,Ivory Coast,1,3,Ecuador,0
-10,Borjita,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Borjita,Fase de Grupos,Netherlands,2,2,Japan,3
+10,Borjita,Fase de Grupos,Germany,5,0,Curaçao,0
+11,Borjita,Fase de Grupos,Netherlands,2,2,Japan,0
 12,Borjita,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Borjita,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Borjita,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -7135,18 +7135,18 @@
 103,Borjita,Semi-Finals,Spain,1,0,Portugal,0
 104,Borjita,Semi-Finals,Brazil,0,1,England,0
 105,Borjita,Final,Spain,1,0,Portugal,0
-1,Luisja,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Luisja,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Luisja,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Luisja,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
+3,Luisja,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
 4,Luisja,Fase de Grupos,United States,2,2,Paraguay,0
-5,Luisja,Fase de Grupos,Haiti,0,4,Scotland,1
+5,Luisja,Fase de Grupos,Haiti,0,4,Scotland,0
 6,Luisja,Fase de Grupos,Australia,1,1,Turkey,0
 7,Luisja,Fase de Grupos,Brazil,4,1,Morocco,0
 8,Luisja,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Luisja,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Luisja,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Luisja,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Luisja,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Luisja,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Luisja,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Luisja,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Luisja,Fase de Grupos,Spain,7,0,Cape Verde,0
 15,Luisja,Fase de Grupos,Iran,0,1,New Zealand,0
@@ -7240,18 +7240,18 @@
 103,Luisja,Semi-Finals,Spain,2,0,Brazil,0
 104,Luisja,Semi-Finals,France,2,2,Portugal,0
 105,Luisja,Final,Spain,2,0,Brazil,0
-1,David Feijoó,Fase de Grupos,Mexico,1,0,South Africa,1
-2,David Feijoó,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,David Feijoó,Fase de Grupos,Mexico,1,0,South Africa,0
+2,David Feijoó,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,David Feijoó,Fase de Grupos,Canada,3,1,Bosnia and Herzegovina,0
-4,David Feijoó,Fase de Grupos,United States,3,0,Paraguay,1
-5,David Feijoó,Fase de Grupos,Haiti,0,2,Scotland,1
+4,David Feijoó,Fase de Grupos,United States,3,0,Paraguay,0
+5,David Feijoó,Fase de Grupos,Haiti,0,2,Scotland,0
 6,David Feijoó,Fase de Grupos,Australia,2,2,Turkey,0
 7,David Feijoó,Fase de Grupos,Brazil,1,2,Morocco,0
 8,David Feijoó,Fase de Grupos,Qatar,2,0,Switzerland,0
 9,David Feijoó,Fase de Grupos,Ivory Coast,0,4,Ecuador,0
-10,David Feijoó,Fase de Grupos,Germany,5,0,Curaçao,1
+10,David Feijoó,Fase de Grupos,Germany,5,0,Curaçao,0
 11,David Feijoó,Fase de Grupos,Netherlands,0,2,Japan,0
-12,David Feijoó,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,David Feijoó,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,David Feijoó,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,David Feijoó,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,David Feijoó,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -7345,18 +7345,18 @@
 103,David Feijoó,Semi-Finals,Spain,0,2,Portugal,0
 104,David Feijoó,Semi-Finals,France,1,0,Morocco,0
 105,David Feijoó,Final,Spain,0,2,Portugal,0
-1,Vicente Ampuero,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Vicente Ampuero,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Vicente Ampuero,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Vicente Ampuero,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
-4,Vicente Ampuero,Fase de Grupos,United States,2,1,Paraguay,1
-5,Vicente Ampuero,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Vicente Ampuero,Fase de Grupos,United States,2,1,Paraguay,0
+5,Vicente Ampuero,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Vicente Ampuero,Fase de Grupos,Australia,1,3,Turkey,0
 7,Vicente Ampuero,Fase de Grupos,Brazil,2,0,Morocco,0
 8,Vicente Ampuero,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Vicente Ampuero,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Vicente Ampuero,Fase de Grupos,Germany,2,0,Curaçao,1
+10,Vicente Ampuero,Fase de Grupos,Germany,2,0,Curaçao,0
 11,Vicente Ampuero,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Vicente Ampuero,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Vicente Ampuero,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Vicente Ampuero,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Vicente Ampuero,Fase de Grupos,Spain,4,1,Cape Verde,0
 15,Vicente Ampuero,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -7450,18 +7450,18 @@
 103,Vicente Ampuero,Semi-Finals,Spain,0,1,Portugal,0
 104,Vicente Ampuero,Semi-Finals,France,1,0,England,0
 105,Vicente Ampuero,Final,Spain,0,1,Portugal,0
-1,Beltrán Serrano,Fase de Grupos,Mexico,3,1,South Africa,1
-2,Beltrán Serrano,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Beltrán Serrano,Fase de Grupos,Mexico,3,1,South Africa,0
+2,Beltrán Serrano,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Beltrán Serrano,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Beltrán Serrano,Fase de Grupos,United States,2,2,Paraguay,0
 5,Beltrán Serrano,Fase de Grupos,Haiti,1,1,Scotland,0
 6,Beltrán Serrano,Fase de Grupos,Australia,0,1,Turkey,0
-7,Beltrán Serrano,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Beltrán Serrano,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Beltrán Serrano,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Beltrán Serrano,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Beltrán Serrano,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Beltrán Serrano,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Beltrán Serrano,Fase de Grupos,Netherlands,3,2,Japan,0
-12,Beltrán Serrano,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Beltrán Serrano,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Beltrán Serrano,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Beltrán Serrano,Fase de Grupos,Spain,2,0,Cape Verde,0
 15,Beltrán Serrano,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -7555,16 +7555,16 @@
 103,Beltrán Serrano,Semi-Finals,Spain,1,0,Portugal,0
 104,Beltrán Serrano,Semi-Finals,France,1,0,England,0
 105,Beltrán Serrano,Final,Spain,1,0,Portugal,0
-1,Vicente Serrano,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Vicente Serrano,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Vicente Serrano,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Vicente Serrano,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
-4,Vicente Serrano,Fase de Grupos,United States,1,0,Paraguay,1
-5,Vicente Serrano,Fase de Grupos,Haiti,0,1,Scotland,3
+4,Vicente Serrano,Fase de Grupos,United States,1,0,Paraguay,0
+5,Vicente Serrano,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Vicente Serrano,Fase de Grupos,Australia,0,2,Turkey,0
 7,Vicente Serrano,Fase de Grupos,Brazil,1,0,Morocco,0
 8,Vicente Serrano,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Vicente Serrano,Fase de Grupos,Ivory Coast,0,3,Ecuador,0
-10,Vicente Serrano,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Vicente Serrano,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Vicente Serrano,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Vicente Serrano,Fase de Grupos,Sweden,1,2,Tunisia,0
 13,Vicente Serrano,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -7660,18 +7660,18 @@
 103,Vicente Serrano,Semi-Finals,Spain,1,0,England,0
 104,Vicente Serrano,Semi-Finals,France,1,0,Portugal,0
 105,Vicente Serrano,Final,Spain,1,0,England,0
-1,Luis Grado,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Luis Grado,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Luis Grado,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
-3,Luis Grado,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
+3,Luis Grado,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
 4,Luis Grado,Fase de Grupos,United States,1,2,Paraguay,0
-5,Luis Grado,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Luis Grado,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Luis Grado,Fase de Grupos,Australia,0,2,Turkey,0
 7,Luis Grado,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Luis Grado,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Luis Grado,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Luis Grado,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Luis Grado,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Luis Grado,Fase de Grupos,Netherlands,0,1,Japan,0
-12,Luis Grado,Fase de Grupos,Sweden,2,1,Tunisia,1
+12,Luis Grado,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Luis Grado,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Luis Grado,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Luis Grado,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -7765,18 +7765,18 @@
 103,Luis Grado,Semi-Finals,Spain,1,0,Brazil,0
 104,Luis Grado,Semi-Finals,France,1,0,Portugal,0
 105,Luis Grado,Final,Spain,1,0,Brazil,0
-1,Ari,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Ari,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Ari,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Ari,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Ari,Fase de Grupos,United States,0,0,Paraguay,0
-5,Ari,Fase de Grupos,Haiti,0,1,Scotland,3
+5,Ari,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Ari,Fase de Grupos,Australia,1,3,Turkey,0
 7,Ari,Fase de Grupos,Brazil,3,2,Morocco,0
 8,Ari,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Ari,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Ari,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Ari,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Ari,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Ari,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Ari,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Ari,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
 14,Ari,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Ari,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -7870,18 +7870,18 @@
 103,Ari,Semi-Finals,Spain,1,0,Brazil,0
 104,Ari,Semi-Finals,France,0,3,Portugal,0
 105,Ari,Final,Spain,1,0,Brazil,0
-1,Papá,Fase de Grupos,Mexico,3,0,South Africa,1
-2,Papá,Fase de Grupos,Korea Republic,1,0,Czech Republic,1
+1,Papá,Fase de Grupos,Mexico,3,0,South Africa,0
+2,Papá,Fase de Grupos,Korea Republic,1,0,Czech Republic,0
 3,Papá,Fase de Grupos,Canada,0,2,Bosnia and Herzegovina,0
 4,Papá,Fase de Grupos,United States,2,2,Paraguay,0
-5,Papá,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Papá,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Papá,Fase de Grupos,Australia,1,3,Turkey,0
-7,Papá,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Papá,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Papá,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Papá,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Papá,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Papá,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Papá,Fase de Grupos,Netherlands,3,2,Japan,0
-12,Papá,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Papá,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Papá,Fase de Grupos,Saudi Arabia,1,1,Uruguay,0
 14,Papá,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Papá,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -7975,18 +7975,18 @@
 103,Papá,Semi-Finals,Spain,0,1,Brazil,0
 104,Papá,Semi-Finals,Netherlands,0,1,Argentina,0
 105,Papá,Final,Spain,0,1,Brazil,0
-1,Tanit,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Tanit,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Tanit,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Tanit,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Tanit,Fase de Grupos,United States,2,1,Paraguay,1
-5,Tanit,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Tanit,Fase de Grupos,United States,2,1,Paraguay,0
+5,Tanit,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Tanit,Fase de Grupos,Australia,1,2,Turkey,0
 7,Tanit,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Tanit,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Tanit,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Tanit,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Tanit,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Tanit,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Tanit,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Tanit,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Tanit,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Tanit,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Tanit,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -8080,18 +8080,18 @@
 103,Tanit,Semi-Finals,Spain,1,0,Argentina,0
 104,Tanit,Semi-Finals,France,1,0,Brazil,0
 105,Tanit,Final,Spain,1,0,Argentina,0
-1,Javi Gica,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Javi Gica,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Javi Gica,Fase de Grupos,Korea Republic,0,1,Czech Republic,0
-3,Javi Gica,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Javi Gica,Fase de Grupos,United States,2,0,Paraguay,1
-5,Javi Gica,Fase de Grupos,Haiti,0,2,Scotland,1
+3,Javi Gica,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Javi Gica,Fase de Grupos,United States,2,0,Paraguay,0
+5,Javi Gica,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Javi Gica,Fase de Grupos,Australia,1,2,Turkey,0
-7,Javi Gica,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Javi Gica,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Javi Gica,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Javi Gica,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Javi Gica,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Javi Gica,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Javi Gica,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Javi Gica,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Javi Gica,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Javi Gica,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Javi Gica,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Javi Gica,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -8185,18 +8185,18 @@
 103,Javi Gica,Semi-Finals,Spain,0,1,England,0
 104,Javi Gica,Semi-Finals,Morocco,0,1,Portugal,0
 105,Javi Gica,Final,Spain,0,1,England,0
-1,Iván Mateos,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Iván Mateos,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Iván Mateos,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Iván Mateos,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Iván Mateos,Fase de Grupos,United States,1,2,Paraguay,0
-5,Iván Mateos,Fase de Grupos,Haiti,0,1,Scotland,3
+5,Iván Mateos,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Iván Mateos,Fase de Grupos,Australia,0,2,Turkey,0
 7,Iván Mateos,Fase de Grupos,Brazil,3,2,Morocco,0
 8,Iván Mateos,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Iván Mateos,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Iván Mateos,Fase de Grupos,Germany,3,1,Curaçao,1
-11,Iván Mateos,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Iván Mateos,Fase de Grupos,Sweden,2,1,Tunisia,1
+10,Iván Mateos,Fase de Grupos,Germany,3,1,Curaçao,0
+11,Iván Mateos,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Iván Mateos,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Iván Mateos,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Iván Mateos,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Iván Mateos,Fase de Grupos,Iran,0,1,New Zealand,0
@@ -8290,18 +8290,18 @@
 103,Iván Mateos,Semi-Finals,Spain,1,0,Brazil,0
 104,Iván Mateos,Semi-Finals,France,1,0,Portugal,0
 105,Iván Mateos,Final,Spain,1,0,Brazil,0
-1,Luismi Fernández,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Luismi Fernández,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Luismi Fernández,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Luismi Fernández,Fase de Grupos,Canada,2,2,Bosnia and Herzegovina,1
-4,Luismi Fernández,Fase de Grupos,United States,2,0,Paraguay,1
-5,Luismi Fernández,Fase de Grupos,Haiti,0,3,Scotland,1
+3,Luismi Fernández,Fase de Grupos,Canada,2,2,Bosnia and Herzegovina,0
+4,Luismi Fernández,Fase de Grupos,United States,2,0,Paraguay,0
+5,Luismi Fernández,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Luismi Fernández,Fase de Grupos,Australia,1,3,Turkey,0
-7,Luismi Fernández,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Luismi Fernández,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Luismi Fernández,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Luismi Fernández,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Luismi Fernández,Fase de Grupos,Germany,7,1,Curaçao,3
-11,Luismi Fernández,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Luismi Fernández,Fase de Grupos,Sweden,2,0,Tunisia,1
+10,Luismi Fernández,Fase de Grupos,Germany,7,1,Curaçao,0
+11,Luismi Fernández,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Luismi Fernández,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Luismi Fernández,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Luismi Fernández,Fase de Grupos,Spain,6,0,Cape Verde,0
 15,Luismi Fernández,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -8395,16 +8395,16 @@
 103,Luismi Fernández,Semi-Finals,Spain,1,0,Argentina,0
 104,Luismi Fernández,Semi-Finals,Germany,0,1,England,0
 105,Luismi Fernández,Final,Spain,1,0,Argentina,0
-1,Zoe,Fase de Grupos,Mexico,1,0,South Africa,1
-2,Zoe,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Zoe,Fase de Grupos,Mexico,1,0,South Africa,0
+2,Zoe,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Zoe,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
 4,Zoe,Fase de Grupos,United States,1,1,Paraguay,0
-5,Zoe,Fase de Grupos,Haiti,1,2,Scotland,1
+5,Zoe,Fase de Grupos,Haiti,1,2,Scotland,0
 6,Zoe,Fase de Grupos,Australia,0,2,Turkey,0
 7,Zoe,Fase de Grupos,Brazil,3,2,Morocco,0
-8,Zoe,Fase de Grupos,Qatar,1,1,Switzerland,3
-9,Zoe,Fase de Grupos,Ivory Coast,2,1,Ecuador,1
-10,Zoe,Fase de Grupos,Germany,2,0,Curaçao,1
+8,Zoe,Fase de Grupos,Qatar,1,1,Switzerland,0
+9,Zoe,Fase de Grupos,Ivory Coast,2,1,Ecuador,0
+10,Zoe,Fase de Grupos,Germany,2,0,Curaçao,0
 11,Zoe,Fase de Grupos,Netherlands,3,1,Japan,0
 12,Zoe,Fase de Grupos,Sweden,2,2,Tunisia,0
 13,Zoe,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
@@ -8500,16 +8500,16 @@
 103,Zoe,Semi-Finals,Spain,1,0,Brazil,0
 104,Zoe,Semi-Finals,Netherlands,0,1,Portugal,0
 105,Zoe,Final,Spain,1,0,Brazil,0
-1,Juli Susías,Fase de Grupos,Mexico,3,1,South Africa,1
+1,Juli Susías,Fase de Grupos,Mexico,3,1,South Africa,0
 2,Juli Susías,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
 3,Juli Susías,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Juli Susías,Fase de Grupos,United States,2,0,Paraguay,1
-5,Juli Susías,Fase de Grupos,Haiti,0,4,Scotland,1
+4,Juli Susías,Fase de Grupos,United States,2,0,Paraguay,0
+5,Juli Susías,Fase de Grupos,Haiti,0,4,Scotland,0
 6,Juli Susías,Fase de Grupos,Australia,1,3,Turkey,0
 7,Juli Susías,Fase de Grupos,Brazil,2,3,Morocco,0
 8,Juli Susías,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Juli Susías,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Juli Susías,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Juli Susías,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Juli Susías,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Juli Susías,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Juli Susías,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
@@ -8605,17 +8605,17 @@
 103,Juli Susías,Semi-Finals,France,1,0,Portugal,0
 104,Juli Susías,Semi-Finals,Spain,1,0,Morocco,0
 105,Juli Susías,Final,France,1,0,Portugal,0
-1,Gonzalo Bravo,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Gonzalo Bravo,Fase de Grupos,Korea Republic,1,0,Czech Republic,1
+1,Gonzalo Bravo,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Gonzalo Bravo,Fase de Grupos,Korea Republic,1,0,Czech Republic,0
 3,Gonzalo Bravo,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Gonzalo Bravo,Fase de Grupos,United States,1,0,Paraguay,1
-5,Gonzalo Bravo,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Gonzalo Bravo,Fase de Grupos,United States,1,0,Paraguay,0
+5,Gonzalo Bravo,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Gonzalo Bravo,Fase de Grupos,Australia,0,1,Turkey,0
-7,Gonzalo Bravo,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Gonzalo Bravo,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Gonzalo Bravo,Fase de Grupos,Qatar,0,3,Switzerland,0
 9,Gonzalo Bravo,Fase de Grupos,Ivory Coast,2,2,Ecuador,0
-10,Gonzalo Bravo,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Gonzalo Bravo,Fase de Grupos,Netherlands,2,2,Japan,3
+10,Gonzalo Bravo,Fase de Grupos,Germany,4,0,Curaçao,0
+11,Gonzalo Bravo,Fase de Grupos,Netherlands,2,2,Japan,0
 12,Gonzalo Bravo,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Gonzalo Bravo,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Gonzalo Bravo,Fase de Grupos,Spain,4,0,Cape Verde,0
@@ -8710,16 +8710,16 @@
 103,Gonzalo Bravo,Semi-Finals,Spain,1,0,Argentina,0
 104,Gonzalo Bravo,Semi-Finals,France,,,England,0
 105,Gonzalo Bravo,Final,Spain,1,0,Argentina,0
-1,Edu Martínez,Fase de Grupos,Mexico,3,1,South Africa,1
+1,Edu Martínez,Fase de Grupos,Mexico,3,1,South Africa,0
 2,Edu Martínez,Fase de Grupos,Korea Republic,0,1,Czech Republic,0
-3,Edu Martínez,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
+3,Edu Martínez,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
 4,Edu Martínez,Fase de Grupos,United States,2,3,Paraguay,0
-5,Edu Martínez,Fase de Grupos,Haiti,1,5,Scotland,1
+5,Edu Martínez,Fase de Grupos,Haiti,1,5,Scotland,0
 6,Edu Martínez,Fase de Grupos,Australia,1,3,Turkey,0
-7,Edu Martínez,Fase de Grupos,Brazil,1,1,Morocco,3
-8,Edu Martínez,Fase de Grupos,Qatar,0,0,Switzerland,1
+7,Edu Martínez,Fase de Grupos,Brazil,1,1,Morocco,0
+8,Edu Martínez,Fase de Grupos,Qatar,0,0,Switzerland,0
 9,Edu Martínez,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Edu Martínez,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Edu Martínez,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Edu Martínez,Fase de Grupos,Netherlands,4,1,Japan,0
 12,Edu Martínez,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Edu Martínez,Fase de Grupos,Saudi Arabia,2,3,Uruguay,0
@@ -8819,14 +8819,14 @@
 2,Jesús Latrónico,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
 3,Jesús Latrónico,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
 4,Jesús Latrónico,Fase de Grupos,United States,1,1,Paraguay,0
-5,Jesús Latrónico,Fase de Grupos,Haiti,0,3,Scotland,1
+5,Jesús Latrónico,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Jesús Latrónico,Fase de Grupos,Australia,0,1,Turkey,0
 7,Jesús Latrónico,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Jesús Latrónico,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Jesús Latrónico,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Jesús Latrónico,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Jesús Latrónico,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Jesús Latrónico,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Jesús Latrónico,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Jesús Latrónico,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Jesús Latrónico,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
 14,Jesús Latrónico,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Jesús Latrónico,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -8920,18 +8920,18 @@
 103,Jesús Latrónico,Semi-Finals,Spain,2,0,England,0
 104,Jesús Latrónico,Semi-Finals,France,3,3,Argentina,0
 105,Jesús Latrónico,Final,Spain,2,0,England,0
-1,David Cerisola,Fase de Grupos,Mexico,2,1,South Africa,1
+1,David Cerisola,Fase de Grupos,Mexico,2,1,South Africa,0
 2,David Cerisola,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,David Cerisola,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,David Cerisola,Fase de Grupos,United States,2,0,Paraguay,1
-5,David Cerisola,Fase de Grupos,Haiti,0,2,Scotland,1
+4,David Cerisola,Fase de Grupos,United States,2,0,Paraguay,0
+5,David Cerisola,Fase de Grupos,Haiti,0,2,Scotland,0
 6,David Cerisola,Fase de Grupos,Australia,1,2,Turkey,0
 7,David Cerisola,Fase de Grupos,Brazil,3,1,Morocco,0
 8,David Cerisola,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,David Cerisola,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,David Cerisola,Fase de Grupos,Germany,3,0,Curaçao,1
-11,David Cerisola,Fase de Grupos,Netherlands,1,1,Japan,1
-12,David Cerisola,Fase de Grupos,Sweden,2,1,Tunisia,1
+10,David Cerisola,Fase de Grupos,Germany,3,0,Curaçao,0
+11,David Cerisola,Fase de Grupos,Netherlands,1,1,Japan,0
+12,David Cerisola,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,David Cerisola,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,David Cerisola,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,David Cerisola,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -9026,15 +9026,15 @@
 104,David Cerisola,Semi-Finals,Spain,0,1,Brazil,0
 105,David Cerisola,Final,France,0,1,Portugal,0
 1,Guillermo Burdiel,Fase de Grupos,Mexico,1,1,South Africa,0
-2,Guillermo Burdiel,Fase de Grupos,Korea Republic,2,0,Czech Republic,1
+2,Guillermo Burdiel,Fase de Grupos,Korea Republic,2,0,Czech Republic,0
 3,Guillermo Burdiel,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
 4,Guillermo Burdiel,Fase de Grupos,United States,0,0,Paraguay,0
 5,Guillermo Burdiel,Fase de Grupos,Haiti,1,0,Scotland,0
 6,Guillermo Burdiel,Fase de Grupos,Australia,1,2,Turkey,0
-7,Guillermo Burdiel,Fase de Grupos,Brazil,2,2,Morocco,1
-8,Guillermo Burdiel,Fase de Grupos,Qatar,1,1,Switzerland,3
+7,Guillermo Burdiel,Fase de Grupos,Brazil,2,2,Morocco,0
+8,Guillermo Burdiel,Fase de Grupos,Qatar,1,1,Switzerland,0
 9,Guillermo Burdiel,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Guillermo Burdiel,Fase de Grupos,Germany,3,1,Curaçao,1
+10,Guillermo Burdiel,Fase de Grupos,Germany,3,1,Curaçao,0
 11,Guillermo Burdiel,Fase de Grupos,Netherlands,0,1,Japan,0
 12,Guillermo Burdiel,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Guillermo Burdiel,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -9130,18 +9130,18 @@
 103,Guillermo Burdiel,Semi-Finals,Spain,2,0,Argentina,0
 104,Guillermo Burdiel,Semi-Finals,France,1,0,England,0
 105,Guillermo Burdiel,Final,Spain,2,0,Argentina,0
-1,Alberto Mendoza,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Alberto Mendoza,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Alberto Mendoza,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Alberto Mendoza,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
 4,Alberto Mendoza,Fase de Grupos,United States,0,1,Paraguay,0
-5,Alberto Mendoza,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Alberto Mendoza,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Alberto Mendoza,Fase de Grupos,Australia,0,3,Turkey,0
 7,Alberto Mendoza,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Alberto Mendoza,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Alberto Mendoza,Fase de Grupos,Ivory Coast,0,0,Ecuador,0
-10,Alberto Mendoza,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Alberto Mendoza,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Alberto Mendoza,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Alberto Mendoza,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Alberto Mendoza,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Alberto Mendoza,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Alberto Mendoza,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Alberto Mendoza,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -9235,18 +9235,18 @@
 103,Alberto Mendoza,Semi-Finals,Spain,1,0,Portugal,0
 104,Alberto Mendoza,Semi-Finals,France,1,0,England,0
 105,Alberto Mendoza,Final,Spain,1,0,Portugal,0
-1,Javier Crespo,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Javier Crespo,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Javier Crespo,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Javier Crespo,Fase de Grupos,Canada,3,0,Bosnia and Herzegovina,0
-4,Javier Crespo,Fase de Grupos,United States,2,1,Paraguay,1
-5,Javier Crespo,Fase de Grupos,Haiti,0,4,Scotland,1
+4,Javier Crespo,Fase de Grupos,United States,2,1,Paraguay,0
+5,Javier Crespo,Fase de Grupos,Haiti,0,4,Scotland,0
 6,Javier Crespo,Fase de Grupos,Australia,1,2,Turkey,0
-7,Javier Crespo,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Javier Crespo,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Javier Crespo,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Javier Crespo,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Javier Crespo,Fase de Grupos,Germany,7,0,Curaçao,1
+10,Javier Crespo,Fase de Grupos,Germany,7,0,Curaçao,0
 11,Javier Crespo,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Javier Crespo,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Javier Crespo,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Javier Crespo,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Javier Crespo,Fase de Grupos,Spain,5,0,Cape Verde,0
 15,Javier Crespo,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -9340,18 +9340,18 @@
 103,Javier Crespo,Semi-Finals,Spain,1,0,Portugal,0
 104,Javier Crespo,Semi-Finals,France,2,0,England,0
 105,Javier Crespo,Final,Spain,1,0,Portugal,0
-1,Manu Montejo,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Manu Montejo,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Manu Montejo,Fase de Grupos,Korea Republic,2,2,Czech Republic,0
 3,Manu Montejo,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Manu Montejo,Fase de Grupos,United States,2,1,Paraguay,1
-5,Manu Montejo,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Manu Montejo,Fase de Grupos,United States,2,1,Paraguay,0
+5,Manu Montejo,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Manu Montejo,Fase de Grupos,Australia,1,1,Turkey,0
-7,Manu Montejo,Fase de Grupos,Brazil,1,1,Morocco,3
-8,Manu Montejo,Fase de Grupos,Qatar,1,1,Switzerland,3
+7,Manu Montejo,Fase de Grupos,Brazil,1,1,Morocco,0
+8,Manu Montejo,Fase de Grupos,Qatar,1,1,Switzerland,0
 9,Manu Montejo,Fase de Grupos,Ivory Coast,2,2,Ecuador,0
-10,Manu Montejo,Fase de Grupos,Germany,5,0,Curaçao,1
-11,Manu Montejo,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Manu Montejo,Fase de Grupos,Sweden,3,0,Tunisia,1
+10,Manu Montejo,Fase de Grupos,Germany,5,0,Curaçao,0
+11,Manu Montejo,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Manu Montejo,Fase de Grupos,Sweden,3,0,Tunisia,0
 13,Manu Montejo,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Manu Montejo,Fase de Grupos,Spain,2,1,Cape Verde,0
 15,Manu Montejo,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -9445,18 +9445,18 @@
 103,Manu Montejo,Semi-Finals,Spain,1,0,Brazil,0
 104,Manu Montejo,Semi-Finals,France,1,0,Portugal,0
 105,Manu Montejo,Final,Spain,1,0,Brazil,0
-1,Dani Rosas,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Dani Rosas,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Dani Rosas,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
 3,Dani Rosas,Fase de Grupos,Canada,1,2,Bosnia and Herzegovina,0
-4,Dani Rosas,Fase de Grupos,United States,2,1,Paraguay,1
+4,Dani Rosas,Fase de Grupos,United States,2,1,Paraguay,0
 5,Dani Rosas,Fase de Grupos,Haiti,1,1,Scotland,0
 6,Dani Rosas,Fase de Grupos,Australia,1,3,Turkey,0
 7,Dani Rosas,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Dani Rosas,Fase de Grupos,Qatar,1,2,Switzerland,0
-9,Dani Rosas,Fase de Grupos,Ivory Coast,2,1,Ecuador,1
-10,Dani Rosas,Fase de Grupos,Germany,3,0,Curaçao,1
+9,Dani Rosas,Fase de Grupos,Ivory Coast,2,1,Ecuador,0
+10,Dani Rosas,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Dani Rosas,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Dani Rosas,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Dani Rosas,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Dani Rosas,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Dani Rosas,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Dani Rosas,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -9550,18 +9550,18 @@
 103,Dani Rosas,Semi-Finals,Spain,3,1,Brazil,0
 104,Dani Rosas,Semi-Finals,France,1,2,Argentina,0
 105,Dani Rosas,Final,Spain,3,1,Brazil,0
-1,Tío Javi,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Tío Javi,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Tío Javi,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Tío Javi,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
-4,Tío Javi,Fase de Grupos,United States,2,1,Paraguay,1
-5,Tío Javi,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Tío Javi,Fase de Grupos,United States,2,1,Paraguay,0
+5,Tío Javi,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Tío Javi,Fase de Grupos,Australia,1,2,Turkey,0
 7,Tío Javi,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Tío Javi,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Tío Javi,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Tío Javi,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Tío Javi,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Tío Javi,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Tío Javi,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Tío Javi,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Tío Javi,Fase de Grupos,Saudi Arabia,0,1,Uruguay,0
 14,Tío Javi,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Tío Javi,Fase de Grupos,Iran,2,1,New Zealand,0
@@ -9655,18 +9655,18 @@
 103,Tío Javi,Semi-Finals,Spain,2,0,Argentina,0
 104,Tío Javi,Semi-Finals,France,1,0,Brazil,0
 105,Tío Javi,Final,Spain,2,0,Argentina,0
-1,Luis Carreras,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Luis Carreras,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Luis Carreras,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
-3,Luis Carreras,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Luis Carreras,Fase de Grupos,United States,1,0,Paraguay,1
-5,Luis Carreras,Fase de Grupos,Haiti,0,2,Scotland,1
+3,Luis Carreras,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Luis Carreras,Fase de Grupos,United States,1,0,Paraguay,0
+5,Luis Carreras,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Luis Carreras,Fase de Grupos,Australia,1,2,Turkey,0
-7,Luis Carreras,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Luis Carreras,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Luis Carreras,Fase de Grupos,Qatar,1,3,Switzerland,0
 9,Luis Carreras,Fase de Grupos,Ivory Coast,0,0,Ecuador,0
-10,Luis Carreras,Fase de Grupos,Germany,6,0,Curaçao,1
+10,Luis Carreras,Fase de Grupos,Germany,6,0,Curaçao,0
 11,Luis Carreras,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Luis Carreras,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Luis Carreras,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Luis Carreras,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Luis Carreras,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Luis Carreras,Fase de Grupos,Iran,1,1,New Zealand,0
@@ -9760,18 +9760,18 @@
 103,Luis Carreras,Semi-Finals,Spain,1,0,England,0
 104,Luis Carreras,Semi-Finals,France,0,1,Argentina,0
 105,Luis Carreras,Final,Spain,1,0,England,0
-1,Dani Galán,Fase de Grupos,Mexico,2,1,South Africa,1
-2,Dani Galán,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Dani Galán,Fase de Grupos,Mexico,2,1,South Africa,0
+2,Dani Galán,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Dani Galán,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
-4,Dani Galán,Fase de Grupos,United States,2,0,Paraguay,1
-5,Dani Galán,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Dani Galán,Fase de Grupos,United States,2,0,Paraguay,0
+5,Dani Galán,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Dani Galán,Fase de Grupos,Australia,1,2,Turkey,0
 7,Dani Galán,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Dani Galán,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Dani Galán,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Dani Galán,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Dani Galán,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Dani Galán,Fase de Grupos,Sweden,1,0,Tunisia,1
+10,Dani Galán,Fase de Grupos,Germany,3,0,Curaçao,0
+11,Dani Galán,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Dani Galán,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Dani Galán,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Dani Galán,Fase de Grupos,Spain,2,0,Cape Verde,0
 15,Dani Galán,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -9865,18 +9865,18 @@
 103,Dani Galán,Semi-Finals,France,1,2,Portugal,0
 104,Dani Galán,Semi-Finals,Spain,1,2,Brazil,0
 105,Dani Galán,Final,France,1,2,Portugal,0
-1,Natalia,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Natalia,Fase de Grupos,Korea Republic,1,0,Czech Republic,1
+1,Natalia,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Natalia,Fase de Grupos,Korea Republic,1,0,Czech Republic,0
 3,Natalia,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Natalia,Fase de Grupos,United States,2,0,Paraguay,1
-5,Natalia,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Natalia,Fase de Grupos,United States,2,0,Paraguay,0
+5,Natalia,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Natalia,Fase de Grupos,Australia,1,2,Turkey,0
 7,Natalia,Fase de Grupos,Brazil,1,0,Morocco,0
 8,Natalia,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Natalia,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Natalia,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Natalia,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Natalia,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Natalia,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Natalia,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Natalia,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Natalia,Fase de Grupos,Spain,5,0,Cape Verde,0
 15,Natalia,Fase de Grupos,Iran,3,0,New Zealand,0
@@ -9971,17 +9971,17 @@
 104,Natalia,Semi-Finals,Spain,1,0,England,0
 105,Natalia,Final,France,1,1,Argentina,0
 1,Luis Torres,Fase de Grupos,México,1,1,Sudáfrica,0
-2,Luis Torres,Fase de Grupos,República de Corea,1,0,República Checa,1
+2,Luis Torres,Fase de Grupos,República de Corea,1,0,República Checa,0
 3,Luis Torres,Fase de Grupos,Canadá,2,0,Bosnia y Herzegovina,0
 4,Luis Torres,Fase de Grupos,Estados Unidos,0,0,Paraguay,0
-5,Luis Torres,Fase de Grupos,Haití,0,2,Escocia,1
+5,Luis Torres,Fase de Grupos,Haití,0,2,Escocia,0
 6,Luis Torres,Fase de Grupos,Australia,0,3,Turquía,0
-7,Luis Torres,Fase de Grupos,Brasil,2,2,Marruecos,1
+7,Luis Torres,Fase de Grupos,Brasil,2,2,Marruecos,0
 8,Luis Torres,Fase de Grupos,Katar,1,2,Suiza,0
 9,Luis Torres,Fase de Grupos,Costa de Marfil,1,1,Ecuador,0
-10,Luis Torres,Fase de Grupos,Alemania,6,0,Curazao,1
+10,Luis Torres,Fase de Grupos,Alemania,6,0,Curazao,0
 11,Luis Torres,Fase de Grupos,Países Bajos,2,1,Japón,0
-12,Luis Torres,Fase de Grupos,Suecia,2,1,Túnez,1
+12,Luis Torres,Fase de Grupos,Suecia,2,1,Túnez,0
 13,Luis Torres,Fase de Grupos,Arabia Saudita,1,2,Uruguay,0
 14,Luis Torres,Fase de Grupos,España,4,0,Cabo Verde,0
 15,Luis Torres,Fase de Grupos,Irán,1,0,Nueva Zelanda,0
@@ -10075,18 +10075,18 @@
 103,Luis Torres,Semifinales,España,2,1,Inglaterra,0
 104,Luis Torres,Semifinales,Marruecos,3,2,Portugal,0
 105,Luis Torres,Final,España,2,1,Inglaterra,0
-1,Jorge Martín,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Jorge Martín,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Jorge Martín,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Jorge Martín,Fase de Grupos,Canada,1,2,Bosnia and Herzegovina,0
-4,Jorge Martín,Fase de Grupos,United States,2,1,Paraguay,1
-5,Jorge Martín,Fase de Grupos,Haiti,0,1,Scotland,3
+4,Jorge Martín,Fase de Grupos,United States,2,1,Paraguay,0
+5,Jorge Martín,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Jorge Martín,Fase de Grupos,Australia,1,1,Turkey,0
 7,Jorge Martín,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Jorge Martín,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Jorge Martín,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Jorge Martín,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Jorge Martín,Fase de Grupos,Netherlands,1,1,Japan,1
-12,Jorge Martín,Fase de Grupos,Sweden,1,0,Tunisia,1
+10,Jorge Martín,Fase de Grupos,Germany,4,0,Curaçao,0
+11,Jorge Martín,Fase de Grupos,Netherlands,1,1,Japan,0
+12,Jorge Martín,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Jorge Martín,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Jorge Martín,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Jorge Martín,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -10180,18 +10180,18 @@
 103,Jorge Martín,Semi-Finals,Spain,1,0,Portugal,0
 104,Jorge Martín,Semi-Finals,France,0,1,Brazil,0
 105,Jorge Martín,Final,Spain,1,0,Portugal,0
-1,Jose Díaz,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Jose Díaz,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Jose Díaz,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Jose Díaz,Fase de Grupos,Canada,3,0,Bosnia and Herzegovina,0
-4,Jose Díaz,Fase de Grupos,United States,2,0,Paraguay,1
-5,Jose Díaz,Fase de Grupos,Haiti,0,3,Scotland,1
+4,Jose Díaz,Fase de Grupos,United States,2,0,Paraguay,0
+5,Jose Díaz,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Jose Díaz,Fase de Grupos,Australia,0,2,Turkey,0
-7,Jose Díaz,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Jose Díaz,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Jose Díaz,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Jose Díaz,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Jose Díaz,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Jose Díaz,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Jose Díaz,Fase de Grupos,Netherlands,3,1,Japan,0
-12,Jose Díaz,Fase de Grupos,Sweden,3,2,Tunisia,1
+12,Jose Díaz,Fase de Grupos,Sweden,3,2,Tunisia,0
 13,Jose Díaz,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Jose Díaz,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Jose Díaz,Fase de Grupos,Iran,3,3,New Zealand,0
@@ -10285,16 +10285,16 @@
 103,Jose Díaz,Semi-Finals,Spain,1,0,Portugal,0
 104,Jose Díaz,Semi-Finals,Ecuador,1,0,France,0
 105,Jose Díaz,Final,Spain,1,0,Portugal,0
-1,José Ángel López,Fase de Grupos,Mexico,2,0,South Africa,3
-2,José Ángel López,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,José Ángel López,Fase de Grupos,Mexico,2,0,South Africa,0
+2,José Ángel López,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,José Ángel López,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
 4,José Ángel López,Fase de Grupos,United States,1,1,Paraguay,0
-5,José Ángel López,Fase de Grupos,Haiti,0,3,Scotland,1
+5,José Ángel López,Fase de Grupos,Haiti,0,3,Scotland,0
 6,José Ángel López,Fase de Grupos,Australia,0,2,Turkey,0
-7,José Ángel López,Fase de Grupos,Brazil,1,1,Morocco,3
+7,José Ángel López,Fase de Grupos,Brazil,1,1,Morocco,0
 8,José Ángel López,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,José Ángel López,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,José Ángel López,Fase de Grupos,Germany,4,0,Curaçao,1
+10,José Ángel López,Fase de Grupos,Germany,4,0,Curaçao,0
 11,José Ángel López,Fase de Grupos,Netherlands,2,1,Japan,0
 12,José Ángel López,Fase de Grupos,Sweden,0,1,Tunisia,0
 13,José Ángel López,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -10390,18 +10390,18 @@
 103,José Ángel López,Semi-Finals,Spain,2,1,Portugal,0
 104,José Ángel López,Semi-Finals,France,2,0,Brazil,0
 105,José Ángel López,Final,Spain,2,1,Portugal,0
-1,Arkaitz,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Arkaitz,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Arkaitz,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
 3,Arkaitz,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
 4,Arkaitz,Fase de Grupos,United States,0,3,Paraguay,0
-5,Arkaitz,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Arkaitz,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Arkaitz,Fase de Grupos,Australia,0,3,Turkey,0
-7,Arkaitz,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Arkaitz,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Arkaitz,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Arkaitz,Fase de Grupos,Ivory Coast,1,3,Ecuador,0
-10,Arkaitz,Fase de Grupos,Germany,2,0,Curaçao,1
-11,Arkaitz,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Arkaitz,Fase de Grupos,Sweden,1,0,Tunisia,1
+10,Arkaitz,Fase de Grupos,Germany,2,0,Curaçao,0
+11,Arkaitz,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Arkaitz,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Arkaitz,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
 14,Arkaitz,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Arkaitz,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -10495,18 +10495,18 @@
 103,Arkaitz,Semi-Finals,Spain,1,0,Portugal,0
 104,Arkaitz,Semi-Finals,Germany,0,1,Norway,0
 105,Arkaitz,Final,Spain,1,0,Portugal,0
-1,Zuhaitz,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Zuhaitz,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
+1,Zuhaitz,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Zuhaitz,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
 3,Zuhaitz,Fase de Grupos,Canada,0,1,Bosnia and Herzegovina,0
 4,Zuhaitz,Fase de Grupos,United States,0,1,Paraguay,0
-5,Zuhaitz,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Zuhaitz,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Zuhaitz,Fase de Grupos,Australia,0,1,Turkey,0
 7,Zuhaitz,Fase de Grupos,Brazil,0,2,Morocco,0
 8,Zuhaitz,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Zuhaitz,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Zuhaitz,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Zuhaitz,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Zuhaitz,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Zuhaitz,Fase de Grupos,Sweden,2,1,Tunisia,1
+12,Zuhaitz,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Zuhaitz,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
 14,Zuhaitz,Fase de Grupos,Spain,3,1,Cape Verde,0
 15,Zuhaitz,Fase de Grupos,Iran,1,2,New Zealand,0
@@ -10600,18 +10600,18 @@
 103,Zuhaitz,Semi-Finals,Spain,1,0,England,0
 104,Zuhaitz,Semi-Finals,Germany,0,1,Portugal,0
 105,Zuhaitz,Final,Spain,1,0,England,0
-1,Dani Blasco,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Dani Blasco,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Dani Blasco,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
 3,Dani Blasco,Fase de Grupos,Canada,1,3,Bosnia and Herzegovina,0
-4,Dani Blasco,Fase de Grupos,United States,1,0,Paraguay,1
-5,Dani Blasco,Fase de Grupos,Haiti,0,1,Scotland,3
+4,Dani Blasco,Fase de Grupos,United States,1,0,Paraguay,0
+5,Dani Blasco,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Dani Blasco,Fase de Grupos,Australia,1,1,Turkey,0
 7,Dani Blasco,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Dani Blasco,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Dani Blasco,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Dani Blasco,Fase de Grupos,Germany,2,0,Curaçao,1
+10,Dani Blasco,Fase de Grupos,Germany,2,0,Curaçao,0
 11,Dani Blasco,Fase de Grupos,Netherlands,3,0,Japan,0
-12,Dani Blasco,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Dani Blasco,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Dani Blasco,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Dani Blasco,Fase de Grupos,Spain,4,0,Cape Verde,0
 15,Dani Blasco,Fase de Grupos,Iran,0,0,New Zealand,0
@@ -10707,14 +10707,14 @@
 105,Dani Blasco,Final,Spain,1,0,Brazil,0
 1,Fernando Bravo,Fase de Grupos,Mexico,0,0,South Africa,0
 2,Fernando Bravo,Fase de Grupos,Korea Republic,0,1,Czech Republic,0
-3,Fernando Bravo,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Fernando Bravo,Fase de Grupos,United States,1,0,Paraguay,1
-5,Fernando Bravo,Fase de Grupos,Haiti,1,3,Scotland,1
+3,Fernando Bravo,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Fernando Bravo,Fase de Grupos,United States,1,0,Paraguay,0
+5,Fernando Bravo,Fase de Grupos,Haiti,1,3,Scotland,0
 6,Fernando Bravo,Fase de Grupos,Australia,0,0,Turkey,0
-7,Fernando Bravo,Fase de Grupos,Brazil,1,1,Morocco,3
+7,Fernando Bravo,Fase de Grupos,Brazil,1,1,Morocco,0
 8,Fernando Bravo,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Fernando Bravo,Fase de Grupos,Ivory Coast,0,0,Ecuador,0
-10,Fernando Bravo,Fase de Grupos,Germany,6,0,Curaçao,1
+10,Fernando Bravo,Fase de Grupos,Germany,6,0,Curaçao,0
 11,Fernando Bravo,Fase de Grupos,Netherlands,2,0,Japan,0
 12,Fernando Bravo,Fase de Grupos,Sweden,0,0,Tunisia,0
 13,Fernando Bravo,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -10810,18 +10810,18 @@
 103,Fernando Bravo,Semi-Finals,France,1,2,Argentina,0
 104,Fernando Bravo,Semi-Finals,Spain,2,1,Brazil,0
 105,Fernando Bravo,Final,France,1,2,Argentina,0
-1,Pietro Bucarelli,Fase de Grupos,Messico,2,1,Sudafrica,1
+1,Pietro Bucarelli,Fase de Grupos,Messico,2,1,Sudafrica,0
 2,Pietro Bucarelli,Fase de Grupos,Corea del Sud,1,1,Repubblica Ceca,0
 3,Pietro Bucarelli,Fase de Grupos,Canada,1,0,Bosnia ed Erzegovina,0
-4,Pietro Bucarelli,Fase de Grupos,Stati Uniti,2,0,Paraguay,1
-5,Pietro Bucarelli,Fase de Grupos,Haiti,0,3,Scozia,1
+4,Pietro Bucarelli,Fase de Grupos,Stati Uniti,2,0,Paraguay,0
+5,Pietro Bucarelli,Fase de Grupos,Haiti,0,3,Scozia,0
 6,Pietro Bucarelli,Fase de Grupos,Australia,1,3,Turchia,0
 7,Pietro Bucarelli,Fase de Grupos,Brasile,2,0,Marocco,0
 8,Pietro Bucarelli,Fase de Grupos,Qatar,0,3,Svizzera,0
 9,Pietro Bucarelli,Fase de Grupos,Costa d'Avorio,1,1,Ecuador,0
-10,Pietro Bucarelli,Fase de Grupos,Germania,6,0,Curaçao,1
+10,Pietro Bucarelli,Fase de Grupos,Germania,6,0,Curaçao,0
 11,Pietro Bucarelli,Fase de Grupos,Olanda,3,1,Giappone,0
-12,Pietro Bucarelli,Fase de Grupos,Svezia,2,1,Tunisia,1
+12,Pietro Bucarelli,Fase de Grupos,Svezia,2,1,Tunisia,0
 13,Pietro Bucarelli,Fase de Grupos,Arabia Saudita,0,1,Uruguay,0
 14,Pietro Bucarelli,Fase de Grupos,Spagna,4,0,Capo Verde,0
 15,Pietro Bucarelli,Fase de Grupos,Iran,1,1,Nuova Zelanda,0
@@ -10915,18 +10915,18 @@
 103,Pietro Bucarelli,Semifinali,Spagna,2,1,Brasile,0
 104,Pietro Bucarelli,Semifinali,Francia,1,1,Portogallo,0
 105,Pietro Bucarelli,Final,Spagna,2,1,Brasile,0
-1,Guillermo Aguilar,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Guillermo Aguilar,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Guillermo Aguilar,Fase de Grupos,Korea Republic,1,2,Czech Republic,0
-3,Guillermo Aguilar,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Guillermo Aguilar,Fase de Grupos,United States,2,0,Paraguay,1
-5,Guillermo Aguilar,Fase de Grupos,Haiti,0,2,Scotland,1
+3,Guillermo Aguilar,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Guillermo Aguilar,Fase de Grupos,United States,2,0,Paraguay,0
+5,Guillermo Aguilar,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Guillermo Aguilar,Fase de Grupos,Australia,1,3,Turkey,0
 7,Guillermo Aguilar,Fase de Grupos,Brazil,3,1,Morocco,0
 8,Guillermo Aguilar,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Guillermo Aguilar,Fase de Grupos,Ivory Coast,1,2,Ecuador,0
-10,Guillermo Aguilar,Fase de Grupos,Germany,4,0,Curaçao,1
-11,Guillermo Aguilar,Fase de Grupos,Netherlands,2,2,Japan,3
-12,Guillermo Aguilar,Fase de Grupos,Sweden,1,0,Tunisia,1
+10,Guillermo Aguilar,Fase de Grupos,Germany,4,0,Curaçao,0
+11,Guillermo Aguilar,Fase de Grupos,Netherlands,2,2,Japan,0
+12,Guillermo Aguilar,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Guillermo Aguilar,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Guillermo Aguilar,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Guillermo Aguilar,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -11020,18 +11020,18 @@
 103,Guillermo Aguilar,Semi-Finals,France,1,2,Portugal,0
 104,Guillermo Aguilar,Semi-Finals,Spain,2,1,England,0
 105,Guillermo Aguilar,Final,France,1,2,Portugal,0
-1,Fer Griñán,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Fer Griñán,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Fer Griñán,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Fer Griñán,Fase de Grupos,Canada,3,1,Bosnia and Herzegovina,0
 4,Fer Griñán,Fase de Grupos,United States,0,1,Paraguay,0
-5,Fer Griñán,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Fer Griñán,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Fer Griñán,Fase de Grupos,Australia,0,2,Turkey,0
-7,Fer Griñán,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Fer Griñán,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Fer Griñán,Fase de Grupos,Qatar,0,1,Switzerland,0
 9,Fer Griñán,Fase de Grupos,Ivory Coast,0,2,Ecuador,0
-10,Fer Griñán,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Fer Griñán,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Fer Griñán,Fase de Grupos,Netherlands,3,1,Japan,0
-12,Fer Griñán,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Fer Griñán,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Fer Griñán,Fase de Grupos,Saudi Arabia,1,3,Uruguay,0
 14,Fer Griñán,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Fer Griñán,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -11125,16 +11125,16 @@
 103,Fer Griñán,Semi-Finals,France,1,1,Brazil,0
 104,Fer Griñán,Semi-Finals,Uruguay,0,0,Portugal,0
 105,Fer Griñán,Final,France,1,1,Brazil,0
-1,Félix Burgos,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Félix Burgos,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Félix Burgos,Fase de Grupos,Korea Republic,0,3,Czech Republic,0
-3,Félix Burgos,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Félix Burgos,Fase de Grupos,United States,2,1,Paraguay,1
-5,Félix Burgos,Fase de Grupos,Haiti,0,3,Scotland,1
+3,Félix Burgos,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Félix Burgos,Fase de Grupos,United States,2,1,Paraguay,0
+5,Félix Burgos,Fase de Grupos,Haiti,0,3,Scotland,0
 6,Félix Burgos,Fase de Grupos,Australia,1,3,Turkey,0
 7,Félix Burgos,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Félix Burgos,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Félix Burgos,Fase de Grupos,Ivory Coast,0,4,Ecuador,0
-10,Félix Burgos,Fase de Grupos,Germany,5,0,Curaçao,1
+10,Félix Burgos,Fase de Grupos,Germany,5,0,Curaçao,0
 11,Félix Burgos,Fase de Grupos,Netherlands,3,0,Japan,0
 12,Félix Burgos,Fase de Grupos,Sweden,2,2,Tunisia,0
 13,Félix Burgos,Fase de Grupos,Saudi Arabia,0,3,Uruguay,0
@@ -11230,18 +11230,18 @@
 103,Félix Burgos,Semi-Finals,France,1,0,Argentina,0
 104,Félix Burgos,Semi-Finals,Spain,1,0,Brazil,0
 105,Félix Burgos,Final,France,1,0,Argentina,0
-1,Fernando González,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Fernando González,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Fernando González,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Fernando González,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Fernando González,Fase de Grupos,United States,2,1,Paraguay,1
-5,Fernando González,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Fernando González,Fase de Grupos,United States,2,1,Paraguay,0
+5,Fernando González,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Fernando González,Fase de Grupos,Australia,1,2,Turkey,0
 7,Fernando González,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Fernando González,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Fernando González,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Fernando González,Fase de Grupos,Germany,6,0,Curaçao,1
+10,Fernando González,Fase de Grupos,Germany,6,0,Curaçao,0
 11,Fernando González,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Fernando González,Fase de Grupos,Sweden,2,1,Tunisia,1
+12,Fernando González,Fase de Grupos,Sweden,2,1,Tunisia,0
 13,Fernando González,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Fernando González,Fase de Grupos,Spain,5,0,Cape Verde,0
 15,Fernando González,Fase de Grupos,Iran,1,0,New Zealand,0
@@ -11335,18 +11335,18 @@
 103,Fernando González,Semi-Finals,Spain,1,0,Portugal,0
 104,Fernando González,Semi-Finals,Netherlands,1,0,England,0
 105,Fernando González,Final,Spain,1,0,Portugal,0
-1,Jorge Antona,Fase de Grupos,Mexico,2,0,South Africa,3
+1,Jorge Antona,Fase de Grupos,Mexico,2,0,South Africa,0
 2,Jorge Antona,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Jorge Antona,Fase de Grupos,Canada,2,1,Bosnia and Herzegovina,0
-4,Jorge Antona,Fase de Grupos,United States,2,0,Paraguay,1
-5,Jorge Antona,Fase de Grupos,Haiti,0,2,Scotland,1
+4,Jorge Antona,Fase de Grupos,United States,2,0,Paraguay,0
+5,Jorge Antona,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Jorge Antona,Fase de Grupos,Australia,1,2,Turkey,0
 7,Jorge Antona,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Jorge Antona,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Jorge Antona,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Jorge Antona,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Jorge Antona,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Jorge Antona,Fase de Grupos,Netherlands,2,1,Japan,0
-12,Jorge Antona,Fase de Grupos,Sweden,2,0,Tunisia,1
+12,Jorge Antona,Fase de Grupos,Sweden,2,0,Tunisia,0
 13,Jorge Antona,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
 14,Jorge Antona,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Jorge Antona,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -11440,16 +11440,16 @@
 103,Jorge Antona,Semi-Finals,Spain,2,1,Argentina,0
 104,Jorge Antona,Semi-Finals,France,4,2,England,0
 105,Jorge Antona,Final,Spain,2,1,Argentina,0
-1,Álvaro Antona,Fase de Grupos,Mexico,2,1,South Africa,1
-2,Álvaro Antona,Fase de Grupos,Korea Republic,3,1,Czech Republic,1
+1,Álvaro Antona,Fase de Grupos,Mexico,2,1,South Africa,0
+2,Álvaro Antona,Fase de Grupos,Korea Republic,3,1,Czech Republic,0
 3,Álvaro Antona,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Álvaro Antona,Fase de Grupos,United States,2,0,Paraguay,1
-5,Álvaro Antona,Fase de Grupos,Haiti,0,1,Scotland,3
+4,Álvaro Antona,Fase de Grupos,United States,2,0,Paraguay,0
+5,Álvaro Antona,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Álvaro Antona,Fase de Grupos,Australia,0,2,Turkey,0
 7,Álvaro Antona,Fase de Grupos,Brazil,2,3,Morocco,0
 8,Álvaro Antona,Fase de Grupos,Qatar,1,2,Switzerland,0
 9,Álvaro Antona,Fase de Grupos,Ivory Coast,0,1,Ecuador,0
-10,Álvaro Antona,Fase de Grupos,Germany,3,0,Curaçao,1
+10,Álvaro Antona,Fase de Grupos,Germany,3,0,Curaçao,0
 11,Álvaro Antona,Fase de Grupos,Netherlands,1,2,Japan,0
 12,Álvaro Antona,Fase de Grupos,Sweden,0,0,Tunisia,0
 13,Álvaro Antona,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
@@ -11545,16 +11545,16 @@
 103,Álvaro Antona,Semi-Finals,Spain,2,1,Argentina,0
 104,Álvaro Antona,Semi-Finals,France,4,2,England,0
 105,Álvaro Antona,Final,Spain,2,1,Argentina,0
-1,Gonzalo Merlo,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Gonzalo Merlo,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Gonzalo Merlo,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Gonzalo Merlo,Fase de Grupos,Canada,1,0,Bosnia and Herzegovina,0
-4,Gonzalo Merlo,Fase de Grupos,United States,2,0,Paraguay,1
-5,Gonzalo Merlo,Fase de Grupos,Haiti,1,2,Scotland,1
+4,Gonzalo Merlo,Fase de Grupos,United States,2,0,Paraguay,0
+5,Gonzalo Merlo,Fase de Grupos,Haiti,1,2,Scotland,0
 6,Gonzalo Merlo,Fase de Grupos,Australia,1,1,Turkey,0
-7,Gonzalo Merlo,Fase de Grupos,Brazil,2,2,Morocco,1
+7,Gonzalo Merlo,Fase de Grupos,Brazil,2,2,Morocco,0
 8,Gonzalo Merlo,Fase de Grupos,Qatar,0,2,Switzerland,0
 9,Gonzalo Merlo,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Gonzalo Merlo,Fase de Grupos,Germany,2,0,Curaçao,1
+10,Gonzalo Merlo,Fase de Grupos,Germany,2,0,Curaçao,0
 11,Gonzalo Merlo,Fase de Grupos,Netherlands,2,1,Japan,0
 12,Gonzalo Merlo,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Gonzalo Merlo,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
@@ -11650,18 +11650,18 @@
 103,Gonzalo Merlo,Semi-Finals,Spain,1,1,Brazil,0
 104,Gonzalo Merlo,Semi-Finals,Germany,2,1,Portugal,0
 105,Gonzalo Merlo,Final,Spain,1,1,Brazil,0
-1,Richard Díaz,Fase de Grupos,Mexico,2,1,South Africa,1
+1,Richard Díaz,Fase de Grupos,Mexico,2,1,South Africa,0
 2,Richard Díaz,Fase de Grupos,Korea Republic,1,1,Czech Republic,0
 3,Richard Díaz,Fase de Grupos,Canada,2,0,Bosnia and Herzegovina,0
 4,Richard Díaz,Fase de Grupos,United States,2,3,Paraguay,0
-5,Richard Díaz,Fase de Grupos,Haiti,0,2,Scotland,1
+5,Richard Díaz,Fase de Grupos,Haiti,0,2,Scotland,0
 6,Richard Díaz,Fase de Grupos,Australia,1,3,Turkey,0
 7,Richard Díaz,Fase de Grupos,Brazil,0,2,Morocco,0
 8,Richard Díaz,Fase de Grupos,Qatar,1,4,Switzerland,0
 9,Richard Díaz,Fase de Grupos,Ivory Coast,1,1,Ecuador,0
-10,Richard Díaz,Fase de Grupos,Germany,4,0,Curaçao,1
+10,Richard Díaz,Fase de Grupos,Germany,4,0,Curaçao,0
 11,Richard Díaz,Fase de Grupos,Netherlands,2,0,Japan,0
-12,Richard Díaz,Fase de Grupos,Sweden,1,0,Tunisia,1
+12,Richard Díaz,Fase de Grupos,Sweden,1,0,Tunisia,0
 13,Richard Díaz,Fase de Grupos,Saudi Arabia,1,2,Uruguay,0
 14,Richard Díaz,Fase de Grupos,Spain,3,0,Cape Verde,0
 15,Richard Díaz,Fase de Grupos,Iran,2,0,New Zealand,0
@@ -11738,17 +11738,17 @@
 86,Richard Díaz,Round of 32,Turkey,,,Egypt,0
 87,Richard Díaz,Round of 32,Canada,,,Iran,0
 88,Richard Díaz,Round of 32,Portugal,,,Norway,0
-1,Alexander,Fase de Grupos,Mexico,2,0,South Africa,3
-2,Alexander,Fase de Grupos,Korea Republic,2,1,Czech Republic,3
-3,Alexander,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,3
-4,Alexander,Fase de Grupos,United States,2,1,Paraguay,1
-5,Alexander,Fase de Grupos,Haiti,0,1,Scotland,3
+1,Alexander,Fase de Grupos,Mexico,2,0,South Africa,0
+2,Alexander,Fase de Grupos,Korea Republic,2,1,Czech Republic,0
+3,Alexander,Fase de Grupos,Canada,1,1,Bosnia and Herzegovina,0
+4,Alexander,Fase de Grupos,United States,2,1,Paraguay,0
+5,Alexander,Fase de Grupos,Haiti,0,1,Scotland,0
 6,Alexander,Fase de Grupos,Australia,1,3,Turkey,0
 7,Alexander,Fase de Grupos,Brazil,2,1,Morocco,0
 8,Alexander,Fase de Grupos,Qatar,0,2,Switzerland,0
-9,Alexander,Fase de Grupos,Ivory Coast,1,0,Ecuador,3
-10,Alexander,Fase de Grupos,Germany,3,0,Curaçao,1
-11,Alexander,Fase de Grupos,Netherlands,2,2,Japan,3
+9,Alexander,Fase de Grupos,Ivory Coast,1,0,Ecuador,0
+10,Alexander,Fase de Grupos,Germany,3,0,Curaçao,0
+11,Alexander,Fase de Grupos,Netherlands,2,2,Japan,0
 12,Alexander,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,Alexander,Fase de Grupos,Saudi Arabia,2,2,Uruguay,0
 14,Alexander,Fase de Grupos,Spain,3,0,Cape Verde,0
@@ -11843,16 +11843,16 @@
 103,Alexander,Semi-Finals,France,1,0,Brazil,0
 104,Alexander,Semi-Finals,Spain,0,1,Portugal,0
 105,Alexander,Final,France,1,0,Brazil,0
-1,José Luis Martín,Fase de Grupos,Mexico,2,1,South Africa,1
-2,José Luis Martín,Fase de Grupos,Korea Republic,1,0,Czech Republic,1
+1,José Luis Martín,Fase de Grupos,Mexico,2,1,South Africa,0
+2,José Luis Martín,Fase de Grupos,Korea Republic,1,0,Czech Republic,0
 3,José Luis Martín,Fase de Grupos,Canada,0,2,Bosnia and Herzegovina,0
 4,José Luis Martín,Fase de Grupos,United States,1,1,Paraguay,0
-5,José Luis Martín,Fase de Grupos,Haiti,0,2,Scotland,1
+5,José Luis Martín,Fase de Grupos,Haiti,0,2,Scotland,0
 6,José Luis Martín,Fase de Grupos,Australia,1,1,Turkey,0
 7,José Luis Martín,Fase de Grupos,Brazil,3,1,Morocco,0
-8,José Luis Martín,Fase de Grupos,Qatar,0,0,Switzerland,1
-9,José Luis Martín,Fase de Grupos,Ivory Coast,2,0,Ecuador,1
-10,José Luis Martín,Fase de Grupos,Germany,5,0,Curaçao,1
+8,José Luis Martín,Fase de Grupos,Qatar,0,0,Switzerland,0
+9,José Luis Martín,Fase de Grupos,Ivory Coast,2,0,Ecuador,0
+10,José Luis Martín,Fase de Grupos,Germany,5,0,Curaçao,0
 11,José Luis Martín,Fase de Grupos,Netherlands,3,2,Japan,0
 12,José Luis Martín,Fase de Grupos,Sweden,1,1,Tunisia,0
 13,José Luis Martín,Fase de Grupos,Saudi Arabia,0,2,Uruguay,0
