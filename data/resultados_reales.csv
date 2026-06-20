@@ -27,10 +27,10 @@
 26,REAL_RESULTS,Group,Switzerland,4,1,Bosnia and Herzegovina
 27,REAL_RESULTS,Group,Canada,6,0,Qatar
 28,REAL_RESULTS,Group,Czech Republic,1,1,South Africa
-29,REAL_RESULTS,Group,Brazil,0,0,Haiti
-30,REAL_RESULTS,Group,Scotland,0,0,Morocco
-31,REAL_RESULTS,Group,United States,0,0,Australia
-32,REAL_RESULTS,Group,Turkey,0,0,Paraguay
+29,REAL_RESULTS,Group,Brazil,3,0,Haiti
+30,REAL_RESULTS,Group,Scotland,0,1,Morocco
+31,REAL_RESULTS,Group,United States,2,0,Australia
+32,REAL_RESULTS,Group,Turkey,0,1,Paraguay
 33,REAL_RESULTS,Group,Germany,0,0,Ivory Coast
 34,REAL_RESULTS,Group,Ecuador,0,0,Curaçao
 35,REAL_RESULTS,Group,Netherlands,0,0,Sweden
@@ -77,9 +77,9 @@
 76,REAL_RESULTS,R32,,0,0,
 77,REAL_RESULTS,R32,,0,0,
 78,REAL_RESULTS,R32,,0,0,
-79,REAL_RESULTS,R32,,0,0,
+79,REAL_RESULTS,R32,Mexico,0,0,
 80,REAL_RESULTS,R32,,0,0,
-81,REAL_RESULTS,R32,,0,0,
+81,REAL_RESULTS,R32,United States,0,0,
 82,REAL_RESULTS,R32,,0,0,
 83,REAL_RESULTS,R32,,0,0,
 84,REAL_RESULTS,R32,,0,0,
