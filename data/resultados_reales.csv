@@ -31,10 +31,10 @@
 30,REAL_RESULTS,Group,Scotland,0,1,Morocco
 31,REAL_RESULTS,Group,United States,2,0,Australia
 32,REAL_RESULTS,Group,Turkey,0,1,Paraguay
-33,REAL_RESULTS,Group,Germany,0,0,Ivory Coast
+33,REAL_RESULTS,Group,Germany,2,1,Ivory Coast
 34,REAL_RESULTS,Group,Ecuador,0,0,Curaçao
-35,REAL_RESULTS,Group,Netherlands,0,0,Sweden
-36,REAL_RESULTS,Group,Tunisia,0,0,Japan
+35,REAL_RESULTS,Group,Netherlands,5,1,Sweden
+36,REAL_RESULTS,Group,Tunisia,0,4,Japan
 37,REAL_RESULTS,Group,Belgium,0,0,Iran
 38,REAL_RESULTS,Group,New Zealand,0,0,Egypt
 39,REAL_RESULTS,Group,Spain,0,0,Saudi Arabia
