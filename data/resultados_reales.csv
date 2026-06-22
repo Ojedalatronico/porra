@@ -39,9 +39,9 @@
 38,REAL_RESULTS,Group,New Zealand,1,3,Egypt
 39,REAL_RESULTS,Group,Spain,4,0,Saudi Arabia
 40,REAL_RESULTS,Group,Uruguay,2,2,Cape Verde
-41,REAL_RESULTS,Group,France,0,0,Iraq
+41,REAL_RESULTS,Group,France,null,null,Iraq
 42,REAL_RESULTS,Group,Norway,0,0,Senegal
-43,REAL_RESULTS,Group,Argentina,0,0,Austria
+43,REAL_RESULTS,Group,Argentina,2,0,Austria
 44,REAL_RESULTS,Group,Jordan,0,0,Algeria
 45,REAL_RESULTS,Group,Portugal,0,0,Uzbekistan
 46,REAL_RESULTS,Group,Panama,0,0,Croatia
