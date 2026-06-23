@@ -252,7 +252,7 @@
 41,Gerardo,Fase de Grupos,Norway,1,1,Senegal,0
 42,Gerardo,Fase de Grupos,France,3,0,Iraq,1
 43,Gerardo,Fase de Grupos,Argentina,2,0,Austria,3
-44,Gerardo,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Gerardo,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Gerardo,Fase de Grupos,England,2,0,Ghana,0
 46,Gerardo,Fase de Grupos,Panama,0,2,Croatia,0
 47,Gerardo,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -357,7 +357,7 @@
 41,Fernando Pérez,Fase de Grupos,Norway,4,1,Senegal,1
 42,Fernando Pérez,Fase de Grupos,France,5,1,Iraq,1
 43,Fernando Pérez,Fase de Grupos,Argentina,4,1,Austria,1
-44,Fernando Pérez,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Fernando Pérez,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Fernando Pérez,Fase de Grupos,England,3,1,Ghana,0
 46,Fernando Pérez,Fase de Grupos,Panama,0,2,Croatia,0
 47,Fernando Pérez,Fase de Grupos,Portugal,7,0,Uzbekistan,0
@@ -672,7 +672,7 @@
 41,Marco Rodríguez,Fase de Grupos,Norway,1,1,Senegal,0
 42,Marco Rodríguez,Fase de Grupos,France,4,1,Iraq,1
 43,Marco Rodríguez,Fase de Grupos,Argentina,2,1,Austria,1
-44,Marco Rodríguez,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Marco Rodríguez,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Marco Rodríguez,Fase de Grupos,England,1,2,Ghana,0
 46,Marco Rodríguez,Fase de Grupos,Panama,0,2,Croatia,0
 47,Marco Rodríguez,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -777,7 +777,7 @@
 41,Roberto Portero,Fase de Grupos,Norway,1,1,Senegal,0
 42,Roberto Portero,Fase de Grupos,France,4,1,Iraq,1
 43,Roberto Portero,Fase de Grupos,Argentina,1,1,Austria,0
-44,Roberto Portero,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Roberto Portero,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Roberto Portero,Fase de Grupos,England,2,1,Ghana,0
 46,Roberto Portero,Fase de Grupos,Panama,0,3,Croatia,0
 47,Roberto Portero,Fase de Grupos,Portugal,5,0,Uzbekistan,0
@@ -882,7 +882,7 @@
 41,Sergio Crespo,Fase de Grupos,Norway,2,1,Senegal,1
 42,Sergio Crespo,Fase de Grupos,France,3,0,Iraq,1
 43,Sergio Crespo,Fase de Grupos,Argentina,2,0,Austria,3
-44,Sergio Crespo,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Sergio Crespo,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Sergio Crespo,Fase de Grupos,England,2,0,Ghana,0
 46,Sergio Crespo,Fase de Grupos,Panama,1,2,Croatia,0
 47,Sergio Crespo,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -987,7 +987,7 @@
 41,Rafa Venegas,Fase de Grupos,Norway,2,1,Senegal,1
 42,Rafa Venegas,Fase de Grupos,France,3,0,Iraq,1
 43,Rafa Venegas,Fase de Grupos,Argentina,2,1,Austria,1
-44,Rafa Venegas,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Rafa Venegas,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Rafa Venegas,Fase de Grupos,England,1,1,Ghana,0
 46,Rafa Venegas,Fase de Grupos,Panama,0,1,Croatia,0
 47,Rafa Venegas,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -1197,7 +1197,7 @@
 41,Álvaro Burgos,Fase de Grupos,Norway,0,2,Senegal,0
 42,Álvaro Burgos,Fase de Grupos,France,5,0,Iraq,1
 43,Álvaro Burgos,Fase de Grupos,Argentina,2,2,Austria,0
-44,Álvaro Burgos,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Álvaro Burgos,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Álvaro Burgos,Fase de Grupos,England,4,2,Ghana,0
 46,Álvaro Burgos,Fase de Grupos,Panama,1,3,Croatia,0
 47,Álvaro Burgos,Fase de Grupos,Portugal,6,0,Uzbekistan,0
@@ -1302,7 +1302,7 @@
 41,Vanessa,Fase de Grupos,Norway,1,0,Senegal,1
 42,Vanessa,Fase de Grupos,France,4,1,Iraq,1
 43,Vanessa,Fase de Grupos,Argentina,2,2,Austria,0
-44,Vanessa,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Vanessa,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Vanessa,Fase de Grupos,England,1,0,Ghana,0
 46,Vanessa,Fase de Grupos,Panama,1,3,Croatia,0
 47,Vanessa,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -1512,7 +1512,7 @@
 41,Tamayo,Fase de Grupos,Norway,3,3,Senegal,0
 42,Tamayo,Fase de Grupos,France,2,0,Iraq,1
 43,Tamayo,Fase de Grupos,Argentina,2,1,Austria,1
-44,Tamayo,Fase de Grupos,Jordan,1,2,Algeria,0
+44,Tamayo,Fase de Grupos,Jordan,1,2,Algeria,3
 45,Tamayo,Fase de Grupos,England,2,2,Ghana,0
 46,Tamayo,Fase de Grupos,Panama,1,1,Croatia,0
 47,Tamayo,Fase de Grupos,Portugal,4,0,Uzbekistan,0
@@ -1617,7 +1617,7 @@
 41,Mani,Fase de Grupos,Norway,0,0,Senegal,0
 42,Mani,Fase de Grupos,France,3,0,Iraq,1
 43,Mani,Fase de Grupos,Argentina,1,1,Austria,0
-44,Mani,Fase de Grupos,Jordan,2,3,Algeria,0
+44,Mani,Fase de Grupos,Jordan,2,3,Algeria,1
 45,Mani,Fase de Grupos,England,1,1,Ghana,0
 46,Mani,Fase de Grupos,Panama,0,2,Croatia,0
 47,Mani,Fase de Grupos,Portugal,6,0,Uzbekistan,0
@@ -1932,7 +1932,7 @@
 41,Baz,Fase de Grupos,Norway,1,1,Senegal,0
 42,Baz,Fase de Grupos,France,1,0,Iraq,1
 43,Baz,Fase de Grupos,Argentina,2,0,Austria,3
-44,Baz,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Baz,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Baz,Fase de Grupos,England,2,0,Ghana,0
 46,Baz,Fase de Grupos,Panama,0,1,Croatia,0
 47,Baz,Fase de Grupos,Portugal,1,0,Uzbekistan,0
@@ -2558,7 +2558,7 @@
 41,Alberto Crespo,Fase de Grupos,Norway,2,1,Senegal,1
 42,Alberto Crespo,Fase de Grupos,France,4,0,Iraq,1
 43,Alberto Crespo,Fase de Grupos,Argentina,3,1,Austria,1
-44,Alberto Crespo,Fase de Grupos,Jordan,1,2,Algeria,0
+44,Alberto Crespo,Fase de Grupos,Jordan,1,2,Algeria,3
 45,Alberto Crespo,Fase de Grupos,England,5,0,Ghana,0
 46,Alberto Crespo,Fase de Grupos,Panama,0,3,Croatia,0
 47,Alberto Crespo,Fase de Grupos,Portugal,2,1,Uzbekistan,0
@@ -2978,7 +2978,7 @@
 41,Javier Tomé,Fase de Grupos,Norway,1,2,Senegal,0
 42,Javier Tomé,Fase de Grupos,France,3,0,Iraq,1
 43,Javier Tomé,Fase de Grupos,Argentina,2,1,Austria,1
-44,Javier Tomé,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Javier Tomé,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Javier Tomé,Fase de Grupos,England,3,0,Ghana,0
 46,Javier Tomé,Fase de Grupos,Panama,0,2,Croatia,0
 47,Javier Tomé,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -3188,7 +3188,7 @@
 41,César Heredero,Fase de Grupos,Norway,1,2,Senegal,0
 42,César Heredero,Fase de Grupos,France,2,0,Iraq,1
 43,César Heredero,Fase de Grupos,Argentina,2,0,Austria,3
-44,César Heredero,Fase de Grupos,Jordan,1,2,Algeria,0
+44,César Heredero,Fase de Grupos,Jordan,1,2,Algeria,3
 45,César Heredero,Fase de Grupos,England,2,0,Ghana,0
 46,César Heredero,Fase de Grupos,Panama,1,2,Croatia,0
 47,César Heredero,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -3398,7 +3398,7 @@
 41,Óscar Villodre,Fase de Grupos,Norway,2,2,Senegal,0
 42,Óscar Villodre,Fase de Grupos,France,3,0,Iraq,1
 43,Óscar Villodre,Fase de Grupos,Argentina,1,1,Austria,0
-44,Óscar Villodre,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Óscar Villodre,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Óscar Villodre,Fase de Grupos,England,2,0,Ghana,0
 46,Óscar Villodre,Fase de Grupos,Panama,0,1,Croatia,0
 47,Óscar Villodre,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -3503,7 +3503,7 @@
 41,Rocío,Fase de Grupos,Norway,2,2,Senegal,0
 42,Rocío,Fase de Grupos,France,6,0,Iraq,1
 43,Rocío,Fase de Grupos,Argentina,2,1,Austria,1
-44,Rocío,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Rocío,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Rocío,Fase de Grupos,England,2,0,Ghana,0
 46,Rocío,Fase de Grupos,Panama,2,3,Croatia,0
 47,Rocío,Fase de Grupos,Portugal,4,1,Uzbekistan,0
@@ -3608,7 +3608,7 @@
 41,Adrián Fumero,Fase de Grupos,Norway,1,1,Senegal,0
 42,Adrián Fumero,Fase de Grupos,France,3,0,Iraq,1
 43,Adrián Fumero,Fase de Grupos,Argentina,2,0,Austria,3
-44,Adrián Fumero,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Adrián Fumero,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Adrián Fumero,Fase de Grupos,England,2,0,Ghana,0
 46,Adrián Fumero,Fase de Grupos,Panama,0,2,Croatia,0
 47,Adrián Fumero,Fase de Grupos,Portugal,3,1,Uzbekistan,0
@@ -3923,7 +3923,7 @@
 41,Nico y Aran,Fase de Grupos,Norway,2,0,Senegal,1
 42,Nico y Aran,Fase de Grupos,France,4,1,Iraq,1
 43,Nico y Aran,Fase de Grupos,Argentina,3,1,Austria,1
-44,Nico y Aran,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Nico y Aran,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Nico y Aran,Fase de Grupos,England,2,0,Ghana,0
 46,Nico y Aran,Fase de Grupos,Panama,2,3,Croatia,0
 47,Nico y Aran,Fase de Grupos,Portugal,4,0,Uzbekistan,0
@@ -4028,7 +4028,7 @@
 41,Jaime Laulhé,Fase de Grupos,Norway,1,2,Senegal,0
 42,Jaime Laulhé,Fase de Grupos,France,3,0,Iraq,1
 43,Jaime Laulhé,Fase de Grupos,Argentina,2,0,Austria,3
-44,Jaime Laulhé,Fase de Grupos,Jordan,1,2,Algeria,0
+44,Jaime Laulhé,Fase de Grupos,Jordan,1,2,Algeria,3
 45,Jaime Laulhé,Fase de Grupos,England,3,0,Ghana,0
 46,Jaime Laulhé,Fase de Grupos,Panama,0,2,Croatia,0
 47,Jaime Laulhé,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -4133,7 +4133,7 @@
 41,Miguel Egea,Fase de Grupos,Norway,1,0,Senegal,1
 42,Miguel Egea,Fase de Grupos,France,2,0,Iraq,1
 43,Miguel Egea,Fase de Grupos,Argentina,2,0,Austria,3
-44,Miguel Egea,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Miguel Egea,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Miguel Egea,Fase de Grupos,England,2,0,Ghana,0
 46,Miguel Egea,Fase de Grupos,Panama,0,2,Croatia,0
 47,Miguel Egea,Fase de Grupos,Portugal,3,1,Uzbekistan,0
@@ -4343,7 +4343,7 @@
 41,Fernando Mora,Fase de Grupos,Norway,1,2,Senegal,0
 42,Fernando Mora,Fase de Grupos,France,4,0,Iraq,1
 43,Fernando Mora,Fase de Grupos,Argentina,3,0,Austria,1
-44,Fernando Mora,Fase de Grupos,Jordan,1,2,Algeria,0
+44,Fernando Mora,Fase de Grupos,Jordan,1,2,Algeria,3
 45,Fernando Mora,Fase de Grupos,England,3,0,Ghana,0
 46,Fernando Mora,Fase de Grupos,Panama,1,3,Croatia,0
 47,Fernando Mora,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -4448,7 +4448,7 @@
 41,DG Soto,Fase de Grupos,Norway,1,2,Senegal,0
 42,DG Soto,Fase de Grupos,France,3,0,Iraq,1
 43,DG Soto,Fase de Grupos,Argentina,3,1,Austria,1
-44,DG Soto,Fase de Grupos,Jordan,1,2,Algeria,0
+44,DG Soto,Fase de Grupos,Jordan,1,2,Algeria,3
 45,DG Soto,Fase de Grupos,England,3,2,Ghana,0
 46,DG Soto,Fase de Grupos,Panama,1,2,Croatia,0
 47,DG Soto,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -4553,7 +4553,7 @@
 41,YYCCSSGG (Jesús Martín),Fase de Grupos,Norway,1,0,Senegal,1
 42,YYCCSSGG (Jesús Martín),Fase de Grupos,France,4,1,Iraq,1
 43,YYCCSSGG (Jesús Martín),Fase de Grupos,Argentina,2,1,Austria,1
-44,YYCCSSGG (Jesús Martín),Fase de Grupos,Jordan,0,1,Algeria,0
+44,YYCCSSGG (Jesús Martín),Fase de Grupos,Jordan,0,1,Algeria,1
 45,YYCCSSGG (Jesús Martín),Fase de Grupos,England,1,1,Ghana,0
 46,YYCCSSGG (Jesús Martín),Fase de Grupos,Panama,0,1,Croatia,0
 47,YYCCSSGG (Jesús Martín),Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -4973,7 +4973,7 @@
 41,Carlos Álvarez,Fase de Grupos,Norway,1,1,Senegal,0
 42,Carlos Álvarez,Fase de Grupos,France,5,0,Iraq,1
 43,Carlos Álvarez,Fase de Grupos,Argentina,3,1,Austria,1
-44,Carlos Álvarez,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Carlos Álvarez,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Carlos Álvarez,Fase de Grupos,England,2,1,Ghana,0
 46,Carlos Álvarez,Fase de Grupos,Panama,1,2,Croatia,0
 47,Carlos Álvarez,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -5813,7 +5813,7 @@
 41,Vísor,Fase de Grupos,Norway,1,3,Senegal,0
 42,Vísor,Fase de Grupos,France,3,0,Iraq,1
 43,Vísor,Fase de Grupos,Argentina,1,0,Austria,1
-44,Vísor,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Vísor,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Vísor,Fase de Grupos,England,2,0,Ghana,0
 46,Vísor,Fase de Grupos,Panama,1,1,Croatia,0
 47,Vísor,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -6023,7 +6023,7 @@
 41,Juan Smith,Fase de Grupos,Norway,1,2,Senegal,0
 42,Juan Smith,Fase de Grupos,France,2,0,Iraq,1
 43,Juan Smith,Fase de Grupos,Argentina,3,0,Austria,1
-44,Juan Smith,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Juan Smith,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Juan Smith,Fase de Grupos,England,2,1,Ghana,0
 46,Juan Smith,Fase de Grupos,Panama,0,2,Croatia,0
 47,Juan Smith,Fase de Grupos,Portugal,2,1,Uzbekistan,0
@@ -6233,7 +6233,7 @@
 41,David González,Fase de Grupos,Norway,1,1,Senegal,0
 42,David González,Fase de Grupos,France,3,0,Iraq,1
 43,David González,Fase de Grupos,Argentina,2,0,Austria,3
-44,David González,Fase de Grupos,Jordan,0,2,Algeria,0
+44,David González,Fase de Grupos,Jordan,0,2,Algeria,1
 45,David González,Fase de Grupos,England,2,0,Ghana,0
 46,David González,Fase de Grupos,Panama,0,2,Croatia,0
 47,David González,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -6338,7 +6338,7 @@
 41,Jesús Espinar,Fase de Grupos,Norway,2,2,Senegal,0
 42,Jesús Espinar,Fase de Grupos,France,3,1,Iraq,1
 43,Jesús Espinar,Fase de Grupos,Argentina,1,1,Austria,0
-44,Jesús Espinar,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Jesús Espinar,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Jesús Espinar,Fase de Grupos,England,2,1,Ghana,0
 46,Jesús Espinar,Fase de Grupos,Panama,0,0,Croatia,0
 47,Jesús Espinar,Fase de Grupos,Portugal,4,0,Uzbekistan,0
@@ -6443,7 +6443,7 @@
 41,Daniel Fernández,Fase de Grupos,Norway,3,3,Senegal,0
 42,Daniel Fernández,Fase de Grupos,France,3,0,Iraq,1
 43,Daniel Fernández,Fase de Grupos,Argentina,2,0,Austria,3
-44,Daniel Fernández,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Daniel Fernández,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Daniel Fernández,Fase de Grupos,England,3,0,Ghana,0
 46,Daniel Fernández,Fase de Grupos,Panama,0,2,Croatia,0
 47,Daniel Fernández,Fase de Grupos,Portugal,4,1,Uzbekistan,0
@@ -6548,7 +6548,7 @@
 41,Yuriy,Fase de Grupos,Norway,1,1,Senegal,0
 42,Yuriy,Fase de Grupos,France,4,0,Iraq,1
 43,Yuriy,Fase de Grupos,Argentina,2,2,Austria,0
-44,Yuriy,Fase de Grupos,Jordan,0,3,Algeria,0
+44,Yuriy,Fase de Grupos,Jordan,0,3,Algeria,1
 45,Yuriy,Fase de Grupos,England,3,2,Ghana,0
 46,Yuriy,Fase de Grupos,Panama,0,2,Croatia,0
 47,Yuriy,Fase de Grupos,Portugal,4,0,Uzbekistan,0
@@ -6653,7 +6653,7 @@
 41,Fede Gutiérrez,Fase de Grupos,Norway,1,2,Senegal,0
 42,Fede Gutiérrez,Fase de Grupos,France,3,0,Iraq,1
 43,Fede Gutiérrez,Fase de Grupos,Argentina,2,0,Austria,3
-44,Fede Gutiérrez,Fase de Grupos,Jordan,0,3,Algeria,0
+44,Fede Gutiérrez,Fase de Grupos,Jordan,0,3,Algeria,1
 45,Fede Gutiérrez,Fase de Grupos,England,2,1,Ghana,0
 46,Fede Gutiérrez,Fase de Grupos,Panama,0,1,Croatia,0
 47,Fede Gutiérrez,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -6758,7 +6758,7 @@
 41,Pablo Martín,Fase de Grupos,Norway,0,2,Senegal,0
 42,Pablo Martín,Fase de Grupos,France,4,0,Iraq,1
 43,Pablo Martín,Fase de Grupos,Argentina,1,0,Austria,1
-44,Pablo Martín,Fase de Grupos,Jordan,2,3,Algeria,0
+44,Pablo Martín,Fase de Grupos,Jordan,2,3,Algeria,1
 45,Pablo Martín,Fase de Grupos,England,4,1,Ghana,0
 46,Pablo Martín,Fase de Grupos,Panama,0,2,Croatia,0
 47,Pablo Martín,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -6968,7 +6968,7 @@
 41,Sergio Valencia,Fase de Grupos,Norway,2,1,Senegal,1
 42,Sergio Valencia,Fase de Grupos,France,4,0,Iraq,1
 43,Sergio Valencia,Fase de Grupos,Argentina,1,1,Austria,0
-44,Sergio Valencia,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Sergio Valencia,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Sergio Valencia,Fase de Grupos,England,2,0,Ghana,0
 46,Sergio Valencia,Fase de Grupos,Panama,0,1,Croatia,0
 47,Sergio Valencia,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -7073,7 +7073,7 @@
 41,Borjita,Fase de Grupos,Norway,1,1,Senegal,0
 42,Borjita,Fase de Grupos,France,4,0,Iraq,1
 43,Borjita,Fase de Grupos,Argentina,3,1,Austria,1
-44,Borjita,Fase de Grupos,Jordan,1,3,Algeria,0
+44,Borjita,Fase de Grupos,Jordan,1,3,Algeria,1
 45,Borjita,Fase de Grupos,England,2,2,Ghana,0
 46,Borjita,Fase de Grupos,Panama,0,2,Croatia,0
 47,Borjita,Fase de Grupos,Portugal,5,1,Uzbekistan,0
@@ -7178,7 +7178,7 @@
 41,Luisja,Fase de Grupos,Norway,1,1,Senegal,0
 42,Luisja,Fase de Grupos,France,4,0,Iraq,1
 43,Luisja,Fase de Grupos,Argentina,3,1,Austria,1
-44,Luisja,Fase de Grupos,Jordan,1,3,Algeria,0
+44,Luisja,Fase de Grupos,Jordan,1,3,Algeria,1
 45,Luisja,Fase de Grupos,England,1,0,Ghana,0
 46,Luisja,Fase de Grupos,Panama,0,4,Croatia,0
 47,Luisja,Fase de Grupos,Portugal,4,0,Uzbekistan,0
@@ -7283,7 +7283,7 @@
 41,David Feijoó,Fase de Grupos,Norway,0,1,Senegal,0
 42,David Feijoó,Fase de Grupos,France,1,1,Iraq,0
 43,David Feijoó,Fase de Grupos,Argentina,1,1,Austria,0
-44,David Feijoó,Fase de Grupos,Jordan,0,2,Algeria,0
+44,David Feijoó,Fase de Grupos,Jordan,0,2,Algeria,1
 45,David Feijoó,Fase de Grupos,England,2,0,Ghana,0
 46,David Feijoó,Fase de Grupos,Panama,0,1,Croatia,0
 47,David Feijoó,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -7388,7 +7388,7 @@
 41,Vicente Ampuero,Fase de Grupos,Norway,2,2,Senegal,0
 42,Vicente Ampuero,Fase de Grupos,France,3,0,Iraq,1
 43,Vicente Ampuero,Fase de Grupos,Argentina,3,1,Austria,1
-44,Vicente Ampuero,Fase de Grupos,Jordan,1,2,Algeria,0
+44,Vicente Ampuero,Fase de Grupos,Jordan,1,2,Algeria,3
 45,Vicente Ampuero,Fase de Grupos,England,2,0,Ghana,0
 46,Vicente Ampuero,Fase de Grupos,Panama,1,2,Croatia,0
 47,Vicente Ampuero,Fase de Grupos,Portugal,3,1,Uzbekistan,0
@@ -7493,7 +7493,7 @@
 41,Beltrán Serrano,Fase de Grupos,Norway,1,1,Senegal,0
 42,Beltrán Serrano,Fase de Grupos,France,3,0,Iraq,1
 43,Beltrán Serrano,Fase de Grupos,Argentina,3,1,Austria,1
-44,Beltrán Serrano,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Beltrán Serrano,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Beltrán Serrano,Fase de Grupos,England,3,1,Ghana,0
 46,Beltrán Serrano,Fase de Grupos,Panama,1,2,Croatia,0
 47,Beltrán Serrano,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -7598,7 +7598,7 @@
 41,Vicente Serrano,Fase de Grupos,Norway,1,1,Senegal,0
 42,Vicente Serrano,Fase de Grupos,France,2,0,Iraq,1
 43,Vicente Serrano,Fase de Grupos,Argentina,3,1,Austria,1
-44,Vicente Serrano,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Vicente Serrano,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Vicente Serrano,Fase de Grupos,England,2,1,Ghana,0
 46,Vicente Serrano,Fase de Grupos,Panama,1,3,Croatia,0
 47,Vicente Serrano,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -7703,7 +7703,7 @@
 41,Luis Grado,Fase de Grupos,Norway,2,2,Senegal,0
 42,Luis Grado,Fase de Grupos,France,3,1,Iraq,1
 43,Luis Grado,Fase de Grupos,Argentina,2,1,Austria,1
-44,Luis Grado,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Luis Grado,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Luis Grado,Fase de Grupos,England,1,0,Ghana,0
 46,Luis Grado,Fase de Grupos,Panama,0,1,Croatia,0
 47,Luis Grado,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -7913,7 +7913,7 @@
 41,Papá,Fase de Grupos,Norway,2,1,Senegal,1
 42,Papá,Fase de Grupos,France,3,0,Iraq,1
 43,Papá,Fase de Grupos,Argentina,3,1,Austria,1
-44,Papá,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Papá,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Papá,Fase de Grupos,England,3,0,Ghana,0
 46,Papá,Fase de Grupos,Panama,0,3,Croatia,0
 47,Papá,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -8018,7 +8018,7 @@
 41,Tanit,Fase de Grupos,Norway,1,1,Senegal,0
 42,Tanit,Fase de Grupos,France,3,0,Iraq,1
 43,Tanit,Fase de Grupos,Argentina,2,1,Austria,1
-44,Tanit,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Tanit,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Tanit,Fase de Grupos,England,2,0,Ghana,0
 46,Tanit,Fase de Grupos,Panama,0,2,Croatia,0
 47,Tanit,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -8333,7 +8333,7 @@
 41,Luismi Fernández,Fase de Grupos,Norway,1,1,Senegal,0
 42,Luismi Fernández,Fase de Grupos,France,7,2,Iraq,1
 43,Luismi Fernández,Fase de Grupos,Argentina,2,1,Austria,1
-44,Luismi Fernández,Fase de Grupos,Jordan,1,3,Algeria,0
+44,Luismi Fernández,Fase de Grupos,Jordan,1,3,Algeria,1
 45,Luismi Fernández,Fase de Grupos,England,2,1,Ghana,0
 46,Luismi Fernández,Fase de Grupos,Panama,1,2,Croatia,0
 47,Luismi Fernández,Fase de Grupos,Portugal,2,2,Uzbekistan,0
@@ -8543,7 +8543,7 @@
 41,Juli Susías,Fase de Grupos,Norway,1,1,Senegal,0
 42,Juli Susías,Fase de Grupos,France,5,0,Iraq,1
 43,Juli Susías,Fase de Grupos,Argentina,1,1,Austria,0
-44,Juli Susías,Fase de Grupos,Jordan,1,2,Algeria,0
+44,Juli Susías,Fase de Grupos,Jordan,1,2,Algeria,3
 45,Juli Susías,Fase de Grupos,England,3,1,Ghana,0
 46,Juli Susías,Fase de Grupos,Panama,1,3,Croatia,0
 47,Juli Susías,Fase de Grupos,Portugal,4,1,Uzbekistan,0
@@ -8648,7 +8648,7 @@
 41,Gonzalo Bravo,Fase de Grupos,Norway,0,1,Senegal,0
 42,Gonzalo Bravo,Fase de Grupos,France,4,0,Iraq,1
 43,Gonzalo Bravo,Fase de Grupos,Argentina,2,1,Austria,1
-44,Gonzalo Bravo,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Gonzalo Bravo,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Gonzalo Bravo,Fase de Grupos,England,2,1,Ghana,0
 46,Gonzalo Bravo,Fase de Grupos,Panama,0,2,Croatia,0
 47,Gonzalo Bravo,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -8963,7 +8963,7 @@
 41,David Cerisola,Fase de Grupos,Norway,1,1,Senegal,0
 42,David Cerisola,Fase de Grupos,France,4,0,Iraq,1
 43,David Cerisola,Fase de Grupos,Argentina,2,1,Austria,1
-44,David Cerisola,Fase de Grupos,Jordan,1,2,Algeria,0
+44,David Cerisola,Fase de Grupos,Jordan,1,2,Algeria,3
 45,David Cerisola,Fase de Grupos,England,3,1,Ghana,0
 46,David Cerisola,Fase de Grupos,Panama,0,2,Croatia,0
 47,David Cerisola,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -9173,7 +9173,7 @@
 41,Alberto Mendoza,Fase de Grupos,Norway,1,2,Senegal,0
 42,Alberto Mendoza,Fase de Grupos,France,3,0,Iraq,1
 43,Alberto Mendoza,Fase de Grupos,Argentina,1,1,Austria,0
-44,Alberto Mendoza,Fase de Grupos,Jordan,0,3,Algeria,0
+44,Alberto Mendoza,Fase de Grupos,Jordan,0,3,Algeria,1
 45,Alberto Mendoza,Fase de Grupos,England,1,0,Ghana,0
 46,Alberto Mendoza,Fase de Grupos,Panama,0,2,Croatia,0
 47,Alberto Mendoza,Fase de Grupos,Portugal,4,0,Uzbekistan,0
@@ -9383,7 +9383,7 @@
 41,Manu Montejo,Fase de Grupos,Norway,1,2,Senegal,0
 42,Manu Montejo,Fase de Grupos,France,3,0,Iraq,1
 43,Manu Montejo,Fase de Grupos,Argentina,2,1,Austria,1
-44,Manu Montejo,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Manu Montejo,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Manu Montejo,Fase de Grupos,England,2,1,Ghana,0
 46,Manu Montejo,Fase de Grupos,Panama,0,2,Croatia,0
 47,Manu Montejo,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -9488,7 +9488,7 @@
 41,Dani Rosas,Fase de Grupos,Norway,1,2,Senegal,0
 42,Dani Rosas,Fase de Grupos,France,4,1,Iraq,1
 43,Dani Rosas,Fase de Grupos,Argentina,3,1,Austria,1
-44,Dani Rosas,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Dani Rosas,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Dani Rosas,Fase de Grupos,England,2,1,Ghana,0
 46,Dani Rosas,Fase de Grupos,Panama,0,2,Croatia,0
 47,Dani Rosas,Fase de Grupos,Portugal,4,0,Uzbekistan,0
@@ -9803,7 +9803,7 @@
 41,Dani Galán,Fase de Grupos,Norway,1,1,Senegal,0
 42,Dani Galán,Fase de Grupos,France,2,0,Iraq,1
 43,Dani Galán,Fase de Grupos,Argentina,1,1,Austria,0
-44,Dani Galán,Fase de Grupos,Jordan,1,2,Algeria,0
+44,Dani Galán,Fase de Grupos,Jordan,1,2,Algeria,3
 45,Dani Galán,Fase de Grupos,England,2,1,Ghana,0
 46,Dani Galán,Fase de Grupos,Panama,0,1,Croatia,0
 47,Dani Galán,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -9908,7 +9908,7 @@
 41,Natalia,Fase de Grupos,Norway,1,2,Senegal,0
 42,Natalia,Fase de Grupos,France,4,0,Iraq,1
 43,Natalia,Fase de Grupos,Argentina,3,1,Austria,1
-44,Natalia,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Natalia,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Natalia,Fase de Grupos,England,4,0,Ghana,0
 46,Natalia,Fase de Grupos,Panama,1,2,Croatia,0
 47,Natalia,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -10118,7 +10118,7 @@
 41,Jorge Martín,Fase de Grupos,Norway,1,1,Senegal,0
 42,Jorge Martín,Fase de Grupos,France,3,0,Iraq,1
 43,Jorge Martín,Fase de Grupos,Argentina,2,1,Austria,1
-44,Jorge Martín,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Jorge Martín,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Jorge Martín,Fase de Grupos,England,2,1,Ghana,0
 46,Jorge Martín,Fase de Grupos,Panama,0,2,Croatia,0
 47,Jorge Martín,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -10223,7 +10223,7 @@
 41,Jose Díaz,Fase de Grupos,Norway,4,1,Senegal,1
 42,Jose Díaz,Fase de Grupos,France,5,0,Iraq,1
 43,Jose Díaz,Fase de Grupos,Argentina,1,0,Austria,1
-44,Jose Díaz,Fase de Grupos,Jordan,1,2,Algeria,0
+44,Jose Díaz,Fase de Grupos,Jordan,1,2,Algeria,3
 45,Jose Díaz,Fase de Grupos,England,3,1,Ghana,0
 46,Jose Díaz,Fase de Grupos,Panama,1,2,Croatia,0
 47,Jose Díaz,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -10748,7 +10748,7 @@
 41,Fernando Bravo,Fase de Grupos,Norway,1,1,Senegal,0
 42,Fernando Bravo,Fase de Grupos,France,3,0,Iraq,1
 43,Fernando Bravo,Fase de Grupos,Argentina,3,1,Austria,1
-44,Fernando Bravo,Fase de Grupos,Jordan,1,3,Algeria,0
+44,Fernando Bravo,Fase de Grupos,Jordan,1,3,Algeria,1
 45,Fernando Bravo,Fase de Grupos,England,1,1,Ghana,0
 46,Fernando Bravo,Fase de Grupos,Panama,0,3,Croatia,0
 47,Fernando Bravo,Fase de Grupos,Portugal,4,1,Uzbekistan,0
@@ -10853,7 +10853,7 @@
 41,Pietro Bucarelli,Fase de Grupos,Norvegia,3,1,Senegal,1
 42,Pietro Bucarelli,Fase de Grupos,Francia,5,0,Iraq,1
 43,Pietro Bucarelli,Fase de Grupos,Argentina,2,0,Austria,3
-44,Pietro Bucarelli,Fase de Grupos,Giordania,0,2,Algeria,0
+44,Pietro Bucarelli,Fase de Grupos,Giordania,0,2,Algeria,1
 45,Pietro Bucarelli,Fase de Grupos,Inghilterra,2,1,Ghana,0
 46,Pietro Bucarelli,Fase de Grupos,Panama,0,2,Croazia,0
 47,Pietro Bucarelli,Fase de Grupos,Portogallo,4,0,Uzbekistan,0
@@ -11378,7 +11378,7 @@
 41,Jorge Antona,Fase de Grupos,Norway,1,1,Senegal,0
 42,Jorge Antona,Fase de Grupos,France,3,0,Iraq,1
 43,Jorge Antona,Fase de Grupos,Argentina,2,1,Austria,1
-44,Jorge Antona,Fase de Grupos,Jordan,0,2,Algeria,0
+44,Jorge Antona,Fase de Grupos,Jordan,0,2,Algeria,1
 45,Jorge Antona,Fase de Grupos,England,2,0,Ghana,0
 46,Jorge Antona,Fase de Grupos,Panama,0,2,Croatia,0
 47,Jorge Antona,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -11483,7 +11483,7 @@
 41,Álvaro Antona,Fase de Grupos,Norway,2,2,Senegal,0
 42,Álvaro Antona,Fase de Grupos,France,3,0,Iraq,1
 43,Álvaro Antona,Fase de Grupos,Argentina,2,0,Austria,3
-44,Álvaro Antona,Fase de Grupos,Jordan,0,1,Algeria,0
+44,Álvaro Antona,Fase de Grupos,Jordan,0,1,Algeria,1
 45,Álvaro Antona,Fase de Grupos,England,3,1,Ghana,0
 46,Álvaro Antona,Fase de Grupos,Panama,0,2,Croatia,0
 47,Álvaro Antona,Fase de Grupos,Portugal,3,0,Uzbekistan,0
@@ -11588,7 +11588,7 @@
 41,Gonzalo Merlo,Fase de Grupos,Norway,1,1,Senegal,0
 42,Gonzalo Merlo,Fase de Grupos,France,2,0,Iraq,1
 43,Gonzalo Merlo,Fase de Grupos,Argentina,2,0,Austria,3
-44,Gonzalo Merlo,Fase de Grupos,Jordan,1,2,Algeria,0
+44,Gonzalo Merlo,Fase de Grupos,Jordan,1,2,Algeria,3
 45,Gonzalo Merlo,Fase de Grupos,England,1,2,Ghana,0
 46,Gonzalo Merlo,Fase de Grupos,Panama,2,1,Croatia,0
 47,Gonzalo Merlo,Fase de Grupos,Portugal,2,0,Uzbekistan,0
@@ -11886,7 +11886,7 @@
 41,José Luis Martín,Fase de Grupos,Norway,2,2,Senegal,0
 42,José Luis Martín,Fase de Grupos,France,4,0,Iraq,1
 43,José Luis Martín,Fase de Grupos,Argentina,3,0,Austria,1
-44,José Luis Martín,Fase de Grupos,Jordan,0,2,Algeria,0
+44,José Luis Martín,Fase de Grupos,Jordan,0,2,Algeria,1
 45,José Luis Martín,Fase de Grupos,England,2,1,Ghana,0
 46,José Luis Martín,Fase de Grupos,Panama,0,2,Croatia,0
 47,José Luis Martín,Fase de Grupos,Portugal,3,0,Uzbekistan,0
