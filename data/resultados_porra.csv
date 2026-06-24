@@ -52,7 +52,7 @@
 51,Ales y Adri,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Ales y Adri,Fase de Grupos,Bosnia and Herzegovina,0,0,Qatar,0
 53,Ales y Adri,Fase de Grupos,Czech Republic,2,2,Mexico,0
-54,Ales y Adri,Fase de Grupos,South Africa,1,0,Korea Republic,0
+54,Ales y Adri,Fase de Grupos,South Africa,1,0,Korea Republic,1
 55,Ales y Adri,Fase de Grupos,Curaçao,1,2,Ivory Coast,0
 56,Ales y Adri,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Ales y Adri,Fase de Grupos,Japan,1,0,Sweden,0
@@ -472,7 +472,7 @@
 51,Bea Oppici,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Bea Oppici,Fase de Grupos,Bosnia and Herzegovina,2,1,Qatar,0
 53,Bea Oppici,Fase de Grupos,Czech Republic,1,1,Mexico,0
-54,Bea Oppici,Fase de Grupos,South Africa,2,1,Korea Republic,0
+54,Bea Oppici,Fase de Grupos,South Africa,2,1,Korea Republic,3
 55,Bea Oppici,Fase de Grupos,Curaçao,0,0,Ivory Coast,0
 56,Bea Oppici,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Bea Oppici,Fase de Grupos,Japan,1,1,Sweden,0
@@ -577,7 +577,7 @@
 51,Coe,Fase de Grupos,Switzerland,1,3,Canada,0
 52,Coe,Fase de Grupos,Bosnia and Herzegovina,4,0,Qatar,0
 53,Coe,Fase de Grupos,Czech Republic,1,1,Mexico,0
-54,Coe,Fase de Grupos,South Africa,2,1,Korea Republic,0
+54,Coe,Fase de Grupos,South Africa,2,1,Korea Republic,3
 55,Coe,Fase de Grupos,Curaçao,1,1,Ivory Coast,0
 56,Coe,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Coe,Fase de Grupos,Japan,1,1,Sweden,0
@@ -786,7 +786,7 @@
 50,Roberto Portero,Fase de Grupos,Morocco,2,0,Haiti,0
 51,Roberto Portero,Fase de Grupos,Switzerland,1,0,Canada,0
 52,Roberto Portero,Fase de Grupos,Bosnia and Herzegovina,2,2,Qatar,0
-53,Roberto Portero,Fase de Grupos,Czech Republic,2,1,Mexico,0
+53,Roberto Portero,Fase de Grupos,Czech Republic,2,1,Mexico,1
 54,Roberto Portero,Fase de Grupos,South Africa,1,3,Korea Republic,0
 55,Roberto Portero,Fase de Grupos,Curaçao,1,3,Ivory Coast,0
 56,Roberto Portero,Fase de Grupos,Ecuador,0,0,Germany,0
@@ -1312,7 +1312,7 @@
 51,Vanessa,Fase de Grupos,Switzerland,2,0,Canada,0
 52,Vanessa,Fase de Grupos,Bosnia and Herzegovina,1,1,Qatar,0
 53,Vanessa,Fase de Grupos,Czech Republic,1,1,Mexico,0
-54,Vanessa,Fase de Grupos,South Africa,3,2,Korea Republic,0
+54,Vanessa,Fase de Grupos,South Africa,3,2,Korea Republic,1
 55,Vanessa,Fase de Grupos,Curaçao,0,1,Ivory Coast,0
 56,Vanessa,Fase de Grupos,Ecuador,2,2,Germany,0
 57,Vanessa,Fase de Grupos,Japan,2,2,Sweden,0
@@ -1626,7 +1626,7 @@
 50,Mani,Fase de Grupos,Morocco,2,0,Haiti,0
 51,Mani,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Mani,Fase de Grupos,Bosnia and Herzegovina,2,0,Qatar,0
-53,Mani,Fase de Grupos,Czech Republic,2,1,Mexico,0
+53,Mani,Fase de Grupos,Czech Republic,2,1,Mexico,1
 54,Mani,Fase de Grupos,South Africa,2,2,Korea Republic,0
 55,Mani,Fase de Grupos,Curaçao,0,3,Ivory Coast,0
 56,Mani,Fase de Grupos,Ecuador,1,1,Germany,0
@@ -2362,7 +2362,7 @@
 51,Rafa Martín,Fase de Grupos,Switzerland,2,1,Canada,0
 52,Rafa Martín,Fase de Grupos,Bosnia and Herzegovina,1,1,Qatar,0
 53,Rafa Martín,Fase de Grupos,Czech Republic,1,1,Mexico,0
-54,Rafa Martín,Fase de Grupos,South Africa,2,0,Korea Republic,0
+54,Rafa Martín,Fase de Grupos,South Africa,2,0,Korea Republic,1
 55,Rafa Martín,Fase de Grupos,Curaçao,1,0,Ivory Coast,0
 56,Rafa Martín,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Rafa Martín,Fase de Grupos,Japan,1,1,Sweden,0
@@ -2568,7 +2568,7 @@
 51,Alberto Crespo,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Alberto Crespo,Fase de Grupos,Bosnia and Herzegovina,2,1,Qatar,0
 53,Alberto Crespo,Fase de Grupos,Czech Republic,1,2,Mexico,0
-54,Alberto Crespo,Fase de Grupos,South Africa,2,1,Korea Republic,0
+54,Alberto Crespo,Fase de Grupos,South Africa,2,1,Korea Republic,3
 55,Alberto Crespo,Fase de Grupos,Curaçao,0,3,Ivory Coast,0
 56,Alberto Crespo,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Alberto Crespo,Fase de Grupos,Japan,2,1,Sweden,0
@@ -3093,7 +3093,7 @@
 51,Stephen Lemke,Fase de Grupos,Switzerland,2,0,Canada,0
 52,Stephen Lemke,Fase de Grupos,Bosnia and Herzegovina,1,3,Qatar,0
 53,Stephen Lemke,Fase de Grupos,Czech Republic,1,2,Mexico,0
-54,Stephen Lemke,Fase de Grupos,South Africa,3,1,Korea Republic,0
+54,Stephen Lemke,Fase de Grupos,South Africa,3,1,Korea Republic,1
 55,Stephen Lemke,Fase de Grupos,Curaçao,1,1,Ivory Coast,0
 56,Stephen Lemke,Fase de Grupos,Ecuador,2,4,Germany,0
 57,Stephen Lemke,Fase de Grupos,Japan,2,1,Sweden,0
@@ -3828,7 +3828,7 @@
 51,Rodrigo Pablos,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Rodrigo Pablos,Fase de Grupos,Bosnia and Herzegovina,0,0,Qatar,0
 53,Rodrigo Pablos,Fase de Grupos,Czech Republic,0,1,Mexico,0
-54,Rodrigo Pablos,Fase de Grupos,South Africa,1,0,Korea Republic,0
+54,Rodrigo Pablos,Fase de Grupos,South Africa,1,0,Korea Republic,1
 55,Rodrigo Pablos,Fase de Grupos,Curaçao,0,2,Ivory Coast,0
 56,Rodrigo Pablos,Fase de Grupos,Ecuador,0,2,Germany,0
 57,Rodrigo Pablos,Fase de Grupos,Japan,0,0,Sweden,0
@@ -4458,7 +4458,7 @@
 51,DG Soto,Fase de Grupos,Switzerland,2,0,Canada,0
 52,DG Soto,Fase de Grupos,Bosnia and Herzegovina,2,1,Qatar,0
 53,DG Soto,Fase de Grupos,Czech Republic,1,1,Mexico,0
-54,DG Soto,Fase de Grupos,South Africa,2,1,Korea Republic,0
+54,DG Soto,Fase de Grupos,South Africa,2,1,Korea Republic,3
 55,DG Soto,Fase de Grupos,Curaçao,1,2,Ivory Coast,0
 56,DG Soto,Fase de Grupos,Ecuador,1,3,Germany,0
 57,DG Soto,Fase de Grupos,Japan,2,2,Sweden,0
@@ -4563,7 +4563,7 @@
 51,YYCCSSGG (Jesús Martín),Fase de Grupos,Switzerland,0,1,Canada,0
 52,YYCCSSGG (Jesús Martín),Fase de Grupos,Bosnia and Herzegovina,2,0,Qatar,0
 53,YYCCSSGG (Jesús Martín),Fase de Grupos,Czech Republic,0,1,Mexico,0
-54,YYCCSSGG (Jesús Martín),Fase de Grupos,South Africa,1,0,Korea Republic,0
+54,YYCCSSGG (Jesús Martín),Fase de Grupos,South Africa,1,0,Korea Republic,1
 55,YYCCSSGG (Jesús Martín),Fase de Grupos,Curaçao,0,2,Ivory Coast,0
 56,YYCCSSGG (Jesús Martín),Fase de Grupos,Ecuador,1,2,Germany,0
 57,YYCCSSGG (Jesús Martín),Fase de Grupos,Japan,1,1,Sweden,0
@@ -5088,7 +5088,7 @@
 51,Isaac Firgaira,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Isaac Firgaira,Fase de Grupos,Bosnia and Herzegovina,2,0,Qatar,0
 53,Isaac Firgaira,Fase de Grupos,Czech Republic,0,0,Mexico,0
-54,Isaac Firgaira,Fase de Grupos,South Africa,3,1,Korea Republic,0
+54,Isaac Firgaira,Fase de Grupos,South Africa,3,1,Korea Republic,1
 55,Isaac Firgaira,Fase de Grupos,Curaçao,0,3,Ivory Coast,0
 56,Isaac Firgaira,Fase de Grupos,Ecuador,0,2,Germany,0
 57,Isaac Firgaira,Fase de Grupos,Japan,0,1,Sweden,0
@@ -5612,7 +5612,7 @@
 50,Ángel Cubillo,Fase de Grupos,Morocco,2,0,Haiti,0
 51,Ángel Cubillo,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Ángel Cubillo,Fase de Grupos,Bosnia and Herzegovina,0,0,Qatar,0
-53,Ángel Cubillo,Fase de Grupos,Czech Republic,2,1,Mexico,0
+53,Ángel Cubillo,Fase de Grupos,Czech Republic,2,1,Mexico,1
 54,Ángel Cubillo,Fase de Grupos,South Africa,0,1,Korea Republic,0
 55,Ángel Cubillo,Fase de Grupos,Curaçao,0,2,Ivory Coast,0
 56,Ángel Cubillo,Fase de Grupos,Ecuador,1,1,Germany,0
@@ -8448,7 +8448,7 @@
 51,Zoe,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Zoe,Fase de Grupos,Bosnia and Herzegovina,0,1,Qatar,0
 53,Zoe,Fase de Grupos,Czech Republic,2,2,Mexico,0
-54,Zoe,Fase de Grupos,South Africa,2,1,Korea Republic,0
+54,Zoe,Fase de Grupos,South Africa,2,1,Korea Republic,3
 55,Zoe,Fase de Grupos,Curaçao,0,2,Ivory Coast,0
 56,Zoe,Fase de Grupos,Ecuador,0,3,Germany,0
 57,Zoe,Fase de Grupos,Japan,2,1,Sweden,0
@@ -8552,7 +8552,7 @@
 50,Juli Susías,Fase de Grupos,Morocco,2,1,Haiti,0
 51,Juli Susías,Fase de Grupos,Switzerland,2,2,Canada,0
 52,Juli Susías,Fase de Grupos,Bosnia and Herzegovina,1,2,Qatar,0
-53,Juli Susías,Fase de Grupos,Czech Republic,2,0,Mexico,0
+53,Juli Susías,Fase de Grupos,Czech Republic,2,0,Mexico,1
 54,Juli Susías,Fase de Grupos,South Africa,2,3,Korea Republic,0
 55,Juli Susías,Fase de Grupos,Curaçao,0,2,Ivory Coast,0
 56,Juli Susías,Fase de Grupos,Ecuador,1,3,Germany,0
@@ -8763,7 +8763,7 @@
 51,Edu Martínez,Fase de Grupos,Switzerland,2,2,Canada,0
 52,Edu Martínez,Fase de Grupos,Bosnia and Herzegovina,2,1,Qatar,0
 53,Edu Martínez,Fase de Grupos,Czech Republic,1,1,Mexico,0
-54,Edu Martínez,Fase de Grupos,South Africa,4,3,Korea Republic,0
+54,Edu Martínez,Fase de Grupos,South Africa,4,3,Korea Republic,1
 55,Edu Martínez,Fase de Grupos,Curaçao,2,3,Ivory Coast,0
 56,Edu Martínez,Fase de Grupos,Ecuador,1,4,Germany,0
 57,Edu Martínez,Fase de Grupos,Japan,1,4,Sweden,0
@@ -9288,7 +9288,7 @@
 51,Javier Crespo,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Javier Crespo,Fase de Grupos,Bosnia and Herzegovina,2,0,Qatar,0
 53,Javier Crespo,Fase de Grupos,Czech Republic,1,1,Mexico,0
-54,Javier Crespo,Fase de Grupos,South Africa,2,1,Korea Republic,0
+54,Javier Crespo,Fase de Grupos,South Africa,2,1,Korea Republic,3
 55,Javier Crespo,Fase de Grupos,Curaçao,0,2,Ivory Coast,0
 56,Javier Crespo,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Javier Crespo,Fase de Grupos,Japan,2,1,Sweden,0
@@ -10023,7 +10023,7 @@
 51,Luis Torres,Fase de Grupos,Suiza,0,0,Canadá,0
 52,Luis Torres,Fase de Grupos,Bosnia y Herzegovina,2,0,Katar,0
 53,Luis Torres,Fase de Grupos,República Checa,1,1,México,0
-54,Luis Torres,Fase de Grupos,Sudáfrica,2,1,República de Corea,0
+54,Luis Torres,Fase de Grupos,Sudáfrica,2,1,República de Corea,3
 55,Luis Torres,Fase de Grupos,Curazao,0,2,Costa de Marfil,0
 56,Luis Torres,Fase de Grupos,Ecuador,2,2,Alemania,0
 57,Luis Torres,Fase de Grupos,Japón,0,0,Suecia,0
@@ -10337,7 +10337,7 @@
 50,José Ángel López,Fase de Grupos,Morocco,2,0,Haiti,0
 51,José Ángel López,Fase de Grupos,Switzerland,2,1,Canada,0
 52,José Ángel López,Fase de Grupos,Bosnia and Herzegovina,1,0,Qatar,0
-53,José Ángel López,Fase de Grupos,Czech Republic,2,1,Mexico,0
+53,José Ángel López,Fase de Grupos,Czech Republic,2,1,Mexico,1
 54,José Ángel López,Fase de Grupos,South Africa,1,2,Korea Republic,0
 55,José Ángel López,Fase de Grupos,Curaçao,0,2,Ivory Coast,0
 56,José Ángel López,Fase de Grupos,Ecuador,1,3,Germany,0
@@ -10653,7 +10653,7 @@
 51,Dani Blasco,Fase de Grupos,Switzerland,1,1,Canada,0
 52,Dani Blasco,Fase de Grupos,Bosnia and Herzegovina,1,2,Qatar,0
 53,Dani Blasco,Fase de Grupos,Czech Republic,1,2,Mexico,0
-54,Dani Blasco,Fase de Grupos,South Africa,1,0,Korea Republic,0
+54,Dani Blasco,Fase de Grupos,South Africa,1,0,Korea Republic,1
 55,Dani Blasco,Fase de Grupos,Curaçao,0,1,Ivory Coast,0
 56,Dani Blasco,Fase de Grupos,Ecuador,2,3,Germany,0
 57,Dani Blasco,Fase de Grupos,Japan,1,3,Sweden,0
@@ -10758,7 +10758,7 @@
 51,Fernando Bravo,Fase de Grupos,Switzerland,0,0,Canada,0
 52,Fernando Bravo,Fase de Grupos,Bosnia and Herzegovina,3,0,Qatar,0
 53,Fernando Bravo,Fase de Grupos,Czech Republic,1,2,Mexico,0
-54,Fernando Bravo,Fase de Grupos,South Africa,4,1,Korea Republic,0
+54,Fernando Bravo,Fase de Grupos,South Africa,4,1,Korea Republic,1
 55,Fernando Bravo,Fase de Grupos,Curaçao,1,4,Ivory Coast,0
 56,Fernando Bravo,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Fernando Bravo,Fase de Grupos,Japan,1,2,Sweden,0
@@ -11703,7 +11703,7 @@
 51,Richard Díaz,Fase de Grupos,Switzerland,2,2,Canada,0
 52,Richard Díaz,Fase de Grupos,Bosnia and Herzegovina,0,0,Qatar,0
 53,Richard Díaz,Fase de Grupos,Czech Republic,1,2,Mexico,0
-54,Richard Díaz,Fase de Grupos,South Africa,1,0,Korea Republic,0
+54,Richard Díaz,Fase de Grupos,South Africa,1,0,Korea Republic,1
 55,Richard Díaz,Fase de Grupos,Curaçao,0,0,Ivory Coast,0
 56,Richard Díaz,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Richard Díaz,Fase de Grupos,Japan,2,2,Sweden,0
