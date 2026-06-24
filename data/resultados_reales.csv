@@ -16,12 +16,12 @@
 44,REAL_RESULTS,Group,Jordan,1,2,Algeria
 45,REAL_RESULTS,Group,Portugal,5,0,Uzbekistan
 46,REAL_RESULTS,Group,Panama,0,1,Croatia
-52,REAL_RESULTS,Group,Czech Republic,0,0,Mexico
+52,REAL_RESULTS,Group,Czech Republic,null,null,Mexico
 60,REAL_RESULTS,Group,Tunisia,0,0,Netherlands
 61,REAL_RESULTS,Group,Senegal,0,0,Iraq
 67,REAL_RESULTS,Group,Panama,0,0,England
 72,REAL_RESULTS,Group,Democratic Republic of the Congo,0,0,Uzbekistan
-86,REAL_RESULTS,R32,,0,0,
+86,REAL_RESULTS,R32,Argentina,0,0,
 88,REAL_RESULTS,R32,,0,0,
 100,REAL_RESULTS,Qf,,0,0,
 2,REAL_RESULTS,Group,South Korea,2,1,Czech Republic
@@ -30,8 +30,8 @@
 18,REAL_RESULTS,Group,Iraq,1,4,Norway
 21,REAL_RESULTS,Group,Portugal,1,1,Democratic Republic of the Congo
 37,REAL_RESULTS,Group,Belgium,0,0,Iran
-50,REAL_RESULTS,Group,Morocco,null,null,Haiti
-51,REAL_RESULTS,Group,South Africa,0,0,South Korea
+50,REAL_RESULTS,Group,Morocco,0,1,Haiti
+51,REAL_RESULTS,Group,South Africa,null,null,South Korea
 87,REAL_RESULTS,R32,,0,0,
 98,REAL_RESULTS,Qf,,0,0,
 9,REAL_RESULTS,Group,Ivory Coast,1,0,Ecuador
@@ -42,7 +42,7 @@
 30,REAL_RESULTS,Group,Scotland,0,1,Morocco
 32,REAL_RESULTS,Group,Turkey,0,1,Paraguay
 43,REAL_RESULTS,Group,Argentina,2,0,Austria
-49,REAL_RESULTS,Group,Scotland,null,null,Brazil
+49,REAL_RESULTS,Group,Scotland,0,1,Brazil
 53,REAL_RESULTS,Group,Bosnia and Herzegovina,3,1,Qatar
 58,REAL_RESULTS,Group,Turkey,0,0,United States
 62,REAL_RESULTS,Group,Norway,0,0,France
@@ -52,7 +52,7 @@
 70,REAL_RESULTS,Group,Jordan,0,0,Argentina
 76,REAL_RESULTS,R32,,0,0,
 83,REAL_RESULTS,R32,,0,0,
-85,REAL_RESULTS,R32,,0,0,
+85,REAL_RESULTS,R32,Switzerland,0,0,
 93,REAL_RESULTS,R16,,0,0,
 96,REAL_RESULTS,R16,,0,0,
 1,REAL_RESULTS,Group,Mexico,2,0,South Africa
@@ -65,7 +65,7 @@
 40,REAL_RESULTS,Group,Uruguay,2,2,Cape Verde
 47,REAL_RESULTS,Group,Colombia,1,0,Democratic Republic of the Congo
 71,REAL_RESULTS,Group,Colombia,0,0,Portugal
-73,REAL_RESULTS,R32,,0,0,
+73,REAL_RESULTS,R32,,0,0,Canada
 77,REAL_RESULTS,R32,,0,0,
 84,REAL_RESULTS,R32,,0,0,
 90,REAL_RESULTS,R16,,0,0,
