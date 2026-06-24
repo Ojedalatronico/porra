@@ -30,7 +30,7 @@
 18,REAL_RESULTS,Group,Iraq,1,4,Norway
 21,REAL_RESULTS,Group,Portugal,1,1,Democratic Republic of the Congo
 37,REAL_RESULTS,Group,Belgium,0,0,Iran
-50,REAL_RESULTS,Group,Morocco,0,1,Haiti
+50,REAL_RESULTS,Group,Morocco,2,2,Haiti
 51,REAL_RESULTS,Group,South Africa,null,null,South Korea
 87,REAL_RESULTS,R32,,0,0,
 98,REAL_RESULTS,Qf,,0,0,
@@ -42,7 +42,7 @@
 30,REAL_RESULTS,Group,Scotland,0,1,Morocco
 32,REAL_RESULTS,Group,Turkey,0,1,Paraguay
 43,REAL_RESULTS,Group,Argentina,2,0,Austria
-49,REAL_RESULTS,Group,Scotland,0,1,Brazil
+49,REAL_RESULTS,Group,Scotland,0,3,Brazil
 53,REAL_RESULTS,Group,Bosnia and Herzegovina,3,1,Qatar
 58,REAL_RESULTS,Group,Turkey,0,0,United States
 62,REAL_RESULTS,Group,Norway,0,0,France
