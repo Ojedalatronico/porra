@@ -84,8 +84,8 @@
 24,REAL_RESULTS,Group,Ghana,1,0,Panama
 28,REAL_RESULTS,Group,Czech Republic,1,1,South Africa
 48,REAL_RESULTS,Group,England,0,0,Ghana
-55,REAL_RESULTS,Group,Curaçao,0,0,Ivory Coast
-56,REAL_RESULTS,Group,Ecuador,0,0,Germany
+55,REAL_RESULTS,Group,Curaçao,null,null,Ivory Coast
+56,REAL_RESULTS,Group,Ecuador,null,null,Germany
 68,REAL_RESULTS,Group,Croatia,0,0,Ghana
 69,REAL_RESULTS,Group,Algeria,0,0,Austria
 74,REAL_RESULTS,R32,Germany,0,0,
