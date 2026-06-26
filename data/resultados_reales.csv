@@ -18,7 +18,7 @@
 46,REAL_RESULTS,Group,Panama,0,1,Croatia
 52,REAL_RESULTS,Group,Czech Republic,0,3,Mexico
 60,REAL_RESULTS,Group,Tunisia,1,3,Netherlands
-61,REAL_RESULTS,Group,Senegal,null,null,Iraq
+61,REAL_RESULTS,Group,Senegal,1,0,Iraq
 67,REAL_RESULTS,Group,Panama,0,0,England
 72,REAL_RESULTS,Group,Democratic Republic of the Congo,0,0,Uzbekistan
 86,REAL_RESULTS,R32,Argentina,0,0,
@@ -45,7 +45,7 @@
 49,REAL_RESULTS,Group,Scotland,0,3,Brazil
 53,REAL_RESULTS,Group,Bosnia and Herzegovina,3,1,Qatar
 58,REAL_RESULTS,Group,Turkey,3,2,United States
-62,REAL_RESULTS,Group,Norway,null,null,France
+62,REAL_RESULTS,Group,Norway,1,3,France
 63,REAL_RESULTS,Group,Egypt,0,0,Iran
 65,REAL_RESULTS,Group,Cape Verde,0,0,Saudi Arabia
 66,REAL_RESULTS,Group,Uruguay,0,0,Spain
