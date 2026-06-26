@@ -57,8 +57,8 @@
 56,Ales y Adri,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Ales y Adri,Fase de Grupos,Japan,1,0,Sweden,0
 58,Ales y Adri,Fase de Grupos,Tunisia,0,1,Netherlands,0
-59,Ales y Adri,Fase de Grupos,Turkey,2,2,United States,0
-60,Ales y Adri,Fase de Grupos,Paraguay,0,2,Australia,0
+59,Ales y Adri,Fase de Grupos,Turkey,2,2,United States,1
+60,Ales y Adri,Fase de Grupos,Paraguay,0,2,Australia,1
 61,Ales y Adri,Fase de Grupos,Norway,1,2,France,0
 62,Ales y Adri,Fase de Grupos,Senegal,2,1,Iraq,0
 63,Ales y Adri,Fase de Grupos,Egypt,2,1,Iran,0
@@ -162,7 +162,7 @@
 56,Sandra,Fase de Grupos,Ecuador,2,1,Germany,3
 57,Sandra,Fase de Grupos,Japan,1,2,Sweden,0
 58,Sandra,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Sandra,Fase de Grupos,Turkey,2,2,United States,0
+59,Sandra,Fase de Grupos,Turkey,2,2,United States,1
 60,Sandra,Fase de Grupos,Paraguay,1,1,Australia,0
 61,Sandra,Fase de Grupos,Norway,1,1,France,0
 62,Sandra,Fase de Grupos,Senegal,0,2,Iraq,0
@@ -477,7 +477,7 @@
 56,Bea Oppici,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Bea Oppici,Fase de Grupos,Japan,1,1,Sweden,0
 58,Bea Oppici,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Bea Oppici,Fase de Grupos,Turkey,2,2,United States,0
+59,Bea Oppici,Fase de Grupos,Turkey,2,2,United States,1
 60,Bea Oppici,Fase de Grupos,Paraguay,1,1,Australia,0
 61,Bea Oppici,Fase de Grupos,Norway,1,2,France,0
 62,Bea Oppici,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -1212,7 +1212,7 @@
 56,Álvaro Burgos,Fase de Grupos,Ecuador,1,0,Germany,1
 57,Álvaro Burgos,Fase de Grupos,Japan,2,1,Sweden,0
 58,Álvaro Burgos,Fase de Grupos,Tunisia,0,1,Netherlands,0
-59,Álvaro Burgos,Fase de Grupos,Turkey,2,2,United States,0
+59,Álvaro Burgos,Fase de Grupos,Turkey,2,2,United States,1
 60,Álvaro Burgos,Fase de Grupos,Paraguay,1,0,Australia,0
 61,Álvaro Burgos,Fase de Grupos,Norway,1,2,France,0
 62,Álvaro Burgos,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -1632,7 +1632,7 @@
 56,Mani,Fase de Grupos,Ecuador,1,1,Germany,0
 57,Mani,Fase de Grupos,Japan,1,0,Sweden,0
 58,Mani,Fase de Grupos,Tunisia,2,3,Netherlands,0
-59,Mani,Fase de Grupos,Turkey,2,2,United States,0
+59,Mani,Fase de Grupos,Turkey,2,2,United States,1
 60,Mani,Fase de Grupos,Paraguay,1,0,Australia,0
 61,Mani,Fase de Grupos,Norway,1,2,France,0
 62,Mani,Fase de Grupos,Senegal,3,1,Iraq,0
@@ -1947,8 +1947,8 @@
 56,Baz,Fase de Grupos,Ecuador,0,2,Germany,0
 57,Baz,Fase de Grupos,Japan,1,1,Sweden,0
 58,Baz,Fase de Grupos,Tunisia,0,1,Netherlands,0
-59,Baz,Fase de Grupos,Turkey,2,2,United States,0
-60,Baz,Fase de Grupos,Paraguay,0,1,Australia,0
+59,Baz,Fase de Grupos,Turkey,2,2,United States,1
+60,Baz,Fase de Grupos,Paraguay,0,1,Australia,1
 61,Baz,Fase de Grupos,Norway,0,2,France,0
 62,Baz,Fase de Grupos,Senegal,0,0,Iraq,0
 63,Baz,Fase de Grupos,Egypt,1,0,Iran,0
@@ -2158,7 +2158,7 @@
 57,Steven Nucera,Fase de Grupos,Japan,3,1,Sweden,0
 58,Steven Nucera,Fase de Grupos,Tunisia,0,2,Netherlands,0
 59,Steven Nucera,Fase de Grupos,Turkey,1,3,United States,0
-60,Steven Nucera,Fase de Grupos,Paraguay,0,1,Australia,0
+60,Steven Nucera,Fase de Grupos,Paraguay,0,1,Australia,1
 61,Steven Nucera,Fase de Grupos,Norway,1,1,France,0
 62,Steven Nucera,Fase de Grupos,Senegal,2,2,Iraq,0
 63,Steven Nucera,Fase de Grupos,Egypt,2,0,Iran,0
@@ -2263,7 +2263,7 @@
 57,Nux,Fase de Grupos,Japan,3,1,Sweden,0
 58,Nux,Fase de Grupos,Tunisia,0,2,Netherlands,0
 59,Nux,Fase de Grupos,Turkey,1,3,United States,0
-60,Nux,Fase de Grupos,Paraguay,0,1,Australia,0
+60,Nux,Fase de Grupos,Paraguay,0,1,Australia,1
 61,Nux,Fase de Grupos,Norway,1,1,France,0
 62,Nux,Fase de Grupos,Senegal,2,2,Iraq,0
 63,Nux,Fase de Grupos,Egypt,2,0,Iran,0
@@ -2367,7 +2367,7 @@
 56,Rafa Martín,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Rafa Martín,Fase de Grupos,Japan,1,1,Sweden,0
 58,Rafa Martín,Fase de Grupos,Tunisia,0,3,Netherlands,0
-59,Rafa Martín,Fase de Grupos,Turkey,1,1,United States,0
+59,Rafa Martín,Fase de Grupos,Turkey,1,1,United States,3
 60,Rafa Martín,Fase de Grupos,Paraguay,2,1,Australia,0
 61,Rafa Martín,Fase de Grupos,Norway,1,2,France,0
 62,Rafa Martín,Fase de Grupos,Senegal,0,0,Iraq,0
@@ -2783,7 +2783,7 @@
 56,Raúl Aragonés,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Raúl Aragonés,Fase de Grupos,Japan,2,1,Sweden,0
 58,Raúl Aragonés,Fase de Grupos,Tunisia,0,3,Netherlands,0
-59,Raúl Aragonés,Fase de Grupos,Turkey,2,2,United States,0
+59,Raúl Aragonés,Fase de Grupos,Turkey,2,2,United States,1
 60,Raúl Aragonés,Fase de Grupos,Paraguay,1,1,Australia,0
 61,Raúl Aragonés,Fase de Grupos,Norway,1,1,France,0
 62,Raúl Aragonés,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -2994,7 +2994,7 @@
 57,Javier Tomé,Fase de Grupos,Japan,2,1,Sweden,0
 58,Javier Tomé,Fase de Grupos,Tunisia,0,3,Netherlands,0
 59,Javier Tomé,Fase de Grupos,Turkey,1,2,United States,0
-60,Javier Tomé,Fase de Grupos,Paraguay,1,2,Australia,0
+60,Javier Tomé,Fase de Grupos,Paraguay,1,2,Australia,1
 61,Javier Tomé,Fase de Grupos,Norway,0,3,France,0
 62,Javier Tomé,Fase de Grupos,Senegal,2,0,Iraq,0
 63,Javier Tomé,Fase de Grupos,Egypt,1,2,Iran,0
@@ -3204,7 +3204,7 @@
 57,César Heredero,Fase de Grupos,Japan,2,1,Sweden,0
 58,César Heredero,Fase de Grupos,Tunisia,0,2,Netherlands,0
 59,César Heredero,Fase de Grupos,Turkey,0,1,United States,0
-60,César Heredero,Fase de Grupos,Paraguay,0,1,Australia,0
+60,César Heredero,Fase de Grupos,Paraguay,0,1,Australia,1
 61,César Heredero,Fase de Grupos,Norway,0,2,France,0
 62,César Heredero,Fase de Grupos,Senegal,2,0,Iraq,0
 63,César Heredero,Fase de Grupos,Egypt,0,1,Iran,0
@@ -3728,7 +3728,7 @@
 56,Vito,Fase de Grupos,Ecuador,1,1,Germany,0
 57,Vito,Fase de Grupos,Japan,2,1,Sweden,0
 58,Vito,Fase de Grupos,Tunisia,1,3,Netherlands,0
-59,Vito,Fase de Grupos,Turkey,1,1,United States,0
+59,Vito,Fase de Grupos,Turkey,1,1,United States,3
 60,Vito,Fase de Grupos,Paraguay,2,0,Australia,0
 61,Vito,Fase de Grupos,Norway,1,2,France,0
 62,Vito,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -4044,7 +4044,7 @@
 57,Jaime Laulhé,Fase de Grupos,Japan,2,1,Sweden,0
 58,Jaime Laulhé,Fase de Grupos,Tunisia,0,3,Netherlands,0
 59,Jaime Laulhé,Fase de Grupos,Turkey,1,2,United States,0
-60,Jaime Laulhé,Fase de Grupos,Paraguay,1,2,Australia,0
+60,Jaime Laulhé,Fase de Grupos,Paraguay,1,2,Australia,1
 61,Jaime Laulhé,Fase de Grupos,Norway,1,2,France,0
 62,Jaime Laulhé,Fase de Grupos,Senegal,2,0,Iraq,0
 63,Jaime Laulhé,Fase de Grupos,Egypt,2,1,Iran,0
@@ -4148,8 +4148,8 @@
 56,Miguel Egea,Fase de Grupos,Ecuador,1,1,Germany,0
 57,Miguel Egea,Fase de Grupos,Japan,2,1,Sweden,0
 58,Miguel Egea,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Miguel Egea,Fase de Grupos,Turkey,1,1,United States,0
-60,Miguel Egea,Fase de Grupos,Paraguay,0,1,Australia,0
+59,Miguel Egea,Fase de Grupos,Turkey,1,1,United States,3
+60,Miguel Egea,Fase de Grupos,Paraguay,0,1,Australia,1
 61,Miguel Egea,Fase de Grupos,Norway,1,1,France,0
 62,Miguel Egea,Fase de Grupos,Senegal,2,1,Iraq,0
 63,Miguel Egea,Fase de Grupos,Egypt,2,1,Iran,0
@@ -4253,7 +4253,7 @@
 56,Julio Montejo,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Julio Montejo,Fase de Grupos,Japan,1,1,Sweden,0
 58,Julio Montejo,Fase de Grupos,Tunisia,1,3,Netherlands,0
-59,Julio Montejo,Fase de Grupos,Turkey,1,1,United States,0
+59,Julio Montejo,Fase de Grupos,Turkey,1,1,United States,3
 60,Julio Montejo,Fase de Grupos,Paraguay,1,0,Australia,0
 61,Julio Montejo,Fase de Grupos,Norway,1,2,France,0
 62,Julio Montejo,Fase de Grupos,Senegal,3,0,Iraq,0
@@ -4358,8 +4358,8 @@
 56,Fernando Mora,Fase de Grupos,Ecuador,0,2,Germany,0
 57,Fernando Mora,Fase de Grupos,Japan,2,0,Sweden,0
 58,Fernando Mora,Fase de Grupos,Tunisia,0,3,Netherlands,0
-59,Fernando Mora,Fase de Grupos,Turkey,2,2,United States,0
-60,Fernando Mora,Fase de Grupos,Paraguay,1,2,Australia,0
+59,Fernando Mora,Fase de Grupos,Turkey,2,2,United States,1
+60,Fernando Mora,Fase de Grupos,Paraguay,1,2,Australia,1
 61,Fernando Mora,Fase de Grupos,Norway,1,3,France,0
 62,Fernando Mora,Fase de Grupos,Senegal,3,0,Iraq,0
 63,Fernando Mora,Fase de Grupos,Egypt,0,0,Iran,0
@@ -4568,7 +4568,7 @@
 56,YYCCSSGG (Jesús Martín),Fase de Grupos,Ecuador,1,2,Germany,0
 57,YYCCSSGG (Jesús Martín),Fase de Grupos,Japan,1,1,Sweden,0
 58,YYCCSSGG (Jesús Martín),Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,YYCCSSGG (Jesús Martín),Fase de Grupos,Turkey,1,1,United States,0
+59,YYCCSSGG (Jesús Martín),Fase de Grupos,Turkey,1,1,United States,3
 60,YYCCSSGG (Jesús Martín),Fase de Grupos,Paraguay,2,0,Australia,0
 61,YYCCSSGG (Jesús Martín),Fase de Grupos,Norway,1,1,France,0
 62,YYCCSSGG (Jesús Martín),Fase de Grupos,Senegal,2,0,Iraq,0
@@ -4883,8 +4883,8 @@
 56,Carol,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Carol,Fase de Grupos,Japan,1,2,Sweden,0
 58,Carol,Fase de Grupos,Tunisia,1,2,Netherlands,0
-59,Carol,Fase de Grupos,Turkey,2,2,United States,0
-60,Carol,Fase de Grupos,Paraguay,1,2,Australia,0
+59,Carol,Fase de Grupos,Turkey,2,2,United States,1
+60,Carol,Fase de Grupos,Paraguay,1,2,Australia,1
 61,Carol,Fase de Grupos,Norway,2,3,France,0
 62,Carol,Fase de Grupos,Senegal,3,1,Iraq,0
 63,Carol,Fase de Grupos,Egypt,2,1,Iran,0
@@ -4988,7 +4988,7 @@
 56,Carlos Álvarez,Fase de Grupos,Ecuador,0,2,Germany,0
 57,Carlos Álvarez,Fase de Grupos,Japan,2,1,Sweden,0
 58,Carlos Álvarez,Fase de Grupos,Tunisia,0,3,Netherlands,0
-59,Carlos Álvarez,Fase de Grupos,Turkey,2,2,United States,0
+59,Carlos Álvarez,Fase de Grupos,Turkey,2,2,United States,1
 60,Carlos Álvarez,Fase de Grupos,Paraguay,1,1,Australia,0
 61,Carlos Álvarez,Fase de Grupos,Norway,0,0,France,0
 62,Carlos Álvarez,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -5723,7 +5723,7 @@
 56,Roberto Molina,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Roberto Molina,Fase de Grupos,Japan,1,1,Sweden,0
 58,Roberto Molina,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Roberto Molina,Fase de Grupos,Turkey,1,1,United States,0
+59,Roberto Molina,Fase de Grupos,Turkey,1,1,United States,3
 60,Roberto Molina,Fase de Grupos,Paraguay,1,1,Australia,0
 61,Roberto Molina,Fase de Grupos,Norway,2,2,France,0
 62,Roberto Molina,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -5828,7 +5828,7 @@
 56,Vísor,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Vísor,Fase de Grupos,Japan,1,1,Sweden,0
 58,Vísor,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Vísor,Fase de Grupos,Turkey,1,1,United States,0
+59,Vísor,Fase de Grupos,Turkey,1,1,United States,3
 60,Vísor,Fase de Grupos,Paraguay,2,0,Australia,0
 61,Vísor,Fase de Grupos,Norway,1,3,France,0
 62,Vísor,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -5933,8 +5933,8 @@
 56,Jacobo Antona,Fase de Grupos,Ecuador,2,0,Germany,1
 57,Jacobo Antona,Fase de Grupos,Japan,2,1,Sweden,0
 58,Jacobo Antona,Fase de Grupos,Tunisia,0,3,Netherlands,0
-59,Jacobo Antona,Fase de Grupos,Turkey,1,1,United States,0
-60,Jacobo Antona,Fase de Grupos,Paraguay,1,2,Australia,0
+59,Jacobo Antona,Fase de Grupos,Turkey,1,1,United States,3
+60,Jacobo Antona,Fase de Grupos,Paraguay,1,2,Australia,1
 61,Jacobo Antona,Fase de Grupos,Norway,0,3,France,0
 62,Jacobo Antona,Fase de Grupos,Senegal,2,0,Iraq,0
 63,Jacobo Antona,Fase de Grupos,Egypt,0,2,Iran,0
@@ -6039,7 +6039,7 @@
 57,Juan Smith,Fase de Grupos,Japan,2,2,Sweden,0
 58,Juan Smith,Fase de Grupos,Tunisia,0,2,Netherlands,0
 59,Juan Smith,Fase de Grupos,Turkey,1,2,United States,0
-60,Juan Smith,Fase de Grupos,Paraguay,1,3,Australia,0
+60,Juan Smith,Fase de Grupos,Paraguay,1,3,Australia,3
 61,Juan Smith,Fase de Grupos,Norway,0,3,France,0
 62,Juan Smith,Fase de Grupos,Senegal,1,2,Iraq,0
 63,Juan Smith,Fase de Grupos,Egypt,0,3,Iran,0
@@ -6143,7 +6143,7 @@
 56,Iban,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Iban,Fase de Grupos,Japan,1,2,Sweden,0
 58,Iban,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Iban,Fase de Grupos,Turkey,1,1,United States,0
+59,Iban,Fase de Grupos,Turkey,1,1,United States,3
 60,Iban,Fase de Grupos,Paraguay,2,1,Australia,0
 61,Iban,Fase de Grupos,Norway,1,2,France,0
 62,Iban,Fase de Grupos,Senegal,2,1,Iraq,0
@@ -6353,7 +6353,7 @@
 56,Jesús Espinar,Fase de Grupos,Ecuador,1,1,Germany,0
 57,Jesús Espinar,Fase de Grupos,Japan,2,1,Sweden,0
 58,Jesús Espinar,Fase de Grupos,Tunisia,1,2,Netherlands,0
-59,Jesús Espinar,Fase de Grupos,Turkey,1,1,United States,0
+59,Jesús Espinar,Fase de Grupos,Turkey,1,1,United States,3
 60,Jesús Espinar,Fase de Grupos,Paraguay,2,1,Australia,0
 61,Jesús Espinar,Fase de Grupos,Norway,2,2,France,0
 62,Jesús Espinar,Fase de Grupos,Senegal,2,1,Iraq,0
@@ -6563,7 +6563,7 @@
 56,Yuriy,Fase de Grupos,Ecuador,1,1,Germany,0
 57,Yuriy,Fase de Grupos,Japan,3,2,Sweden,0
 58,Yuriy,Fase de Grupos,Tunisia,1,2,Netherlands,0
-59,Yuriy,Fase de Grupos,Turkey,0,0,United States,0
+59,Yuriy,Fase de Grupos,Turkey,0,0,United States,1
 60,Yuriy,Fase de Grupos,Paraguay,1,0,Australia,0
 61,Yuriy,Fase de Grupos,Norway,2,3,France,0
 62,Yuriy,Fase de Grupos,Senegal,3,1,Iraq,0
@@ -6983,8 +6983,8 @@
 56,Sergio Valencia,Fase de Grupos,Ecuador,0,1,Germany,0
 57,Sergio Valencia,Fase de Grupos,Japan,2,1,Sweden,0
 58,Sergio Valencia,Fase de Grupos,Tunisia,1,3,Netherlands,0
-59,Sergio Valencia,Fase de Grupos,Turkey,2,2,United States,0
-60,Sergio Valencia,Fase de Grupos,Paraguay,0,1,Australia,0
+59,Sergio Valencia,Fase de Grupos,Turkey,2,2,United States,1
+60,Sergio Valencia,Fase de Grupos,Paraguay,0,1,Australia,1
 61,Sergio Valencia,Fase de Grupos,Norway,0,1,France,0
 62,Sergio Valencia,Fase de Grupos,Senegal,2,0,Iraq,0
 63,Sergio Valencia,Fase de Grupos,Egypt,0,0,Iran,0
@@ -7088,7 +7088,7 @@
 56,Borjita,Fase de Grupos,Ecuador,2,2,Germany,0
 57,Borjita,Fase de Grupos,Japan,2,1,Sweden,0
 58,Borjita,Fase de Grupos,Tunisia,1,2,Netherlands,0
-59,Borjita,Fase de Grupos,Turkey,2,2,United States,0
+59,Borjita,Fase de Grupos,Turkey,2,2,United States,1
 60,Borjita,Fase de Grupos,Paraguay,2,1,Australia,0
 61,Borjita,Fase de Grupos,Norway,2,3,France,0
 62,Borjita,Fase de Grupos,Senegal,3,0,Iraq,0
@@ -7193,7 +7193,7 @@
 56,Luisja,Fase de Grupos,Ecuador,1,1,Germany,0
 57,Luisja,Fase de Grupos,Japan,3,1,Sweden,0
 58,Luisja,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Luisja,Fase de Grupos,Turkey,1,1,United States,0
+59,Luisja,Fase de Grupos,Turkey,1,1,United States,3
 60,Luisja,Fase de Grupos,Paraguay,1,1,Australia,0
 61,Luisja,Fase de Grupos,Norway,1,2,France,0
 62,Luisja,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -7298,8 +7298,8 @@
 56,David Feijoó,Fase de Grupos,Ecuador,0,2,Germany,0
 57,David Feijoó,Fase de Grupos,Japan,1,0,Sweden,0
 58,David Feijoó,Fase de Grupos,Tunisia,0,1,Netherlands,0
-59,David Feijoó,Fase de Grupos,Turkey,1,1,United States,0
-60,David Feijoó,Fase de Grupos,Paraguay,0,1,Australia,0
+59,David Feijoó,Fase de Grupos,Turkey,1,1,United States,3
+60,David Feijoó,Fase de Grupos,Paraguay,0,1,Australia,1
 61,David Feijoó,Fase de Grupos,Norway,0,1,France,0
 62,David Feijoó,Fase de Grupos,Senegal,1,0,Iraq,0
 63,David Feijoó,Fase de Grupos,Egypt,1,0,Iran,0
@@ -7403,7 +7403,7 @@
 56,Vicente Ampuero,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Vicente Ampuero,Fase de Grupos,Japan,2,1,Sweden,0
 58,Vicente Ampuero,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Vicente Ampuero,Fase de Grupos,Turkey,2,2,United States,0
+59,Vicente Ampuero,Fase de Grupos,Turkey,2,2,United States,1
 60,Vicente Ampuero,Fase de Grupos,Paraguay,3,1,Australia,0
 61,Vicente Ampuero,Fase de Grupos,Norway,1,2,France,0
 62,Vicente Ampuero,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -7508,7 +7508,7 @@
 56,Beltrán Serrano,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Beltrán Serrano,Fase de Grupos,Japan,2,1,Sweden,0
 58,Beltrán Serrano,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Beltrán Serrano,Fase de Grupos,Turkey,1,1,United States,0
+59,Beltrán Serrano,Fase de Grupos,Turkey,1,1,United States,3
 60,Beltrán Serrano,Fase de Grupos,Paraguay,0,0,Australia,0
 61,Beltrán Serrano,Fase de Grupos,Norway,1,3,France,0
 62,Beltrán Serrano,Fase de Grupos,Senegal,1,0,Iraq,0
@@ -7613,7 +7613,7 @@
 56,Vicente Serrano,Fase de Grupos,Ecuador,1,1,Germany,0
 57,Vicente Serrano,Fase de Grupos,Japan,1,0,Sweden,0
 58,Vicente Serrano,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Vicente Serrano,Fase de Grupos,Turkey,1,1,United States,0
+59,Vicente Serrano,Fase de Grupos,Turkey,1,1,United States,3
 60,Vicente Serrano,Fase de Grupos,Paraguay,1,1,Australia,0
 61,Vicente Serrano,Fase de Grupos,Norway,0,2,France,0
 62,Vicente Serrano,Fase de Grupos,Senegal,1,0,Iraq,0
@@ -7824,7 +7824,7 @@
 57,Ari,Fase de Grupos,Japan,0,0,Sweden,0
 58,Ari,Fase de Grupos,Tunisia,0,1,Netherlands,0
 59,Ari,Fase de Grupos,Turkey,3,1,United States,0
-60,Ari,Fase de Grupos,Paraguay,1,2,Australia,0
+60,Ari,Fase de Grupos,Paraguay,1,2,Australia,1
 61,Ari,Fase de Grupos,Norway,2,2,France,0
 62,Ari,Fase de Grupos,Senegal,0,0,Iraq,0
 63,Ari,Fase de Grupos,Egypt,1,0,Iran,0
@@ -7928,7 +7928,7 @@
 56,Papá,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Papá,Fase de Grupos,Japan,2,2,Sweden,0
 58,Papá,Fase de Grupos,Tunisia,1,3,Netherlands,0
-59,Papá,Fase de Grupos,Turkey,2,2,United States,0
+59,Papá,Fase de Grupos,Turkey,2,2,United States,1
 60,Papá,Fase de Grupos,Paraguay,2,0,Australia,0
 61,Papá,Fase de Grupos,Norway,1,2,France,0
 62,Papá,Fase de Grupos,Senegal,2,1,Iraq,0
@@ -8033,7 +8033,7 @@
 56,Tanit,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Tanit,Fase de Grupos,Japan,1,1,Sweden,0
 58,Tanit,Fase de Grupos,Tunisia,0,3,Netherlands,0
-59,Tanit,Fase de Grupos,Turkey,1,1,United States,0
+59,Tanit,Fase de Grupos,Turkey,1,1,United States,3
 60,Tanit,Fase de Grupos,Paraguay,2,1,Australia,0
 61,Tanit,Fase de Grupos,Norway,1,2,France,0
 62,Tanit,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -8243,7 +8243,7 @@
 56,Iván Mateos,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Iván Mateos,Fase de Grupos,Japan,2,2,Sweden,0
 58,Iván Mateos,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Iván Mateos,Fase de Grupos,Turkey,2,2,United States,0
+59,Iván Mateos,Fase de Grupos,Turkey,2,2,United States,1
 60,Iván Mateos,Fase de Grupos,Paraguay,1,0,Australia,0
 61,Iván Mateos,Fase de Grupos,Norway,2,4,France,0
 62,Iván Mateos,Fase de Grupos,Senegal,2,1,Iraq,0
@@ -8348,8 +8348,8 @@
 56,Luismi Fernández,Fase de Grupos,Ecuador,0,4,Germany,0
 57,Luismi Fernández,Fase de Grupos,Japan,2,1,Sweden,0
 58,Luismi Fernández,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Luismi Fernández,Fase de Grupos,Turkey,1,1,United States,0
-60,Luismi Fernández,Fase de Grupos,Paraguay,1,2,Australia,0
+59,Luismi Fernández,Fase de Grupos,Turkey,1,1,United States,3
+60,Luismi Fernández,Fase de Grupos,Paraguay,1,2,Australia,1
 61,Luismi Fernández,Fase de Grupos,Norway,1,3,France,0
 62,Luismi Fernández,Fase de Grupos,Senegal,4,2,Iraq,0
 63,Luismi Fernández,Fase de Grupos,Egypt,2,0,Iran,0
@@ -8663,7 +8663,7 @@
 56,Gonzalo Bravo,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Gonzalo Bravo,Fase de Grupos,Japan,1,2,Sweden,0
 58,Gonzalo Bravo,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Gonzalo Bravo,Fase de Grupos,Turkey,1,1,United States,0
+59,Gonzalo Bravo,Fase de Grupos,Turkey,1,1,United States,3
 60,Gonzalo Bravo,Fase de Grupos,Paraguay,1,1,Australia,0
 61,Gonzalo Bravo,Fase de Grupos,Norway,0,1,France,0
 62,Gonzalo Bravo,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -9083,7 +9083,7 @@
 56,Guillermo Burdiel,Fase de Grupos,Ecuador,1,1,Germany,0
 57,Guillermo Burdiel,Fase de Grupos,Japan,2,0,Sweden,0
 58,Guillermo Burdiel,Fase de Grupos,Tunisia,1,2,Netherlands,0
-59,Guillermo Burdiel,Fase de Grupos,Turkey,1,1,United States,0
+59,Guillermo Burdiel,Fase de Grupos,Turkey,1,1,United States,3
 60,Guillermo Burdiel,Fase de Grupos,Paraguay,1,0,Australia,0
 61,Guillermo Burdiel,Fase de Grupos,Norway,2,2,France,0
 62,Guillermo Burdiel,Fase de Grupos,Senegal,2,2,Iraq,0
@@ -9188,7 +9188,7 @@
 56,Alberto Mendoza,Fase de Grupos,Ecuador,1,1,Germany,0
 57,Alberto Mendoza,Fase de Grupos,Japan,1,1,Sweden,0
 58,Alberto Mendoza,Fase de Grupos,Tunisia,0,3,Netherlands,0
-59,Alberto Mendoza,Fase de Grupos,Turkey,1,1,United States,0
+59,Alberto Mendoza,Fase de Grupos,Turkey,1,1,United States,3
 60,Alberto Mendoza,Fase de Grupos,Paraguay,2,0,Australia,0
 61,Alberto Mendoza,Fase de Grupos,Norway,1,3,France,0
 62,Alberto Mendoza,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -9398,8 +9398,8 @@
 56,Manu Montejo,Fase de Grupos,Ecuador,2,2,Germany,0
 57,Manu Montejo,Fase de Grupos,Japan,1,1,Sweden,0
 58,Manu Montejo,Fase de Grupos,Tunisia,0,4,Netherlands,0
-59,Manu Montejo,Fase de Grupos,Turkey,1,1,United States,0
-60,Manu Montejo,Fase de Grupos,Paraguay,0,1,Australia,0
+59,Manu Montejo,Fase de Grupos,Turkey,1,1,United States,3
+60,Manu Montejo,Fase de Grupos,Paraguay,0,1,Australia,1
 61,Manu Montejo,Fase de Grupos,Norway,1,3,France,0
 62,Manu Montejo,Fase de Grupos,Senegal,2,0,Iraq,0
 63,Manu Montejo,Fase de Grupos,Egypt,1,1,Iran,0
@@ -9713,7 +9713,7 @@
 56,Luis Carreras,Fase de Grupos,Ecuador,1,4,Germany,0
 57,Luis Carreras,Fase de Grupos,Japan,1,0,Sweden,0
 58,Luis Carreras,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Luis Carreras,Fase de Grupos,Turkey,0,0,United States,0
+59,Luis Carreras,Fase de Grupos,Turkey,0,0,United States,1
 60,Luis Carreras,Fase de Grupos,Paraguay,1,0,Australia,0
 61,Luis Carreras,Fase de Grupos,Norway,1,1,France,0
 62,Luis Carreras,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -9818,7 +9818,7 @@
 56,Dani Galán,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Dani Galán,Fase de Grupos,Japan,1,1,Sweden,0
 58,Dani Galán,Fase de Grupos,Tunisia,0,2,Netherlands,0
-59,Dani Galán,Fase de Grupos,Turkey,1,1,United States,0
+59,Dani Galán,Fase de Grupos,Turkey,1,1,United States,3
 60,Dani Galán,Fase de Grupos,Paraguay,1,1,Australia,0
 61,Dani Galán,Fase de Grupos,Norway,1,1,France,0
 62,Dani Galán,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -9924,7 +9924,7 @@
 57,Natalia,Fase de Grupos,Japan,2,1,Sweden,0
 58,Natalia,Fase de Grupos,Tunisia,0,3,Netherlands,0
 59,Natalia,Fase de Grupos,Turkey,1,2,United States,0
-60,Natalia,Fase de Grupos,Paraguay,0,1,Australia,0
+60,Natalia,Fase de Grupos,Paraguay,0,1,Australia,1
 61,Natalia,Fase de Grupos,Norway,0,3,France,0
 62,Natalia,Fase de Grupos,Senegal,2,0,Iraq,0
 63,Natalia,Fase de Grupos,Egypt,1,1,Iran,0
@@ -10238,7 +10238,7 @@
 56,Jose Díaz,Fase de Grupos,Ecuador,1,0,Germany,1
 57,Jose Díaz,Fase de Grupos,Japan,0,2,Sweden,0
 58,Jose Díaz,Fase de Grupos,Tunisia,1,3,Netherlands,0
-59,Jose Díaz,Fase de Grupos,Turkey,1,1,United States,0
+59,Jose Díaz,Fase de Grupos,Turkey,1,1,United States,3
 60,Jose Díaz,Fase de Grupos,Paraguay,1,0,Australia,0
 61,Jose Díaz,Fase de Grupos,Norway,2,3,France,0
 62,Jose Díaz,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -10763,7 +10763,7 @@
 56,Fernando Bravo,Fase de Grupos,Ecuador,1,3,Germany,0
 57,Fernando Bravo,Fase de Grupos,Japan,1,2,Sweden,0
 58,Fernando Bravo,Fase de Grupos,Tunisia,1,3,Netherlands,0
-59,Fernando Bravo,Fase de Grupos,Turkey,0,0,United States,0
+59,Fernando Bravo,Fase de Grupos,Turkey,0,0,United States,1
 60,Fernando Bravo,Fase de Grupos,Paraguay,2,0,Australia,0
 61,Fernando Bravo,Fase de Grupos,Norway,1,4,France,0
 62,Fernando Bravo,Fase de Grupos,Senegal,2,0,Iraq,0
@@ -11708,7 +11708,7 @@
 56,Richard Díaz,Fase de Grupos,Ecuador,1,2,Germany,0
 57,Richard Díaz,Fase de Grupos,Japan,2,2,Sweden,0
 58,Richard Díaz,Fase de Grupos,Tunisia,1,5,Netherlands,0
-59,Richard Díaz,Fase de Grupos,Turkey,0,0,United States,0
+59,Richard Díaz,Fase de Grupos,Turkey,0,0,United States,1
 60,Richard Díaz,Fase de Grupos,Paraguay,0,0,Australia,0
 61,Richard Díaz,Fase de Grupos,Norway,2,3,France,0
 62,Richard Díaz,Fase de Grupos,Senegal,1,1,Iraq,0
