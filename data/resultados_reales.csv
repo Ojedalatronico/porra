@@ -47,8 +47,8 @@
 58,REAL_RESULTS,Group,Turkey,3,2,United States
 62,REAL_RESULTS,Group,Norway,1,4,France
 63,REAL_RESULTS,Group,Egypt,null,null,Iran
-65,REAL_RESULTS,Group,Cape Verde,null,null,Saudi Arabia
-66,REAL_RESULTS,Group,Uruguay,null,null,Spain
+65,REAL_RESULTS,Group,Cape Verde,0,0,Saudi Arabia
+66,REAL_RESULTS,Group,Uruguay,0,1,Spain
 70,REAL_RESULTS,Group,Jordan,0,0,Argentina
 76,REAL_RESULTS,R32,Brazil,0,0,Japan
 83,REAL_RESULTS,R32,,0,0,
