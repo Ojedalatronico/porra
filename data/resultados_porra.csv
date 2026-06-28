@@ -280,7 +280,7 @@
 69,Gerardo,Fase de Grupos,Algeria,0,1,Austria,0
 70,Gerardo,Fase de Grupos,Jordan,0,3,Argentina,0
 71,Gerardo,Fase de Grupos,Colombia,1,2,Portugal,0
-72,Gerardo,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+72,Gerardo,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Gerardo,Round of 32,Germany,2,0,Scotland,0
 74,Gerardo,Round of 32,France,2,0,Sweden,0
 75,Gerardo,Round of 32,Czech Republic,1,1,Canada,0
@@ -489,7 +489,7 @@
 68,Bea Oppici,Fase de Grupos,Croatia,2,0,Ghana,1
 69,Bea Oppici,Fase de Grupos,Algeria,1,1,Austria,0
 70,Bea Oppici,Fase de Grupos,Jordan,1,2,Argentina,0
-71,Bea Oppici,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Bea Oppici,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Bea Oppici,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,Bea Oppici,Round of 32,Germany,2,0,Scotland,0
 74,Bea Oppici,Round of 32,France,3,1,Paraguay,0
@@ -699,7 +699,7 @@
 68,Marco Rodríguez,Fase de Grupos,Croatia,2,0,Ghana,1
 69,Marco Rodríguez,Fase de Grupos,Algeria,1,1,Austria,0
 70,Marco Rodríguez,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Marco Rodríguez,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Marco Rodríguez,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Marco Rodríguez,Fase de Grupos,DR Congo,2,2,Uzbekistan,0
 73,Marco Rodríguez,Round of 32,Germany,2,0,Scotland,0
 74,Marco Rodríguez,Round of 32,France,4,0,Japan,0
@@ -804,8 +804,8 @@
 68,Roberto Portero,Fase de Grupos,Croatia,2,1,Ghana,3
 69,Roberto Portero,Fase de Grupos,Algeria,2,0,Austria,0
 70,Roberto Portero,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Roberto Portero,Fase de Grupos,Colombia,1,1,Portugal,0
-72,Roberto Portero,Fase de Grupos,DR Congo,3,1,Uzbekistan,0
+71,Roberto Portero,Fase de Grupos,Colombia,1,1,Portugal,1
+72,Roberto Portero,Fase de Grupos,DR Congo,3,1,Uzbekistan,3
 73,Roberto Portero,Round of 32,Ecuador,2,1,Scotland,0
 74,Roberto Portero,Round of 32,France,4,0,Iran,0
 75,Roberto Portero,Round of 32,Korea Republic,0,0,Bosnia and Herzegovina,0
@@ -1015,7 +1015,7 @@
 69,Rafa Venegas,Fase de Grupos,Algeria,0,1,Austria,0
 70,Rafa Venegas,Fase de Grupos,Jordan,0,3,Argentina,0
 71,Rafa Venegas,Fase de Grupos,Colombia,1,2,Portugal,0
-72,Rafa Venegas,Fase de Grupos,DR Congo,2,1,Uzbekistan,0
+72,Rafa Venegas,Fase de Grupos,DR Congo,2,1,Uzbekistan,1
 73,Rafa Venegas,Round of 32,Germany,1,0,United States,0
 74,Rafa Venegas,Round of 32,France,1,0,Japan,0
 75,Rafa Venegas,Round of 32,Korea Republic,1,0,Canada,0
@@ -1224,8 +1224,8 @@
 68,Álvaro Burgos,Fase de Grupos,Croatia,2,0,Ghana,1
 69,Álvaro Burgos,Fase de Grupos,Algeria,1,1,Austria,0
 70,Álvaro Burgos,Fase de Grupos,Jordan,1,4,Argentina,0
-71,Álvaro Burgos,Fase de Grupos,Colombia,2,2,Portugal,0
-72,Álvaro Burgos,Fase de Grupos,DR Congo,2,1,Uzbekistan,0
+71,Álvaro Burgos,Fase de Grupos,Colombia,2,2,Portugal,1
+72,Álvaro Burgos,Fase de Grupos,DR Congo,2,1,Uzbekistan,1
 73,Álvaro Burgos,Round of 32,Ecuador,1,0,Paraguay,0
 74,Álvaro Burgos,Round of 32,France,1,0,Sweden,0
 75,Álvaro Burgos,Round of 32,Korea Republic,1,0,Canada,0
@@ -1329,8 +1329,8 @@
 68,Vanessa,Fase de Grupos,Croatia,3,1,Ghana,1
 69,Vanessa,Fase de Grupos,Algeria,1,1,Austria,0
 70,Vanessa,Fase de Grupos,Jordan,0,1,Argentina,0
-71,Vanessa,Fase de Grupos,Colombia,2,2,Portugal,0
-72,Vanessa,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+71,Vanessa,Fase de Grupos,Colombia,2,2,Portugal,1
+72,Vanessa,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Vanessa,Round of 32,Germany,2,2,Morocco,0
 74,Vanessa,Round of 32,France,1,0,Saudi Arabia,0
 75,Vanessa,Round of 32,South Africa,0,0,Qatar,0
@@ -1435,7 +1435,7 @@
 69,Kike Basusaga,Fase de Grupos,Algeria,0,2,Austria,0
 70,Kike Basusaga,Fase de Grupos,Jordan,0,4,Argentina,0
 71,Kike Basusaga,Fase de Grupos,Colombia,1,2,Portugal,0
-72,Kike Basusaga,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+72,Kike Basusaga,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Kike Basusaga,Round of 32,Germany,3,1,Paraguay,0
 74,Kike Basusaga,Round of 32,France,2,1,Sweden,0
 75,Kike Basusaga,Round of 32,South Africa,1,1,Switzerland,0
@@ -1539,7 +1539,7 @@
 68,Tamayo,Fase de Grupos,Croatia,1,3,Ghana,0
 69,Tamayo,Fase de Grupos,Algeria,0,2,Austria,0
 70,Tamayo,Fase de Grupos,Jordan,0,1,Argentina,0
-71,Tamayo,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Tamayo,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Tamayo,Fase de Grupos,DR Congo,2,3,Uzbekistan,0
 73,Tamayo,Round of 32,Germany,1,0,Scotland,0
 74,Tamayo,Round of 32,France,1,0,Tunisia,0
@@ -1644,7 +1644,7 @@
 68,Mani,Fase de Grupos,Croatia,0,1,Ghana,0
 69,Mani,Fase de Grupos,Algeria,2,0,Austria,0
 70,Mani,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Mani,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Mani,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Mani,Fase de Grupos,DR Congo,4,4,Uzbekistan,0
 73,Mani,Round of 32,Ivory Coast,2,1,Paraguay,0
 74,Mani,Round of 32,France,2,0,Tunisia,0
@@ -2064,7 +2064,7 @@
 68,Adrián Escalonilla,Fase de Grupos,Croatia,3,1,Ghana,1
 69,Adrián Escalonilla,Fase de Grupos,Algeria,2,2,Austria,0
 70,Adrián Escalonilla,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Adrián Escalonilla,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Adrián Escalonilla,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Adrián Escalonilla,Fase de Grupos,DR Congo,0,2,Uzbekistan,0
 73,Adrián Escalonilla,Round of 32,Germany,1,0,United States,0
 74,Adrián Escalonilla,Round of 32,France,1,0,Netherlands,0
@@ -2169,7 +2169,7 @@
 68,Steven Nucera,Fase de Grupos,Croatia,2,1,Ghana,3
 69,Steven Nucera,Fase de Grupos,Algeria,1,1,Austria,0
 70,Steven Nucera,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Steven Nucera,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Steven Nucera,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Steven Nucera,Fase de Grupos,DR Congo,1,3,Uzbekistan,0
 73,Steven Nucera,Round of 32,Germany,1,0,Australia,0
 74,Steven Nucera,Round of 32,France,10,0,Sweden,0
@@ -2274,7 +2274,7 @@
 68,Nux,Fase de Grupos,Croatia,2,1,Ghana,3
 69,Nux,Fase de Grupos,Algeria,1,1,Austria,0
 70,Nux,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Nux,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Nux,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Nux,Fase de Grupos,DR Congo,1,3,Uzbekistan,0
 73,Nux,Round of 32,Germany,1,0,Australia,0
 74,Nux,Round of 32,France,10,0,Sweden,0
@@ -2586,7 +2586,7 @@
 69,Alberto Crespo,Fase de Grupos,Algeria,0,2,Austria,0
 70,Alberto Crespo,Fase de Grupos,Jordan,0,3,Argentina,0
 71,Alberto Crespo,Fase de Grupos,Colombia,1,3,Portugal,0
-72,Alberto Crespo,Fase de Grupos,DR Congo,2,0,Uzbekistan,0
+72,Alberto Crespo,Fase de Grupos,DR Congo,2,0,Uzbekistan,1
 73,Alberto Crespo,Round of 32,Germany,3,1,Turkey,0
 74,Alberto Crespo,Round of 32,France,2,1,Sweden,0
 75,Alberto Crespo,Round of 32,South Africa,1,2,Canada,0
@@ -3216,7 +3216,7 @@
 69,César Heredero,Fase de Grupos,Algeria,0,1,Austria,0
 70,César Heredero,Fase de Grupos,Jordan,0,2,Argentina,0
 71,César Heredero,Fase de Grupos,Colombia,0,1,Portugal,0
-72,César Heredero,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+72,César Heredero,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,César Heredero,Round of 32,Germany,1,0,Australia,0
 74,César Heredero,Round of 32,France,1,0,Egypt,0
 75,César Heredero,Round of 32,Korea Republic,1,0,Canada,0
@@ -3320,7 +3320,7 @@
 68,Yisus,Fase de Grupos,Croatia,3,0,Ghana,1
 69,Yisus,Fase de Grupos,Algeria,0,1,Austria,0
 70,Yisus,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Yisus,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Yisus,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Yisus,Fase de Grupos,DR Congo,0,1,Uzbekistan,0
 73,Yisus,Round of 32,Germany,1,0,Scotland,0
 74,Yisus,Round of 32,France,1,0,Paraguay,0
@@ -3425,7 +3425,7 @@
 68,Óscar Villodre,Fase de Grupos,Croatia,1,1,Ghana,0
 69,Óscar Villodre,Fase de Grupos,Algeria,1,1,Austria,0
 70,Óscar Villodre,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Óscar Villodre,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Óscar Villodre,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Óscar Villodre,Fase de Grupos,DR Congo,0,0,Uzbekistan,0
 73,Óscar Villodre,Round of 32,Germany,2,1,Scotland,0
 74,Óscar Villodre,Round of 32,France,2,0,Japan,0
@@ -3530,7 +3530,7 @@
 68,Rocío,Fase de Grupos,Croatia,2,2,Ghana,0
 69,Rocío,Fase de Grupos,Algeria,1,1,Austria,0
 70,Rocío,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Rocío,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Rocío,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Rocío,Fase de Grupos,DR Congo,0,1,Uzbekistan,0
 73,Rocío,Round of 32,Germany,3,1,Paraguay,0
 74,Rocío,Round of 32,France,4,1,Japan,0
@@ -3740,7 +3740,7 @@
 68,Vito,Fase de Grupos,Croatia,1,0,Ghana,1
 69,Vito,Fase de Grupos,Algeria,1,1,Austria,0
 70,Vito,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Vito,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Vito,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Vito,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,Vito,Round of 32,Germany,2,1,Scotland,0
 74,Vito,Round of 32,France,1,0,Paraguay,0
@@ -4056,7 +4056,7 @@
 69,Jaime Laulhé,Fase de Grupos,Algeria,0,2,Austria,0
 70,Jaime Laulhé,Fase de Grupos,Jordan,0,3,Argentina,0
 71,Jaime Laulhé,Fase de Grupos,Colombia,1,2,Portugal,0
-72,Jaime Laulhé,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+72,Jaime Laulhé,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Jaime Laulhé,Round of 32,Germany,3,0,Scotland,0
 74,Jaime Laulhé,Round of 32,France,2,1,Sweden,0
 75,Jaime Laulhé,Round of 32,Korea Republic,0,2,Switzerland,0
@@ -4265,7 +4265,7 @@
 68,Julio Montejo,Fase de Grupos,Croatia,2,1,Ghana,3
 69,Julio Montejo,Fase de Grupos,Algeria,1,2,Austria,0
 70,Julio Montejo,Fase de Grupos,Jordan,0,5,Argentina,0
-71,Julio Montejo,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Julio Montejo,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Julio Montejo,Fase de Grupos,DR Congo,0,0,Uzbekistan,0
 73,Julio Montejo,Round of 32,Germany,1,0,Paraguay,0
 74,Julio Montejo,Round of 32,France,1,0,Sweden,0
@@ -4476,7 +4476,7 @@
 69,DG Soto,Fase de Grupos,Algeria,0,2,Austria,0
 70,DG Soto,Fase de Grupos,Jordan,0,3,Argentina,0
 71,DG Soto,Fase de Grupos,Colombia,1,3,Portugal,0
-72,DG Soto,Fase de Grupos,DR Congo,2,0,Uzbekistan,0
+72,DG Soto,Fase de Grupos,DR Congo,2,0,Uzbekistan,1
 73,DG Soto,Round of 32,Germany,2,0,Paraguay,0
 74,DG Soto,Round of 32,France,3,1,Sweden,0
 75,DG Soto,Round of 32,Korea Republic,2,1,Switzerland,0
@@ -4580,7 +4580,7 @@
 68,YYCCSSGG (Jesús Martín),Fase de Grupos,Croatia,1,2,Ghana,0
 69,YYCCSSGG (Jesús Martín),Fase de Grupos,Algeria,0,1,Austria,0
 70,YYCCSSGG (Jesús Martín),Fase de Grupos,Jordan,0,3,Argentina,0
-71,YYCCSSGG (Jesús Martín),Fase de Grupos,Colombia,2,2,Portugal,0
+71,YYCCSSGG (Jesús Martín),Fase de Grupos,Colombia,2,2,Portugal,1
 72,YYCCSSGG (Jesús Martín),Fase de Grupos,DR Congo,0,0,Uzbekistan,0
 73,YYCCSSGG (Jesús Martín),Round of 32,Germany,2,0,Paraguay,0
 74,YYCCSSGG (Jesús Martín),Round of 32,France,1,0,Sweden,0
@@ -4685,7 +4685,7 @@
 68,David López,Fase de Grupos,Croatia,5,0,Ghana,1
 69,David López,Fase de Grupos,Algeria,0,1,Austria,0
 70,David López,Fase de Grupos,Jordan,0,4,Argentina,0
-71,David López,Fase de Grupos,Colombia,2,2,Portugal,0
+71,David López,Fase de Grupos,Colombia,2,2,Portugal,1
 72,David López,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,David López,Round of 32,Germany,1,0,Scotland,0
 74,David López,Round of 32,France,1,0,Tunisia,0
@@ -4790,7 +4790,7 @@
 68,Diego López,Fase de Grupos,Croatia,1,0,Ghana,1
 69,Diego López,Fase de Grupos,Algeria,1,1,Austria,0
 70,Diego López,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Diego López,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Diego López,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Diego López,Fase de Grupos,DR Congo,2,2,Uzbekistan,0
 73,Diego López,Round of 32,Germany,1,0,Scotland,0
 74,Diego López,Round of 32,France,1,0,Sweden,0
@@ -4896,7 +4896,7 @@
 69,Carol,Fase de Grupos,Algeria,1,2,Austria,0
 70,Carol,Fase de Grupos,Jordan,1,6,Argentina,0
 71,Carol,Fase de Grupos,Colombia,1,3,Portugal,0
-72,Carol,Fase de Grupos,DR Congo,2,0,Uzbekistan,0
+72,Carol,Fase de Grupos,DR Congo,2,0,Uzbekistan,1
 73,Carol,Round of 32,Germany,1,0,Australia,0
 74,Carol,Round of 32,France,1,0,Tunisia,0
 75,Carol,Round of 32,Korea Republic,1,0,Canada,0
@@ -5106,7 +5106,7 @@
 69,Isaac Firgaira,Fase de Grupos,Algeria,1,1,Austria,0
 70,Isaac Firgaira,Fase de Grupos,Jordan,0,5,Argentina,0
 71,Isaac Firgaira,Fase de Grupos,Colombia,1,2,Portugal,0
-72,Isaac Firgaira,Fase de Grupos,DR Congo,2,1,Uzbekistan,0
+72,Isaac Firgaira,Fase de Grupos,DR Congo,2,1,Uzbekistan,1
 73,Isaac Firgaira,Round of 32,Germany,1,0,Scotland,0
 74,Isaac Firgaira,Round of 32,France,1,0,Japan,0
 75,Isaac Firgaira,Round of 32,Mexico,1,0,Canada,0
@@ -5210,8 +5210,8 @@
 68,Diego Firgaira,Fase de Grupos,Croatia,1,1,Ghana,0
 69,Diego Firgaira,Fase de Grupos,Algeria,1,3,Austria,0
 70,Diego Firgaira,Fase de Grupos,Jordan,0,4,Argentina,0
-71,Diego Firgaira,Fase de Grupos,Colombia,2,2,Portugal,0
-72,Diego Firgaira,Fase de Grupos,DR Congo,2,1,Uzbekistan,0
+71,Diego Firgaira,Fase de Grupos,Colombia,2,2,Portugal,1
+72,Diego Firgaira,Fase de Grupos,DR Congo,2,1,Uzbekistan,1
 73,Diego Firgaira,Round of 32,Germany,1,0,Scotland,0
 74,Diego Firgaira,Round of 32,France,1,0,Japan,0
 75,Diego Firgaira,Round of 32,Czech Republic,0,1,Canada,0
@@ -5316,7 +5316,7 @@
 69,Ioseba Larumbe,Fase de Grupos,Algeria,1,1,Austria,0
 70,Ioseba Larumbe,Fase de Grupos,Jordan,1,2,Argentina,0
 71,Ioseba Larumbe,Fase de Grupos,Colombia,2,1,Portugal,0
-72,Ioseba Larumbe,Fase de Grupos,DR Congo,2,1,Uzbekistan,0
+72,Ioseba Larumbe,Fase de Grupos,DR Congo,2,1,Uzbekistan,1
 73,Ioseba Larumbe,Round of 32,Germany,1,0,Australia,0
 74,Ioseba Larumbe,Round of 32,Senegal,1,0,Japan,0
 75,Ioseba Larumbe,Round of 32,South Africa,0,1,Bosnia and Herzegovina,0
@@ -5420,8 +5420,8 @@
 68,Jorge Esteban,Fase de Grupos,Croatia,1,2,Ghana,0
 69,Jorge Esteban,Fase de Grupos,Algeria,0,1,Austria,0
 70,Jorge Esteban,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Jorge Esteban,Fase de Grupos,Colombia,2,2,Portugal,0
-72,Jorge Esteban,Fase de Grupos,DR Congo,4,3,Uzbekistan,0
+71,Jorge Esteban,Fase de Grupos,Colombia,2,2,Portugal,1
+72,Jorge Esteban,Fase de Grupos,DR Congo,4,3,Uzbekistan,1
 73,Jorge Esteban,Round of 32,Germany,2,0,Scotland,0
 74,Jorge Esteban,Round of 32,France,4,0,Cape Verde,0
 75,Jorge Esteban,Round of 32,Mexico,3,1,Switzerland,0
@@ -5525,7 +5525,7 @@
 68,José Cobo,Fase de Grupos,Croatia,1,1,Ghana,0
 69,José Cobo,Fase de Grupos,Algeria,0,1,Austria,0
 70,José Cobo,Fase de Grupos,Jordan,0,2,Argentina,0
-71,José Cobo,Fase de Grupos,Colombia,1,1,Portugal,0
+71,José Cobo,Fase de Grupos,Colombia,1,1,Portugal,1
 72,José Cobo,Fase de Grupos,DR Congo,0,0,Uzbekistan,0
 73,José Cobo,Round of 32,Germany,2,0,Scotland,0
 74,José Cobo,Round of 32,France,2,0,Australia,0
@@ -5631,7 +5631,7 @@
 69,Ángel Cubillo,Fase de Grupos,Algeria,1,3,Austria,0
 70,Ángel Cubillo,Fase de Grupos,Jordan,0,5,Argentina,0
 71,Ángel Cubillo,Fase de Grupos,Colombia,1,3,Portugal,0
-72,Ángel Cubillo,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+72,Ángel Cubillo,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Ángel Cubillo,Round of 32,Germany,1,0,Scotland,0
 74,Ángel Cubillo,Round of 32,Norway,1,0,Paraguay,0
 75,Ángel Cubillo,Round of 32,Korea Republic,0,1,Switzerland,0
@@ -5736,7 +5736,7 @@
 69,Roberto Molina,Fase de Grupos,Algeria,1,2,Austria,0
 70,Roberto Molina,Fase de Grupos,Jordan,0,3,Argentina,0
 71,Roberto Molina,Fase de Grupos,Colombia,1,2,Portugal,0
-72,Roberto Molina,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+72,Roberto Molina,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Roberto Molina,Round of 32,Germany,1,0,Scotland,0
 74,Roberto Molina,Round of 32,France,1,0,Sweden,0
 75,Roberto Molina,Round of 32,Czech Republic,0,1,Switzerland,0
@@ -5945,7 +5945,7 @@
 68,Jacobo Antona,Fase de Grupos,Croatia,0,3,Ghana,0
 69,Jacobo Antona,Fase de Grupos,Algeria,1,2,Austria,0
 70,Jacobo Antona,Fase de Grupos,Jordan,1,0,Argentina,0
-71,Jacobo Antona,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Jacobo Antona,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Jacobo Antona,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,Jacobo Antona,Round of 32,Germany,1,0,Haiti,0
 74,Jacobo Antona,Round of 32,France,1,0,Netherlands,0
@@ -6260,7 +6260,7 @@
 68,David González,Fase de Grupos,Croatia,2,1,Ghana,3
 69,David González,Fase de Grupos,Algeria,1,1,Austria,0
 70,David González,Fase de Grupos,Jordan,0,4,Argentina,0
-71,David González,Fase de Grupos,Colombia,2,2,Portugal,0
+71,David González,Fase de Grupos,Colombia,2,2,Portugal,1
 72,David González,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,David González,Round of 32,Germany,3,1,United States,0
 74,David González,Round of 32,France,4,0,Japan,0
@@ -6365,8 +6365,8 @@
 68,Jesús Espinar,Fase de Grupos,Croatia,1,1,Ghana,0
 69,Jesús Espinar,Fase de Grupos,Algeria,0,0,Austria,0
 70,Jesús Espinar,Fase de Grupos,Jordan,0,4,Argentina,0
-71,Jesús Espinar,Fase de Grupos,Colombia,2,2,Portugal,0
-72,Jesús Espinar,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+71,Jesús Espinar,Fase de Grupos,Colombia,2,2,Portugal,1
+72,Jesús Espinar,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Jesús Espinar,Round of 32,Germany,2,1,United States,0
 74,Jesús Espinar,Round of 32,France,2,0,Egypt,0
 75,Jesús Espinar,Round of 32,Mexico,1,1,Switzerland,0
@@ -6470,7 +6470,7 @@
 68,Daniel Fernández,Fase de Grupos,Croatia,1,0,Ghana,1
 69,Daniel Fernández,Fase de Grupos,Algeria,0,1,Austria,0
 70,Daniel Fernández,Fase de Grupos,Jordan,1,3,Argentina,0
-71,Daniel Fernández,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Daniel Fernández,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Daniel Fernández,Fase de Grupos,DR Congo,0,0,Uzbekistan,0
 73,Daniel Fernández,Round of 32,Germany,1,0,United States,0
 74,Daniel Fernández,Round of 32,France,4,0,Sweden,0
@@ -6786,7 +6786,7 @@
 69,Pablo Martín,Fase de Grupos,Algeria,1,0,Austria,0
 70,Pablo Martín,Fase de Grupos,Jordan,0,2,Argentina,0
 71,Pablo Martín,Fase de Grupos,Colombia,0,1,Portugal,0
-72,Pablo Martín,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+72,Pablo Martín,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Pablo Martín,Round of 32,Germany,1,0,Haiti,0
 74,Pablo Martín,Round of 32,France,1,0,Paraguay,0
 75,Pablo Martín,Round of 32,Czech Republic,1,0,Canada,0
@@ -6890,7 +6890,7 @@
 68,Clara Ramírez,Fase de Grupos,Croatia,2,0,Ghana,1
 69,Clara Ramírez,Fase de Grupos,Algeria,0,1,Austria,0
 70,Clara Ramírez,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Clara Ramírez,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Clara Ramírez,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Clara Ramírez,Fase de Grupos,DR Congo,0,0,Uzbekistan,0
 73,Clara Ramírez,Round of 32,Germany,1,0,Paraguay,0
 74,Clara Ramírez,Round of 32,France,1,0,Sweden,0
@@ -6995,7 +6995,7 @@
 68,Sergio Valencia,Fase de Grupos,Croatia,1,1,Ghana,0
 69,Sergio Valencia,Fase de Grupos,Algeria,0,1,Austria,0
 70,Sergio Valencia,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Sergio Valencia,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Sergio Valencia,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Sergio Valencia,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,Sergio Valencia,Round of 32,Germany,1,0,Scotland,0
 74,Sergio Valencia,Round of 32,France,1,0,Sweden,0
@@ -7205,7 +7205,7 @@
 68,Luisja,Fase de Grupos,Croatia,1,1,Ghana,0
 69,Luisja,Fase de Grupos,Algeria,1,1,Austria,0
 70,Luisja,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Luisja,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Luisja,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Luisja,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,Luisja,Round of 32,Germany,2,0,Scotland,0
 74,Luisja,Round of 32,France,3,0,Turkey,0
@@ -7311,7 +7311,7 @@
 69,David Feijoó,Fase de Grupos,Algeria,0,1,Austria,0
 70,David Feijoó,Fase de Grupos,Jordan,0,1,Argentina,0
 71,David Feijoó,Fase de Grupos,Colombia,0,1,Portugal,0
-72,David Feijoó,Fase de Grupos,DR Congo,2,0,Uzbekistan,0
+72,David Feijoó,Fase de Grupos,DR Congo,2,0,Uzbekistan,1
 73,David Feijoó,Round of 32,Germany,2,0,United States,0
 74,David Feijoó,Round of 32,France,1,0,Netherlands,0
 75,David Feijoó,Round of 32,Korea Republic,1,0,Qatar,0
@@ -7520,7 +7520,7 @@
 68,Beltrán Serrano,Fase de Grupos,Croatia,2,0,Ghana,1
 69,Beltrán Serrano,Fase de Grupos,Algeria,0,2,Austria,0
 70,Beltrán Serrano,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Beltrán Serrano,Fase de Grupos,Colombia,0,0,Portugal,0
+71,Beltrán Serrano,Fase de Grupos,Colombia,0,0,Portugal,3
 72,Beltrán Serrano,Fase de Grupos,DR Congo,0,1,Uzbekistan,0
 73,Beltrán Serrano,Round of 32,Germany,1,0,Sweden,0
 74,Beltrán Serrano,Round of 32,France,1,0,Belgium,0
@@ -7625,8 +7625,8 @@
 68,Vicente Serrano,Fase de Grupos,Croatia,1,0,Ghana,1
 69,Vicente Serrano,Fase de Grupos,Algeria,0,1,Austria,0
 70,Vicente Serrano,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Vicente Serrano,Fase de Grupos,Colombia,1,1,Portugal,0
-72,Vicente Serrano,Fase de Grupos,DR Congo,2,0,Uzbekistan,0
+71,Vicente Serrano,Fase de Grupos,Colombia,1,1,Portugal,1
+72,Vicente Serrano,Fase de Grupos,DR Congo,2,0,Uzbekistan,1
 73,Vicente Serrano,Round of 32,Germany,1,0,Korea Republic,0
 74,Vicente Serrano,Round of 32,France,1,0,Tunisia,0
 75,Vicente Serrano,Round of 32,Czech Republic,0,1,Canada,0
@@ -7730,7 +7730,7 @@
 68,Luis Grado,Fase de Grupos,Croatia,3,2,Ghana,1
 69,Luis Grado,Fase de Grupos,Algeria,0,0,Austria,0
 70,Luis Grado,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Luis Grado,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Luis Grado,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Luis Grado,Fase de Grupos,DR Congo,0,1,Uzbekistan,0
 73,Luis Grado,Round of 32,Germany,1,0,United States,0
 74,Luis Grado,Round of 32,France,1,0,Sweden,0
@@ -7835,7 +7835,7 @@
 68,Ari,Fase de Grupos,Croatia,3,0,Ghana,1
 69,Ari,Fase de Grupos,Algeria,1,3,Austria,0
 70,Ari,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Ari,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Ari,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Ari,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,Ari,Round of 32,Germany,1,0,Scotland,0
 74,Ari,Round of 32,France,1,0,Japan,0
@@ -8045,7 +8045,7 @@
 68,Tanit,Fase de Grupos,Croatia,3,0,Ghana,1
 69,Tanit,Fase de Grupos,Algeria,1,1,Austria,0
 70,Tanit,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Tanit,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Tanit,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Tanit,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,Tanit,Round of 32,Germany,3,1,Paraguay,0
 74,Tanit,Round of 32,France,2,0,Sweden,0
@@ -8675,7 +8675,7 @@
 68,Gonzalo Bravo,Fase de Grupos,Croatia,1,1,Ghana,0
 69,Gonzalo Bravo,Fase de Grupos,Algeria,1,1,Austria,0
 70,Gonzalo Bravo,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Gonzalo Bravo,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Gonzalo Bravo,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Gonzalo Bravo,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,Gonzalo Bravo,Round of 32,Germany,1,0,Scotland,0
 74,Gonzalo Bravo,Round of 32,France,1,0,Japan,0
@@ -8780,7 +8780,7 @@
 68,Edu Martínez,Fase de Grupos,Croatia,1,1,Ghana,0
 69,Edu Martínez,Fase de Grupos,Algeria,4,2,Austria,0
 70,Edu Martínez,Fase de Grupos,Jordan,1,1,Argentina,0
-71,Edu Martínez,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Edu Martínez,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Edu Martínez,Fase de Grupos,DR Congo,1,4,Uzbekistan,0
 73,Edu Martínez,Round of 32,Germany,1,0,United States,0
 74,Edu Martínez,Round of 32,France,1,0,Sweden,0
@@ -8990,7 +8990,7 @@
 68,David Cerisola,Fase de Grupos,Croatia,1,1,Ghana,0
 69,David Cerisola,Fase de Grupos,Algeria,1,2,Austria,0
 70,David Cerisola,Fase de Grupos,Jordan,0,4,Argentina,0
-71,David Cerisola,Fase de Grupos,Colombia,2,2,Portugal,0
+71,David Cerisola,Fase de Grupos,Colombia,2,2,Portugal,1
 72,David Cerisola,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,David Cerisola,Round of 32,Germany,1,0,Scotland,0
 74,David Cerisola,Round of 32,France,1,0,Sweden,0
@@ -9095,7 +9095,7 @@
 68,Guillermo Burdiel,Fase de Grupos,Croatia,2,2,Ghana,0
 69,Guillermo Burdiel,Fase de Grupos,Algeria,0,1,Austria,0
 70,Guillermo Burdiel,Fase de Grupos,Jordan,0,0,Argentina,0
-71,Guillermo Burdiel,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Guillermo Burdiel,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Guillermo Burdiel,Fase de Grupos,DR Congo,0,0,Uzbekistan,0
 73,Guillermo Burdiel,Round of 32,Germany,1,1,Morocco,0
 74,Guillermo Burdiel,Round of 32,France,2,1,Paraguay,0
@@ -9410,8 +9410,8 @@
 68,Manu Montejo,Fase de Grupos,Croatia,1,1,Ghana,0
 69,Manu Montejo,Fase de Grupos,Algeria,1,2,Austria,0
 70,Manu Montejo,Fase de Grupos,Jordan,0,4,Argentina,0
-71,Manu Montejo,Fase de Grupos,Colombia,2,2,Portugal,0
-72,Manu Montejo,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+71,Manu Montejo,Fase de Grupos,Colombia,2,2,Portugal,1
+72,Manu Montejo,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Manu Montejo,Round of 32,Ecuador,1,0,Australia,0
 74,Manu Montejo,Round of 32,France,1,0,Sweden,0
 75,Manu Montejo,Round of 32,Korea Republic,0,1,Qatar,0
@@ -9725,7 +9725,7 @@
 68,Luis Carreras,Fase de Grupos,Croatia,0,0,Ghana,0
 69,Luis Carreras,Fase de Grupos,Algeria,0,1,Austria,0
 70,Luis Carreras,Fase de Grupos,Jordan,0,3,Argentina,0
-71,Luis Carreras,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Luis Carreras,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Luis Carreras,Fase de Grupos,DR Congo,0,2,Uzbekistan,0
 73,Luis Carreras,Round of 32,Germany,1,0,Paraguay,0
 74,Luis Carreras,Round of 32,France,1,0,Sweden,0
@@ -10040,7 +10040,7 @@
 68,Luis Torres,Fase de Grupos,Croacia,2,2,Ghana,0
 69,Luis Torres,Fase de Grupos,Argelia,0,1,Austria,0
 70,Luis Torres,Fase de Grupos,Jordán,0,4,Argentina,0
-71,Luis Torres,Fase de Grupos,Colombia,1,1,Portugal,0
+71,Luis Torres,Fase de Grupos,Colombia,1,1,Portugal,1
 72,Luis Torres,Fase de Grupos,RD Congo,2,2,Uzbekistán,0
 73,Luis Torres,Round of 32,Alemania,3,2,Estados Unidos,0
 74,Luis Torres,Round of 32,Francia,2,0,Japón,0
@@ -10250,8 +10250,8 @@
 68,Jose Díaz,Fase de Grupos,Croatia,1,0,Ghana,1
 69,Jose Díaz,Fase de Grupos,Algeria,1,1,Austria,0
 70,Jose Díaz,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Jose Díaz,Fase de Grupos,Colombia,1,1,Portugal,0
-72,Jose Díaz,Fase de Grupos,DR Congo,2,0,Uzbekistan,0
+71,Jose Díaz,Fase de Grupos,Colombia,1,1,Portugal,1
+72,Jose Díaz,Fase de Grupos,DR Congo,2,0,Uzbekistan,1
 73,Jose Díaz,Round of 32,Ecuador,1,0,Scotland,0
 74,Jose Díaz,Round of 32,Norway,1,0,Paraguay,0
 75,Jose Díaz,Round of 32,Korea Republic,0,1,Switzerland,0
@@ -10355,7 +10355,7 @@
 68,José Ángel López,Fase de Grupos,Croatia,2,1,Ghana,3
 69,José Ángel López,Fase de Grupos,Algeria,0,1,Austria,0
 70,José Ángel López,Fase de Grupos,Jordan,0,2,Argentina,0
-71,José Ángel López,Fase de Grupos,Colombia,1,1,Portugal,0
+71,José Ángel López,Fase de Grupos,Colombia,1,1,Portugal,1
 72,José Ángel López,Fase de Grupos,DR Congo,1,1,Uzbekistan,0
 73,José Ángel López,Round of 32,Germany,2,0,Paraguay,0
 74,José Ángel López,Round of 32,France,2,1,Japan,0
@@ -10670,7 +10670,7 @@
 68,Dani Blasco,Fase de Grupos,Croatia,1,0,Ghana,1
 69,Dani Blasco,Fase de Grupos,Algeria,1,1,Austria,0
 70,Dani Blasco,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Dani Blasco,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Dani Blasco,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Dani Blasco,Fase de Grupos,DR Congo,0,0,Uzbekistan,0
 73,Dani Blasco,Round of 32,Germany,1,0,Scotland,0
 74,Dani Blasco,Round of 32,France,1,0,Australia,0
@@ -10775,8 +10775,8 @@
 68,Fernando Bravo,Fase de Grupos,Croatia,2,2,Ghana,0
 69,Fernando Bravo,Fase de Grupos,Algeria,1,1,Austria,0
 70,Fernando Bravo,Fase de Grupos,Jordan,0,2,Argentina,0
-71,Fernando Bravo,Fase de Grupos,Colombia,1,1,Portugal,0
-72,Fernando Bravo,Fase de Grupos,DR Congo,3,1,Uzbekistan,0
+71,Fernando Bravo,Fase de Grupos,Colombia,1,1,Portugal,1
+72,Fernando Bravo,Fase de Grupos,DR Congo,3,1,Uzbekistan,3
 73,Fernando Bravo,Round of 32,Germany,3,0,Scotland,0
 74,Fernando Bravo,Round of 32,France,3,0,Paraguay,0
 75,Fernando Bravo,Round of 32,Czech Republic,2,2,Switzerland,0
@@ -10881,7 +10881,7 @@
 69,Pietro Bucarelli,Fase de Grupos,Algeria,1,1,Austria,0
 70,Pietro Bucarelli,Fase de Grupos,Giordania,0,5,Argentina,0
 71,Pietro Bucarelli,Fase de Grupos,Colombia,1,2,Portogallo,0
-72,Pietro Bucarelli,Fase de Grupos,RD Congo,2,1,Uzbekistan,0
+72,Pietro Bucarelli,Fase de Grupos,RD Congo,2,1,Uzbekistan,1
 73,Pietro Bucarelli,Round of 32,Germania,3,0,Scozia,0
 74,Pietro Bucarelli,Round of 32,Francia,3,0,Capo Verde,0
 75,Pietro Bucarelli,Round of 32,Messico,1,0,Canada,0
@@ -11300,7 +11300,7 @@
 68,Fernando González,Fase de Grupos,Croatia,2,1,Ghana,3
 69,Fernando González,Fase de Grupos,Algeria,1,1,Austria,0
 70,Fernando González,Fase de Grupos,Jordan,1,3,Argentina,0
-71,Fernando González,Fase de Grupos,Colombia,2,2,Portugal,0
+71,Fernando González,Fase de Grupos,Colombia,2,2,Portugal,1
 72,Fernando González,Fase de Grupos,DR Congo,0,0,Uzbekistan,0
 73,Fernando González,Round of 32,Germany,1,0,Paraguay,0
 74,Fernando González,Round of 32,France,1,0,Sweden,0
@@ -11406,7 +11406,7 @@
 69,Jorge Antona,Fase de Grupos,Algeria,1,1,Austria,0
 70,Jorge Antona,Fase de Grupos,Jordan,0,2,Argentina,0
 71,Jorge Antona,Fase de Grupos,Colombia,1,2,Portugal,0
-72,Jorge Antona,Fase de Grupos,DR Congo,1,0,Uzbekistan,0
+72,Jorge Antona,Fase de Grupos,DR Congo,1,0,Uzbekistan,1
 73,Jorge Antona,Round of 32,Germany,3,1,Scotland,0
 74,Jorge Antona,Round of 32,France,3,0,Sweden,0
 75,Jorge Antona,Round of 32,Korea Republic,3,2,Canada,0
