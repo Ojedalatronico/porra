@@ -20,7 +20,7 @@
 60,REAL_RESULTS,Group,Tunisia,1,3,Netherlands
 61,REAL_RESULTS,Group,Senegal,5,0,Iraq
 67,REAL_RESULTS,Group,Panama,0,2,England
-72,REAL_RESULTS,Group,Democratic Republic of the Congo,null,null,Uzbekistan
+72,REAL_RESULTS,Group,Democratic Republic of the Congo,1,1,Uzbekistan
 86,REAL_RESULTS,R32,Argentina,0,0,Cape Verde
 88,REAL_RESULTS,R32,Australia,0,0,Egypt
 100,REAL_RESULTS,Qf,,0,0,
@@ -64,7 +64,7 @@
 38,REAL_RESULTS,Group,New Zealand,1,3,Egypt
 40,REAL_RESULTS,Group,Uruguay,2,2,Cape Verde
 47,REAL_RESULTS,Group,Colombia,1,0,Democratic Republic of the Congo
-71,REAL_RESULTS,Group,Colombia,null,null,Portugal
+71,REAL_RESULTS,Group,Colombia,0,0,Portugal
 73,REAL_RESULTS,R32,South Africa,0,0,Canada
 77,REAL_RESULTS,R32,France,0,0,
 84,REAL_RESULTS,R32,,0,0,
