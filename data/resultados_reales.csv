@@ -82,7 +82,7 @@
 81,REAL_RESULTS,R32,United States,2,0,Bosnia and Herzegovina
 82,REAL_RESULTS,R32,Belgium,3,2,Senegal
 83,REAL_RESULTS,R32,Portugal,0,0,Croatia
-84,REAL_RESULTS,R32,Spain,0,0,Austria
+84,REAL_RESULTS,R32,Spain,null,null,Austria
 85,REAL_RESULTS,R32,Switzerland,0,0,Algeria
 86,REAL_RESULTS,R32,Argentina,0,0,Cape Verde
 87,REAL_RESULTS,R32,Colombia,0,0,Ghana
