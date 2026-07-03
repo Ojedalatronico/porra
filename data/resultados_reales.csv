@@ -84,9 +84,9 @@
 83,REAL_RESULTS,R32,Portugal,2,1,Croatia
 84,REAL_RESULTS,R32,Spain,3,0,Austria
 85,REAL_RESULTS,R32,Switzerland,2,0,Algeria
-86,REAL_RESULTS,R32,Argentina,0,0,Cape Verde
+86,REAL_RESULTS,R32,Argentina,null,null,Cape Verde
 87,REAL_RESULTS,R32,Colombia,0,0,Ghana
-88,REAL_RESULTS,R32,Australia,0,0,Egypt
+88,REAL_RESULTS,R32,Australia,null,null,Egypt
 89,REAL_RESULTS,R16,Paraguay,0,0,France
 90,REAL_RESULTS,R16,Canada,0,0,Morocco
 91,REAL_RESULTS,R16,Brazil,0,0,Norway
