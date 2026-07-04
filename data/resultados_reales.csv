@@ -84,7 +84,7 @@
 83,REAL_RESULTS,R32,Portugal,2,1,Croatia
 84,REAL_RESULTS,R32,Spain,3,0,Austria
 85,REAL_RESULTS,R32,Switzerland,2,0,Algeria
-86,REAL_RESULTS,R32,Argentina,1,1,Cape Verde
+86,REAL_RESULTS,R32,Argentina,3,2,Cape Verde
 87,REAL_RESULTS,R32,Colombia,null,null,Ghana
 88,REAL_RESULTS,R32,Australia,1,1,Egypt
 89,REAL_RESULTS,R16,Paraguay,0,0,France
@@ -93,7 +93,7 @@
 92,REAL_RESULTS,R16,Mexico,0,0,England
 93,REAL_RESULTS,R16,Portugal,0,0,Spain
 94,REAL_RESULTS,R16,United States,0,0,Belgium
-95,REAL_RESULTS,R16,,0,0,Egypt
+95,REAL_RESULTS,R16,Argentina,0,0,Egypt
 96,REAL_RESULTS,R16,Switzerland,0,0,
 97,REAL_RESULTS,Qf,,0,0,
 98,REAL_RESULTS,Qf,,0,0,
