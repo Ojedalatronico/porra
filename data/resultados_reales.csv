@@ -89,7 +89,7 @@
 88,REAL_RESULTS,R32,Australia,1,1,Egypt
 89,REAL_RESULTS,R16,Paraguay,0,1,France
 90,REAL_RESULTS,R16,Canada,0,3,Morocco
-91,REAL_RESULTS,R16,Brazil,0,0,Norway
+91,REAL_RESULTS,R16,Brazil,1,2,Norway
 92,REAL_RESULTS,R16,Mexico,null,null,England
 93,REAL_RESULTS,R16,Portugal,0,0,Spain
 94,REAL_RESULTS,R16,United States,0,0,Belgium
@@ -97,7 +97,7 @@
 96,REAL_RESULTS,R16,Switzerland,0,0,Colombia
 97,REAL_RESULTS,Qf,France,0,0,Morocco
 98,REAL_RESULTS,Qf,,0,0,
-99,REAL_RESULTS,Qf,,0,0,
+99,REAL_RESULTS,Qf,Norway,0,0,
 100,REAL_RESULTS,Qf,,0,0,
 101,REAL_RESULTS,Sf,,0,0,
 102,REAL_RESULTS,Sf,,0,0,
