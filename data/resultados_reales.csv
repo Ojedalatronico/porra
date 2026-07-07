@@ -93,8 +93,8 @@
 92,REAL_RESULTS,R16,Mexico,2,3,England
 93,REAL_RESULTS,R16,Portugal,0,1,Spain
 94,REAL_RESULTS,R16,United States,1,4,Belgium
-95,REAL_RESULTS,R16,Argentina,0,0,Egypt
-96,REAL_RESULTS,R16,Switzerland,0,0,Colombia
+95,REAL_RESULTS,R16,Argentina,null,null,Egypt
+96,REAL_RESULTS,R16,Switzerland,null,null,Colombia
 97,REAL_RESULTS,Qf,France,0,0,Morocco
 98,REAL_RESULTS,Qf,Spain,0,0,Belgium
 99,REAL_RESULTS,Qf,Norway,0,0,England
