@@ -95,7 +95,7 @@
 94,REAL_RESULTS,R16,United States,1,4,Belgium
 95,REAL_RESULTS,R16,Argentina,3,2,Egypt
 96,REAL_RESULTS,R16,Switzerland,0,0,Colombia
-97,REAL_RESULTS,Qf,France,0,0,Morocco
+97,REAL_RESULTS,Qf,France,null,null,Morocco
 98,REAL_RESULTS,Qf,Spain,0,0,Belgium
 99,REAL_RESULTS,Qf,Norway,0,0,England
 100,REAL_RESULTS,Qf,Argentina,0,0,Switzerland
