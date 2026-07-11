@@ -97,7 +97,7 @@
 96,REAL_RESULTS,R16,Switzerland,0,0,Colombia
 97,REAL_RESULTS,Qf,France,2,0,Morocco
 98,REAL_RESULTS,Qf,Spain,2,1,Belgium
-99,REAL_RESULTS,Qf,Norway,0,0,England
+99,REAL_RESULTS,Qf,Norway,null,null,England
 100,REAL_RESULTS,Qf,Argentina,0,0,Switzerland
 101,REAL_RESULTS,Sf,France,0,0,Spain
 102,REAL_RESULTS,Sf,,0,0,
