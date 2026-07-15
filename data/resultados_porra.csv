@@ -100,7 +100,7 @@
 99,Ales y Adri,Quarterfinals,Brazil,1,0,Mexico,0
 100,Ales y Adri,Quarterfinals,Argentina,1,0,Portugal,0
 101,Ales y Adri,Semi-Finals,France,0,1,Spain,8
-102,Ales y Adri,Semi-Finals,Brazil,0,1,Argentina,0
+102,Ales y Adri,Semi-Finals,Brazil,0,1,Argentina,8
 103,Ales y Adri,Semi-Finals,Spain,1,0,Argentina,0
 104,Ales y Adri,Semi-Finals,France,0,1,Brazil,0
 105,Ales y Adri,Final,Spain,1,0,Argentina,0
@@ -310,7 +310,7 @@
 99,Gerardo,Quarterfinals,Brazil,1,1,England,0
 100,Gerardo,Quarterfinals,Argentina,1,1,Portugal,0
 101,Gerardo,Semi-Finals,France,1,1,Spain,8
-102,Gerardo,Semi-Finals,Brazil,1,2,Argentina,0
+102,Gerardo,Semi-Finals,Brazil,1,2,Argentina,8
 103,Gerardo,Semi-Finals,Spain,1,1,Argentina,0
 104,Gerardo,Semi-Finals,France,2,1,Brazil,0
 105,Gerardo,Final,Spain,1,1,Argentina,0
@@ -520,7 +520,7 @@
 99,Bea Oppici,Quarterfinals,Brazil,2,2,Mexico,0
 100,Bea Oppici,Quarterfinals,Argentina,1,1,Colombia,0
 101,Bea Oppici,Semi-Finals,France,2,2,Spain,8
-102,Bea Oppici,Semi-Finals,Brazil,2,2,Argentina,0
+102,Bea Oppici,Semi-Finals,Brazil,2,2,Argentina,8
 103,Bea Oppici,Semi-Finals,France,2,1,Brazil,0
 104,Bea Oppici,Semi-Finals,Spain,3,2,Argentina,0
 105,Bea Oppici,Final,France,2,1,Brazil,0
@@ -625,7 +625,7 @@
 99,Coe,Quarterfinals,Brazil,1,0,England,0
 100,Coe,Quarterfinals,Argentina,3,1,Portugal,0
 101,Coe,Semi-Finals,France,1,2,Spain,8
-102,Coe,Semi-Finals,Brazil,1,2,Argentina,0
+102,Coe,Semi-Finals,Brazil,1,2,Argentina,8
 103,Coe,Semi-Finals,Spain,2,1,Argentina,0
 104,Coe,Semi-Finals,France,2,1,Brazil,0
 105,Coe,Final,Spain,2,1,Argentina,0
@@ -1150,7 +1150,7 @@
 99,Coque Lahera,Quarterfinals,Brazil,1,0,Mexico,0
 100,Coque Lahera,Quarterfinals,Argentina,1,0,Portugal,0
 101,Coque Lahera,Semi-Finals,Germany,0,1,Spain,8
-102,Coque Lahera,Semi-Finals,Brazil,0,1,Argentina,0
+102,Coque Lahera,Semi-Finals,Brazil,0,1,Argentina,8
 103,Coque Lahera,Semi-Finals,Spain,1,0,Argentina,0
 104,Coque Lahera,Semi-Finals,Germany,0,1,Brazil,0
 105,Coque Lahera,Final,Spain,1,0,Argentina,0
@@ -1360,7 +1360,7 @@
 99,Vanessa,Quarterfinals,Norway,2,3,Croatia,0
 100,Vanessa,Quarterfinals,Argentina,3,1,Colombia,0
 101,Vanessa,Semi-Finals,Brazil,1,1,Spain,8
-102,Vanessa,Semi-Finals,Croatia,0,0,Argentina,0
+102,Vanessa,Semi-Finals,Croatia,0,0,Argentina,8
 103,Vanessa,Semi-Finals,Spain,1,1,Argentina,0
 104,Vanessa,Semi-Finals,Brazil,3,1,Croatia,0
 105,Vanessa,Final,Spain,1,1,Argentina,0
@@ -1465,7 +1465,7 @@
 99,Kike Basusaga,Quarterfinals,Brazil,2,2,Mexico,0
 100,Kike Basusaga,Quarterfinals,Argentina,3,1,Portugal,0
 101,Kike Basusaga,Semi-Finals,Germany,1,2,Spain,8
-102,Kike Basusaga,Semi-Finals,Brazil,2,3,Argentina,0
+102,Kike Basusaga,Semi-Finals,Brazil,2,3,Argentina,8
 103,Kike Basusaga,Semi-Finals,Spain,3,2,Argentina,0
 104,Kike Basusaga,Semi-Finals,Germany,2,2,Brazil,0
 105,Kike Basusaga,Final,Spain,3,2,Argentina,0
@@ -1780,7 +1780,7 @@
 99,Pedro Lahera,Quarterfinals,Japan,0,1,Mexico,0
 100,Pedro Lahera,Quarterfinals,Argentina,1,0,Portugal,0
 101,Pedro Lahera,Semi-Finals,France,0,1,Spain,8
-102,Pedro Lahera,Semi-Finals,Mexico,0,1,Argentina,0
+102,Pedro Lahera,Semi-Finals,Mexico,0,1,Argentina,8
 103,Pedro Lahera,Semi-Finals,Spain,1,0,Argentina,0
 104,Pedro Lahera,Semi-Finals,France,1,0,Mexico,0
 105,Pedro Lahera,Final,Spain,1,0,Argentina,0
@@ -2200,7 +2200,7 @@
 99,Steven Nucera,Quarterfinals,Brazil,0,1,England,0
 100,Steven Nucera,Quarterfinals,Argentina,1,0,Switzerland,0
 101,Steven Nucera,Semi-Finals,France,1,0,Spain,0
-102,Steven Nucera,Semi-Finals,England,0,1,Argentina,0
+102,Steven Nucera,Semi-Finals,England,0,1,Argentina,8
 103,Steven Nucera,Semi-Finals,France,1,0,Argentina,0
 104,Steven Nucera,Semi-Finals,Spain,1,0,England,0
 105,Steven Nucera,Final,France,1,0,Argentina,0
@@ -2616,7 +2616,7 @@
 99,Alberto Crespo,Quarterfinals,Brazil,2,2,England,0
 100,Alberto Crespo,Quarterfinals,Argentina,2,1,Portugal,0
 101,Alberto Crespo,Semi-Finals,France,2,2,Spain,8
-102,Alberto Crespo,Semi-Finals,Brazil,0,2,Argentina,0
+102,Alberto Crespo,Semi-Finals,Brazil,0,2,Argentina,8
 103,Alberto Crespo,Semi-Finals,Spain,2,2,Argentina,0
 104,Alberto Crespo,Semi-Finals,France,3,1,Brazil,0
 105,Alberto Crespo,Final,Spain,2,2,Argentina,0
@@ -2721,7 +2721,7 @@
 99,Pablo López,Quarterfinals,Brazil,1,0,England,0
 100,Pablo López,Quarterfinals,Argentina,1,0,Portugal,0
 101,Pablo López,Semi-Finals,France,0,1,Spain,8
-102,Pablo López,Semi-Finals,Brazil,0,1,Argentina,0
+102,Pablo López,Semi-Finals,Brazil,0,1,Argentina,8
 103,Pablo López,Semi-Finals,Spain,1,0,Argentina,0
 104,Pablo López,Semi-Finals,France,,,Brazil,0
 105,Pablo López,Final,Spain,1,0,Argentina,0
@@ -3036,7 +3036,7 @@
 99,Javier Tomé,Quarterfinals,Brazil,2,2,England,0
 100,Javier Tomé,Quarterfinals,Argentina,2,1,Portugal,0
 101,Javier Tomé,Semi-Finals,France,1,3,Spain,8
-102,Javier Tomé,Semi-Finals,England,1,2,Argentina,0
+102,Javier Tomé,Semi-Finals,England,1,2,Argentina,8
 103,Javier Tomé,Semi-Finals,Spain,1,1,Argentina,0
 104,Javier Tomé,Semi-Finals,France,2,2,England,0
 105,Javier Tomé,Final,Spain,1,1,Argentina,0
@@ -3141,7 +3141,7 @@
 99,Stephen Lemke,Quarterfinals,Brazil,3,1,South Africa,0
 100,Stephen Lemke,Quarterfinals,Argentina,2,1,Switzerland,0
 101,Stephen Lemke,Semi-Finals,France,3,1,Spain,0
-102,Stephen Lemke,Semi-Finals,Brazil,0,2,Argentina,0
+102,Stephen Lemke,Semi-Finals,Brazil,0,2,Argentina,8
 103,Stephen Lemke,Semi-Finals,France,2,1,Argentina,0
 104,Stephen Lemke,Semi-Finals,Spain,3,4,Brazil,0
 105,Stephen Lemke,Final,France,2,1,Argentina,0
@@ -3246,7 +3246,7 @@
 99,César Heredero,Quarterfinals,Brazil,0,1,England,0
 100,César Heredero,Quarterfinals,Argentina,1,0,Portugal,0
 101,César Heredero,Semi-Finals,France,1,0,Spain,0
-102,César Heredero,Semi-Finals,England,0,1,Argentina,0
+102,César Heredero,Semi-Finals,England,0,1,Argentina,8
 103,César Heredero,Semi-Finals,France,1,0,Argentina,0
 104,César Heredero,Semi-Finals,Spain,1,0,England,0
 105,César Heredero,Final,France,1,0,Argentina,0
@@ -3351,7 +3351,7 @@
 99,Yisus,Quarterfinals,Brazil,1,0,England,0
 100,Yisus,Quarterfinals,Argentina,1,0,Portugal,0
 101,Yisus,Semi-Finals,France,0,1,Spain,8
-102,Yisus,Semi-Finals,Brazil,0,1,Argentina,0
+102,Yisus,Semi-Finals,Brazil,0,1,Argentina,8
 103,Yisus,Semi-Finals,Spain,1,0,Argentina,0
 104,Yisus,Semi-Finals,France,1,0,Brazil,0
 105,Yisus,Final,Spain,1,0,Argentina,0
@@ -3666,7 +3666,7 @@
 99,Adrián Fumero,Quarterfinals,Brazil,1,0,England,0
 100,Adrián Fumero,Quarterfinals,Argentina,1,0,Portugal,0
 101,Adrián Fumero,Semi-Finals,France,0,1,Spain,8
-102,Adrián Fumero,Semi-Finals,Brazil,0,1,Argentina,0
+102,Adrián Fumero,Semi-Finals,Brazil,0,1,Argentina,8
 103,Adrián Fumero,Semi-Finals,Spain,1,0,Argentina,0
 104,Adrián Fumero,Semi-Finals,France,1,0,Brazil,0
 105,Adrián Fumero,Final,Spain,1,0,Argentina,0
@@ -4191,7 +4191,7 @@
 99,Miguel Egea,Quarterfinals,Norway,0,1,England,0
 100,Miguel Egea,Quarterfinals,Argentina,1,0,Portugal,0
 101,Miguel Egea,Semi-Finals,France,0,1,Spain,8
-102,Miguel Egea,Semi-Finals,England,0,1,Argentina,0
+102,Miguel Egea,Semi-Finals,England,0,1,Argentina,8
 103,Miguel Egea,Semi-Finals,Spain,0,1,Argentina,0
 104,Miguel Egea,Semi-Finals,France,,,England,0
 105,Miguel Egea,Final,Spain,0,1,Argentina,0
@@ -4506,7 +4506,7 @@
 99,DG Soto,Quarterfinals,Brazil,2,1,England,0
 100,DG Soto,Quarterfinals,Argentina,2,2,Portugal,0
 101,DG Soto,Semi-Finals,France,2,2,Uruguay,0
-102,DG Soto,Semi-Finals,Brazil,1,2,Argentina,0
+102,DG Soto,Semi-Finals,Brazil,1,2,Argentina,8
 103,DG Soto,Semi-Finals,Uruguay,1,2,Argentina,0
 104,DG Soto,Semi-Finals,France,2,2,Brazil,0
 105,DG Soto,Final,Uruguay,1,2,Argentina,0
@@ -4716,7 +4716,7 @@
 99,David López,Quarterfinals,Brazil,1,0,Mexico,0
 100,David López,Quarterfinals,Argentina,1,0,Portugal,0
 101,David López,Semi-Finals,France,0,1,Spain,8
-102,David López,Semi-Finals,Brazil,0,1,Argentina,0
+102,David López,Semi-Finals,Brazil,0,1,Argentina,8
 103,David López,Semi-Finals,Spain,1,0,Argentina,0
 104,David López,Semi-Finals,France,0,1,Brazil,0
 105,David López,Final,Spain,1,0,Argentina,0
@@ -4821,7 +4821,7 @@
 99,Diego López,Quarterfinals,Morocco,0,1,England,0
 100,Diego López,Quarterfinals,Argentina,1,0,Iran,0
 101,Diego López,Semi-Finals,France,0,1,Spain,8
-102,Diego López,Semi-Finals,England,0,1,Argentina,0
+102,Diego López,Semi-Finals,England,0,1,Argentina,8
 103,Diego López,Semi-Finals,Spain,1,0,Argentina,0
 104,Diego López,Semi-Finals,France,1,0,England,0
 105,Diego López,Final,Spain,1,0,Argentina,0
@@ -5766,7 +5766,7 @@
 99,Roberto Molina,Quarterfinals,Brazil,1,0,England,0
 100,Roberto Molina,Quarterfinals,Argentina,1,0,Portugal,0
 101,Roberto Molina,Semi-Finals,France,1,0,Spain,0
-102,Roberto Molina,Semi-Finals,Brazil,0,1,Argentina,0
+102,Roberto Molina,Semi-Finals,Brazil,0,1,Argentina,8
 103,Roberto Molina,Semi-Finals,France,1,0,Argentina,0
 104,Roberto Molina,Semi-Finals,Spain,1,0,Brazil,0
 105,Roberto Molina,Final,France,1,0,Argentina,0
@@ -6186,7 +6186,7 @@
 99,Iban,Quarterfinals,Brazil,2,1,England,0
 100,Iban,Quarterfinals,Argentina,1,1,Portugal,0
 101,Iban,Semi-Finals,France,1,2,Spain,8
-102,Iban,Semi-Finals,Brazil,1,2,Argentina,0
+102,Iban,Semi-Finals,Brazil,1,2,Argentina,8
 103,Iban,Semi-Finals,Spain,2,1,Argentina,0
 104,Iban,Semi-Finals,France,2,1,Brazil,0
 105,Iban,Final,Spain,2,1,Argentina,0
@@ -8076,7 +8076,7 @@
 99,Tanit,Quarterfinals,Brazil,2,1,Croatia,0
 100,Tanit,Quarterfinals,Argentina,1,0,Colombia,0
 101,Tanit,Semi-Finals,France,0,1,Spain,8
-102,Tanit,Semi-Finals,Brazil,0,1,Argentina,0
+102,Tanit,Semi-Finals,Brazil,0,1,Argentina,8
 103,Tanit,Semi-Finals,Spain,1,0,Argentina,0
 104,Tanit,Semi-Finals,France,1,0,Brazil,0
 105,Tanit,Final,Spain,1,0,Argentina,0
@@ -8391,7 +8391,7 @@
 99,Luismi Fernández,Quarterfinals,Brazil,0,1,England,0
 100,Luismi Fernández,Quarterfinals,Argentina,1,0,Portugal,0
 101,Luismi Fernández,Semi-Finals,Germany,0,1,Spain,8
-102,Luismi Fernández,Semi-Finals,England,0,1,Argentina,0
+102,Luismi Fernández,Semi-Finals,England,0,1,Argentina,8
 103,Luismi Fernández,Semi-Finals,Spain,1,0,Argentina,0
 104,Luismi Fernández,Semi-Finals,Germany,0,1,England,0
 105,Luismi Fernández,Final,Spain,1,0,Argentina,0
@@ -8706,7 +8706,7 @@
 99,Gonzalo Bravo,Quarterfinals,Brazil,0,1,England,0
 100,Gonzalo Bravo,Quarterfinals,Argentina,1,0,Portugal,0
 101,Gonzalo Bravo,Semi-Finals,France,0,1,Spain,8
-102,Gonzalo Bravo,Semi-Finals,England,0,1,Argentina,0
+102,Gonzalo Bravo,Semi-Finals,England,0,1,Argentina,8
 103,Gonzalo Bravo,Semi-Finals,Spain,1,0,Argentina,0
 104,Gonzalo Bravo,Semi-Finals,France,,,England,0
 105,Gonzalo Bravo,Final,Spain,1,0,Argentina,0
@@ -9126,7 +9126,7 @@
 99,Guillermo Burdiel,Quarterfinals,Norway,1,3,England,0
 100,Guillermo Burdiel,Quarterfinals,Argentina,3,2,Portugal,0
 101,Guillermo Burdiel,Semi-Finals,France,1,2,Spain,8
-102,Guillermo Burdiel,Semi-Finals,England,1,2,Argentina,0
+102,Guillermo Burdiel,Semi-Finals,England,1,2,Argentina,8
 103,Guillermo Burdiel,Semi-Finals,Spain,2,0,Argentina,0
 104,Guillermo Burdiel,Semi-Finals,France,1,0,England,0
 105,Guillermo Burdiel,Final,Spain,2,0,Argentina,0
@@ -9651,7 +9651,7 @@
 99,Tío Javi,Quarterfinals,Brazil,1,0,Mexico,0
 100,Tío Javi,Quarterfinals,Argentina,1,0,Portugal,0
 101,Tío Javi,Semi-Finals,France,0,1,Spain,8
-102,Tío Javi,Semi-Finals,Brazil,1,2,Argentina,0
+102,Tío Javi,Semi-Finals,Brazil,1,2,Argentina,8
 103,Tío Javi,Semi-Finals,Spain,2,0,Argentina,0
 104,Tío Javi,Semi-Finals,France,1,0,Brazil,0
 105,Tío Javi,Final,Spain,2,0,Argentina,0
@@ -9966,7 +9966,7 @@
 99,Natalia,Quarterfinals,Brazil,1,1,England,0
 100,Natalia,Quarterfinals,Argentina,1,0,Portugal,0
 101,Natalia,Semi-Finals,France,0,0,Spain,8
-102,Natalia,Semi-Finals,England,1,1,Argentina,0
+102,Natalia,Semi-Finals,England,1,1,Argentina,8
 103,Natalia,Semi-Finals,France,1,1,Argentina,0
 104,Natalia,Semi-Finals,Spain,1,0,England,0
 105,Natalia,Final,France,1,1,Argentina,0
@@ -10806,7 +10806,7 @@
 99,Fernando Bravo,Quarterfinals,Brazil,2,2,England,0
 100,Fernando Bravo,Quarterfinals,Argentina,1,0,Portugal,0
 101,Fernando Bravo,Semi-Finals,France,3,1,Spain,0
-102,Fernando Bravo,Semi-Finals,Brazil,2,2,Argentina,0
+102,Fernando Bravo,Semi-Finals,Brazil,2,2,Argentina,8
 103,Fernando Bravo,Semi-Finals,France,1,2,Argentina,0
 104,Fernando Bravo,Semi-Finals,Spain,2,1,Brazil,0
 105,Fernando Bravo,Final,France,1,2,Argentina,0
@@ -11226,7 +11226,7 @@
 99,Félix Burgos,Quarterfinals,Brazil,1,0,England,0
 100,Félix Burgos,Quarterfinals,Argentina,1,0,Portugal,0
 101,Félix Burgos,Semi-Finals,France,1,0,Spain,0
-102,Félix Burgos,Semi-Finals,Brazil,0,1,Argentina,0
+102,Félix Burgos,Semi-Finals,Brazil,0,1,Argentina,8
 103,Félix Burgos,Semi-Finals,France,1,0,Argentina,0
 104,Félix Burgos,Semi-Finals,Spain,1,0,Brazil,0
 105,Félix Burgos,Final,France,1,0,Argentina,0
@@ -11436,7 +11436,7 @@
 99,Jorge Antona,Quarterfinals,Japan,1,2,England,0
 100,Jorge Antona,Quarterfinals,Argentina,3,1,Portugal,0
 101,Jorge Antona,Semi-Finals,France,1,2,Spain,8
-102,Jorge Antona,Semi-Finals,England,1,1,Argentina,0
+102,Jorge Antona,Semi-Finals,England,1,1,Argentina,8
 103,Jorge Antona,Semi-Finals,Spain,2,1,Argentina,0
 104,Jorge Antona,Semi-Finals,France,4,2,England,0
 105,Jorge Antona,Final,Spain,2,1,Argentina,0
@@ -11541,7 +11541,7 @@
 99,Álvaro Antona,Quarterfinals,Netherlands,1,2,England,0
 100,Álvaro Antona,Quarterfinals,Argentina,3,3,Portugal,0
 101,Álvaro Antona,Semi-Finals,France,3,4,Spain,8
-102,Álvaro Antona,Semi-Finals,England,1,1,Argentina,0
+102,Álvaro Antona,Semi-Finals,England,1,1,Argentina,8
 103,Álvaro Antona,Semi-Finals,Spain,2,1,Argentina,0
 104,Álvaro Antona,Semi-Finals,France,4,2,England,0
 105,Álvaro Antona,Final,Spain,2,1,Argentina,0
@@ -11944,7 +11944,7 @@
 99,José Luis Martín,Quarterfinals,Brazil,2,1,England,0
 100,José Luis Martín,Quarterfinals,Argentina,2,0,Portugal,0
 101,José Luis Martín,Semi-Finals,France,0,2,Spain,8
-102,José Luis Martín,Semi-Finals,Brazil,0,1,Argentina,0
+102,José Luis Martín,Semi-Finals,Brazil,0,1,Argentina,8
 103,José Luis Martín,Semi-Finals,Spain,1,0,Argentina,0
 104,José Luis Martín,Semi-Finals,France,1,0,Brazil,0
 105,José Luis Martín,Final,Spain,1,0,Argentina,0
